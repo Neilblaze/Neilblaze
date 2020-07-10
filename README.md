@@ -26,7 +26,7 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 - Dev: [Neilblaze](https://dev.to/neilblaze)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Neilblaze/gridsome/master/assets/I%20love%20OSS.png">
+  <img src="https://raw.githubusercontent.com/Neilblaze/gridsome/master/assets/I%20love%20OSSs.png">
   <br>
 
 Regarding any issues, feel free to drop a mail at - neilblaze007@gmail.com 
