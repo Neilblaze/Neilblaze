@@ -2,7 +2,7 @@
   <img src="https://media0.giphy.com/media/NMCpTBlTEYbCw/source.gif" width="50px">
   <br>
 
-# Neilblaze | Pratyay Banerjee [![HitCount](http://hits.dwyl.com/Neilblaze/Neilblaze.svg)](http://hits.dwyl.com/Neilblaze/Neilblaze)
+# Neilblaze | Pratyay Banerjee
 Hi 👋, I'm Pratyay. I am a passionate software developer trying to build solutions to the world’s problems. I am a spohomore in Electronics and Communication Engineering. Deeply passionate about web, OSS and tech in general. Whether that be through creating neural networks or building web applications, all my work is focused on one thing: impact. When I'm not coding, you can find me sketching, doing CP, or playing soccer! The love for new skills and desire to create something which can directly influence people, keeps me interested. 🚀
 
 - 🔭 I’m currently working on React ~ Nuxt projects
@@ -32,4 +32,4 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 </p>
 
 Regarding any issues, feel free to drop a mail at - neilblaze007@gmail.com 
-[![HitCount](http://hits.dwyl.com/Neilblaze/Neilblaze.svg)](http://hits.dwyl.com/Neilblaze/Neilblaze)
+<br>[![HitCount](http://hits.dwyl.com/Neilblaze/Neilblaze.svg)](http://hits.dwyl.com/Neilblaze/Neilblaze)
