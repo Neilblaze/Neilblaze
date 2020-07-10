@@ -31,4 +31,4 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 <a href="https://www.instagram.com/neilz_xd/"><img height="30" src="https://raw.githubusercontent.com/Neilblaze/SVG-store/6f169f49e23fce2d743e3a3c43355e477fd8b2cb/icon8/icons8-instagram.svg"></a>
 </p>
 
-Regarding any issues, feel free to drop a mail at - neilblaze007@gmail.com 
+Regarding any issues, feel free to drop a mail at - neilblaze007@gmail.com [![HitCount](http://hits.dwyl.com/Neilblaze/Neilblaze.svg)](http://hits.dwyl.com/Neilblaze/Neilblaze)
