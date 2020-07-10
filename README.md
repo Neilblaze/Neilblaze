@@ -25,4 +25,8 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 - Steam: [NeilzxD](https://steamcommunity.com/id/NeilzxD)
 - Dev: [Neilblaze](https://dev.to/neilblaze)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Neilblaze/gridsome/master/assets/I%20love%20OSS.png">
+  <br>
+
 Regarding any issues, feel free to drop a mail at - neilblaze007@gmail.com 
