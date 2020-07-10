@@ -28,7 +28,7 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 <a href="https://www.reddit.com/user/Neilblaze"><img height="30" src="https://raw.githubusercontent.com/Neilblaze/SVG-store/6f169f49e23fce2d743e3a3c43355e477fd8b2cb/icon8/icons8-reddit.svg"></a>&nbsp;&nbsp;
 <a href="https://steamcommunity.com/id/NeilzxD"><img height="30" src="https://raw.githubusercontent.com/Neilblaze/SVG-store/6f169f49e23fce2d743e3a3c43355e477fd8b2cb/icon8/icons8-steam.svg"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/Neilzblaze"><img height="30" src="https://raw.githubusercontent.com/Neilblaze/SVG-store/6f169f49e23fce2d743e3a3c43355e477fd8b2cb/icon8/icons8-facebook.svg"></a>&nbsp;&nbsp;
-<a href="https://gitlab.com/Neilblaze"><img height="30" src="https://raw.githubusercontent.com/Neilblaze/SVG-store/6f169f49e23fce2d743e3a3c43355e477fd8b2cb/icon8/icons8-gitlab.svg"></a>
+<a href="instagram.com/neilz_xd/"><img height="30" src="https://raw.githubusercontent.com/Neilblaze/SVG-store/6f169f49e23fce2d743e3a3c43355e477fd8b2cb/icon8/icons8-instagram.svg"></a>
 </p>
 
 Regarding any issues, feel free to drop a mail at - neilblaze007@gmail.com 
