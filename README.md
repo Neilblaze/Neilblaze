@@ -23,11 +23,16 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
   <br>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/x3nosiz/)](https://www.linkedin.com/in/x3nosiz/){ width="800" height="600" style="display: block; margin: 0 auto" }
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/x3nosiz/?style=centerme)](https://www.linkedin.com/in/x3nosiz/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Neilblaze007)](https://twitter.com/Neilblaze007)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/neilblaze)](https://t.me/neilblaze)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neilblaze007@gmail.com)](mailto:neilblaze007@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/Neilzblaze)](https://www.facebook.com/Neilzblaze)
 [![Steam Badge](https://img.shields.io/badge/-Steam-black?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/NeilzxD)](https://steamcommunity.com/id/NeilzxD)
+
+img[src$="centerme"] {
+  display:block;
+  margin: 0 auto;
+}
 
 Regarding any issues, feel free to drop a mail at - neilblaze007@gmail.com 
