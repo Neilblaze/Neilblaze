@@ -22,17 +22,13 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
   <img src="https://raw.githubusercontent.com/Neilblaze/gridsome/master/assets/I%20love%20OSSs.png">
   <br>
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/x3nosiz/?style=centerme)](https://www.linkedin.com/in/x3nosiz/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Neilblaze007)](https://twitter.com/Neilblaze007)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/neilblaze)](https://t.me/neilblaze)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neilblaze007@gmail.com)](mailto:neilblaze007@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/Neilzblaze)](https://www.facebook.com/Neilzblaze)
-[![Steam Badge](https://img.shields.io/badge/-Steam-black?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/NeilzxD)](https://steamcommunity.com/id/NeilzxD)
-
-img[src$="centerme"] {
-  display:block;
-  margin: 0 auto;
-}
+<p align='center'>
+<a href="https://twitter.com/Neilzblaze007"><img height="30" src="https://raw.githubusercontent.com/Neilblaze/SVG-store/6f169f49e23fce2d743e3a3c43355e477fd8b2cb/icon8/icons8-twitter.svg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/x3nosiz/"><img height="30" src="https://raw.githubusercontent.com/Neilblaze/SVG-store/6f169f49e23fce2d743e3a3c43355e477fd8b2cb/icon8/icons8-linkedin.svg"></a>&nbsp;&nbsp;
+<a href="https://www.reddit.com/user/Neilblaze"><img height="30" src="https://raw.githubusercontent.com/Neilblaze/SVG-store/6f169f49e23fce2d743e3a3c43355e477fd8b2cb/icon8/icons8-reddit.svg"></a>&nbsp;&nbsp;
+<a href="https://steamcommunity.com/id/NeilzxD"><img height="30" src="https://raw.githubusercontent.com/Neilblaze/SVG-store/6f169f49e23fce2d743e3a3c43355e477fd8b2cb/icon8/icons8-steam.svg"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/Neilzblaze"><img height="30" src="https://raw.githubusercontent.com/Neilblaze/SVG-store/6f169f49e23fce2d743e3a3c43355e477fd8b2cb/icon8/icons8-facebook.svg"></a>&nbsp;&nbsp;
+<a href="https://gitlab.com/Neilblaze"><img height="30" src="https://raw.githubusercontent.com/Neilblaze/SVG-store/6f169f49e23fce2d743e3a3c43355e477fd8b2cb/icon8/icons8-gitlab.svg"></a>
+</p>
 
 Regarding any issues, feel free to drop a mail at - neilblaze007@gmail.com 
