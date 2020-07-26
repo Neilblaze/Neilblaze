@@ -10,7 +10,7 @@ Hi 👋, I'm Pratyay. I am a passionate software developer trying to build solut
 - 🌱 I’m currently learning GraphQL
 - 👨 I’m looking to collaborate on Projects and Hackathons
 - 🤔 I’m looking for help with Open Source and CP
-- 💬 Ask me about anything
+- 💬 Ask me about anything [here](https://github.com/Neilblaze/Neilblaze/issues)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am a quizzer & Rubik's lover :D
 - 🏃 Hobbies: Skectching and playing CSGO 🎮
