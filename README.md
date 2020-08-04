@@ -7,7 +7,7 @@ Hi 👋, I'm Pratyay. I am a passionate software developer trying to build solut
 
 - 🔭 I’m currently working on my Blog site
 - 👨‍💻 Competitive programming: [Codechef](https://www.codechef.com/users/zack_007) | [Hackerrank](https://www.hackerrank.com/N3ilz_BL4Z3)  
-- 🌱 I’m currently learning GraphQL
+- 🌱 I’m currently learning RoR & GraphQL
 - 👨 I’m looking to collaborate on Projects and Hackathons
 - 🤔 I’m looking for help with Open Source and CP
 - 💬 Ask me about anything [here](https://github.com/Neilblaze/Neilblaze/issues)
