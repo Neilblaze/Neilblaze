@@ -19,7 +19,7 @@ Hi 👋, I'm Pratyay. I am a passionate software developer trying to build solut
 My motivations are to stabilize and provide clarity through curiosity. That tends to manifest as creating (hopefully) just enough process. Checklists are my absolute favorite. ✅ If I'm too much in my head, feel free to nudge me to share what's in my brain. 🧠
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Neilblaze/gridsome/master/assets/I%20love%20OSSs.png">
+  <img src="https://raw.githubusercontent.com/Git-Tutor/FE-WEB-DEV-Interview-Questions/master/src/assets/images/I%20love%20OSSs.png">
   <br>
 
 <p align='center'>
