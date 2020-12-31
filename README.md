@@ -5,7 +5,7 @@
 
 # Hi, I'm Pratyay <img src="https://raw.githubusercontent.com/Neilblaze/vault-0.1/master/Funny%20gif's/Hi.gif" width="30px">
 Welcome to my favourite place! I am a passionate software developer trying to build solutions to the world’s problems. I am a Electronics and Communication Engineering undergrad. Deeply passionate about web, OSS and tech in general. Whether that be through creating neural networks or building web applications, all my work is focused on one thing: impact. When I'm not coding, you can find me sketching, doing CP, or playing soccer! The love for new skills and desire to create something which can directly influence people, keeps me interested. 🚀
-<img align='right' src='https://raw.githubusercontent.com/Neilblaze/vault-0.1/master/Goku%20jr/Goku.png' width='280"'>
+<img align='right' src='https://raw.githubusercontent.com/Neilblaze/vault-0.1/master/Goku%20jr/Goku.png' width='300"'>
 
 - 🔭 I’m currently working on my Blog site
 - 👨‍💻 Competitive programming: [Codechef](https://www.codechef.com/users/zack_007) | [Hackerrank](https://www.hackerrank.com/N3ilz_BL4Z3)  
@@ -16,10 +16,6 @@ Welcome to my favourite place! I am a passionate software developer trying to bu
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am a quizzer & Rubik's lover :D
 - 🏃 Hobbies: Skectching and playing CSGO 🎮
-
-<p align="center">
-  <img src="https://media0.giphy.com/media/NMCpTBlTEYbCw/source.gif" width="50px">
-  <br>
 
 <details><summary>I served as Mentor in some of the Org's ⏬</summary>
 <p>
@@ -46,6 +42,10 @@ Welcome to my favourite place! I am a passionate software developer trying to bu
 
 </p>
 </details>
+
+<p align="center">
+  <img src="https://media0.giphy.com/media/NMCpTBlTEYbCw/source.gif" width="50px">
+  <br>
 
 ## How I work
 My motivations are to stabilize and provide clarity through curiosity. That tends to manifest as creating (hopefully) just enough process. Checklists are my absolute favorite. ✅ If I'm too much in my head, feel free to nudge me to share what's in my brain. 🧠
