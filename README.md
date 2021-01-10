@@ -5,7 +5,7 @@
 
 # Hi, I'm Pratyay <img src="https://raw.githubusercontent.com/Neilblaze/vault-0.1/master/Funny%20gif's/Hi.gif" width="30px">
 Welcome to my favourite place! I am a passionate software developer trying to build solutions to the world’s problems. I am a Electronics and Communication Engineering undergrad. Deeply passionate about web, OSS and tech in general. Whether that be through creating neural networks or building web applications, all my work is focused on one thing: impact. When I'm not coding, you can find me sketching, doing CP, or playing soccer! The love for new skills and desire to create something which can directly influence people, keeps me interested. 🚀
-<img align='right' src='https://raw.githubusercontent.com/Neilblaze/vault-0.1/master/accessories/neilblaze-tech.png' width='215"'>
+<img align='right' src='https://raw.githubusercontent.com/Neilblaze/vault-0.1/master/accessories/neilblaze-tech.png' width='205"'>
 
 - 🔭 I’m currently working on my Blog site
 - 👨‍💻 Competitive programming: [Codechef](https://www.codechef.com/users/zack_007) | [Hackerrank](https://www.hackerrank.com/N3ilz_BL4Z3)  
