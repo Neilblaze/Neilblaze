@@ -64,4 +64,5 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 </p>
 
 Regarding any issues, feel free to drop a mail at - neilblaze007@gmail.com 
-<br><br>[![HitCount](http://hits.dwyl.com/Neilblaze/Neilblaze.svg)](http://hits.dwyl.com/Neilblaze/Neilblaze)
+<br><br>![Neilblaze](https://komarev.com/ghpvc/?username=Neilblaze&label=PROFILE+VIEWS)
+
