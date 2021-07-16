@@ -62,7 +62,12 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 <a href="https://www.facebook.com/Neilzblaze"><img height="30" src="https://raw.githubusercontent.com/Neilblaze/SVG-store/6f169f49e23fce2d743e3a3c43355e477fd8b2cb/icon8/icons8-facebook.svg"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/neilz_xd/"><img height="30" src="https://raw.githubusercontent.com/Neilblaze/SVG-store/6f169f49e23fce2d743e3a3c43355e477fd8b2cb/icon8/icons8-instagram.svg"></a>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Neilblaze&label=PROFILE+VIEWS">
+</p> 
 
-Regarding any issues, feel free to drop a mail at - neilblaze007@gmail.com 
-<br><br>![Neilblaze](https://komarev.com/ghpvc/?username=Neilblaze&label=PROFILE+VIEWS)
-
+<br>
+<p align="center">
+  <img src="./footer-kol.png">
+</p>  <br>
+Regarding any issues, feel free to drop a mail at - neilblaze007@gmail.com &nbsp; 
