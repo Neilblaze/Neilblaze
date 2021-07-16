@@ -69,5 +69,7 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 <br>
 <p align="center">
   <img src="./footer-kol.png">
-</p>  <br>
-Regarding any issues, feel free to drop a mail at - neilblaze007@gmail.com &nbsp; 
+</p>  
+<br>
+
+Regarding any issues, feel free to drop a mail at — neilblaze007@gmail.com
