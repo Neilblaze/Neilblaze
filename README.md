@@ -20,6 +20,12 @@ Welcome to my favourite place! I am a passionate Developer trying to build solut
 
 ---
 
+<div>
+<br/>
+<img align="right" style="padding-top: 7px;" src="https://github-readme-streak-stats.herokuapp.com?user=Neilblaze&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=5326DD&fire=DD2727&ring=242EDD" alt="Neilblaze's GitHub Stats" width="405" />  
+
+
+<p align="left">
 <details><summary> 🟢 I served as Mentor in some of the Org's ⏬</summary>
 <p>
 
@@ -28,6 +34,16 @@ Welcome to my favourite place! I am a passionate Developer trying to build solut
 - [NJACK Winter of Code 2020](http://njackwinterofcode.github.io)
 - [DSC NSEC Winter of Code 2020](https://winterofcode.com)
 - Script Winter of Code ([SWOC](http://swoc.tech)) 2020
+
+
+💡 **Fun Fact** : I've mentored over ***2.5K+*** students across the globe by mentoring in few International Hackathons, for e.g. :- 
+
+- [Hack the North 2020++](https://hackthenorth.com)
+- [SunHacks 2020](https://sunhacks.io/)
+- [nwHacks 2021](https://www.nwhacks.io/)
+- [Hack the NorthEast 2021](https://hackthenortheast.com/)
+- [SacHacks 2021](https://sachacks.io/)
+- [TartanHacks 2021](https://www.tartanhacks.com/)
 
 </p>
 </details>
@@ -43,17 +59,9 @@ Welcome to my favourite place! I am a passionate Developer trying to build solut
 - [Fossasia](https://fossasia.org)
 - [Anitab-Org](https://anitab.org)
 
-💡 **Fun Fact** : I've mentored over ***2.5K+*** students across the globe by mentoring in few International Hackathons, for e.g. :- 
-
-- [Hack the North 2020++](https://hackthenorth.com)
-- [SunHacks 2020](https://sunhacks.io/)
-- [nwHacks 2021](https://www.nwhacks.io/)
-- [Hack the NorthEast 2021](https://hackthenortheast.com/)
-- [SacHacks 2021](https://sachacks.io/)
-- [TartanHacks 2021](https://www.tartanhacks.com/)
-
 </p>
 </details>
+
 
 
 <details><summary> 🔵 International Hackathons that I've Won ⏬</summary> 
@@ -104,6 +112,8 @@ TODO :-
 
 </p>
 </details>
+</p>
+</div>
 
 <p align="center">
   <img src="https://media0.giphy.com/media/NMCpTBlTEYbCw/source.gif" width="50px">
