@@ -22,7 +22,7 @@ Welcome to my favourite place! I am a passionate Developer trying to build solut
 
 <div>
 <br/>
-<img align="right" style="padding-top: 7px;" src="https://github-readme-streak-stats.herokuapp.com?user=Neilblaze&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=5326DD&fire=DD2727&ring=242EDD" alt="Neilblaze's GitHub Stats" width="405" />  
+<img align="right" style="padding-top: 7px;" src="https://github-readme-streak-stats.herokuapp.com?user=Neilblaze&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=5326DD&fire=DD2727&ring=242EDD" alt="Neilblaze's GitHub Stats" width="355" />  
 
 
 <p align="left">
