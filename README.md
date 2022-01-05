@@ -18,7 +18,9 @@ Welcome to my favourite place! I am a passionate Developer trying to build solut
 - 🏃 Hobbies: Skectching and playing CSGO 🎮
 - ✈️ I've been to **Three** countries!
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/48355572/148248804-ac54fabf-fa17-45c4-90e8-0bc26a9a7f30.png">
+</p>
 
 <div>
 <br/>
