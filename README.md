@@ -74,6 +74,8 @@ Welcome to my favourite place! I am a passionate Developer trying to build solut
 - [KrishAI](https://devpost.com/software/krishai-htkagf) — **Hoya Hacks**, GeorgeTown University
 - [Ambuplus+](https://devpost.com/software/ambuplus) — **uOttaHack 4**, University of Ottawa
 - [ZenTube](https://devpost.com/software/zentube) — **MetroHacks**, ACP
+- [Ziro](https://devpost.com/software/ziro) — **Hacktech'22**, Caltech
+- [Parampower](https://devpost.com/software/parampower) — **HackNYU'22**, New York University
 - [Pronounce](https://devpost.com/software/pronounce) — **Hack BU**, Binghamton University
 - [RentEasy](https://devpost.com/software/renteasy) — **Cal Hacks 8.0**, UC Berkeley
 
