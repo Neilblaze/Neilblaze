@@ -3,7 +3,7 @@
   <br>
 
 
-# Hi, I'm Pratyay <img src="https://raw.githubusercontent.com/Neilblaze/vault-0.1/master/Funny%20gif's/Hi.gif" width="30px">
+# Hi, I'm Pratyay <img src="https://raw.githubusercontent.com/Neilblaze/vault-0.1/master/Funny%20gif's/Hi.gif" width="30px" height="30px">
 Welcome to my favourite place! I am a passionate Developer trying to build solutions to the world’s problems. I am a Electronics and Communication Engineering undergrad who loves to intersect Web & ML to create amazing stuff that brings positive change in human lives. I'm deeply passionate about Web, OSS and tech in general. Whether that be through creating neural networks or building web applications, all my work is focused on one thing: impact. When I'm not coding, you can find me sketching, doing CP, or playing soccer! The love for new skills and desire to create something which can directly influence people, keeps me interested. 🚀
 <img align='right' src='https://raw.githubusercontent.com/Neilblaze/vault-0.1/master/accessories/neilblaze-tech.png' width='150"'>
 
@@ -120,7 +120,7 @@ TODO :-
 </div>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/NMCpTBlTEYbCw/source.gif" width="50px">
+  <img src="https://media0.giphy.com/media/NMCpTBlTEYbCw/source.gif" width="70px" height="100px">
   <br>
 
 ## How I work
