@@ -108,8 +108,8 @@ Welcome to my favourite place! I am a passionate Developer trying to build solut
 | 2020 | [SharkHacks](https://sharkhacks.devpost.com) | Major League Hacking | Best Domain Name from GoDaddy Registry [APAC Only] | [View](https://devpost.com/software/sharkroom) |
 | 2020 | [Def Hacks — Global 2.0](https://bit.ly/3e9l3jA) | Def Hacks Inc. | [SecurePDF](https://devfolio.co/projects/securepdf) — Advanced Track Winner | [View](https://youtu.be/k_4fB4xYKlA?t=781) |
 
-... and 20+ more across Devpost, Devfolio, AngelHack & Other Platforms!
-💡 Fun Fact : I don't participate in domestic ones much since there, (Politics + Partiality) >> Skills 😆
+... and *20+* more across Devpost, Devfolio, AngelHack & Other Platforms! <br/>
+💡 **Fun Fact** : I don't participate in domestic ones much since there, (Politics + Partiality) >> Skills 😆
   
 </p>
 </details>
