@@ -65,41 +65,52 @@ Welcome to my favourite place! I am a passionate Developer trying to build solut
 </details>
 
 
+<details><summary> 🔵 International Hackathons that I've Won 🏆 ⏬</summary> 
+<p><br/>
+  
+| **Year** | **Name of Hackathon** | **Organizer (Name of International Institution/Organisation) 🏫** | **Position / Award 🏆** | **Project** |
+| --- | --- | --- | --- | --- |
+| 2022 | [PeddieHacks](https://peddiehacks2022.devpost.com) | Peddie School, Hightstown, New Jersey | *Passion Prize by 1517* & *Education College Prize* | [View](https://devpost.com/software/summarizr-hczls7) |
+| 2022 | [KYH Hackathon](https://katy-youth-hacks.devpost.com) | KatyYouthHacks | Overall Winner | [View](https://devpost.com/software/food-oasis-irp89a) |
+| 2022 | [Impact Hacks](https://impact-hacks.devpost.com) | Irvington High School Data Science Club | Judge's Choice | [View](https://devpost.com/software/food-oasis-irp89a) |
+| 2022 | [GryphHacks](https://gryphhacks-2022.devpost.com) | University of Guelph | Second Place Overall, Best CI/CD Application Using CircleCI, Best use of CockroachDB | [View](https://devpost.com/software/skript) |
+| 2022 | [RU Hacks](https://ru-hacks-2022-digital-15171.devpost.com) | Ryerson University | Best Application of DCP API 1st Place, Best Use of Google Cloud, Mini Win: Most Engaging Demo Video | [View](https://devpost.com/software/r-u-safe) |
+| 2022 | [SD Hacks](https://sd-hacks-2022.devpost.com) | UC San Diego | First Place ($1000) - MageAI challenge (Tied) | [View](https://devpost.com/software/hydroptimum) |
+| 2022 | [HackPrinceton Spring'22](https://hackprinceton-spring-2022.devpost.com) | Princeton University | Most Creative Use of Twilio | [View](https://devpost.com/software/fintruist) |
+| 2022 | [Faber Web3 Hackathon](https://faberweb3.devpost.com) | Faber Inc. | Third Best Overall ; Across the Line Award | [View](https://devpost.com/software/sparkstream) |
+| 2022 | [Hacktech](https://hacktech-2022.devpost.com) | Caltech — California Institute of Technology | Best ML/AI Hack & *Passion Prize by 1517*  | [View](https://devpost.com/software/ziro) |
+| 2022 | [HackNYU](https://hacknyu-2022.devpost.com) | New York University | Best Overall — *Track: Inclusion*  | [View](https://devpost.com/software/parampower) |
+| 2021 | [Kent Hack Enough](https://kent-hack-enough-2021.devpost.com) | Kent State University | Best Use of Google Cloud, Best International Hack (Tied)  | [View](https://devpost.com/software/unisight) |
+| 2021 | [MetroHacks](https://metrohacks2021.devpost.com) | ACP x Tsinghua University | Best Overall  | [View](https://devpost.com/software/zentube) |
+| 2021 | [HackUMBC](https://hackumbc-fall-2021.devpost.com) | University of Maryland, Baltimore County | Best Financial Hack — Capital One  | [View](https://devpost.com/software/quikserve) |
+| 2021 | [VolHacks V](https://volhacks-v.devpost.com) | University of Tennessee | Jina AI - Best Hack Using Jina AI | [View](https://devpost.com/software/quikserve) |
+| 2021 | [Cal Hacks 8.0](https://cal-hacks-8.devpost.com) | UC Berkeley | BlackRock Challenge - Financial Wellbeing (Best Overall) ; The @ Company - Mobile Apps Post “The Social Dilemma” (First Place) ; MLH - Best Use of Google Cloud ; The @ Company - Best Use of @ Platform  | [View](https://devpost.com/software/renteasy) |
+| 2021 | [Pitt Challenge](https://pitt-challenge-2021.devpost.com) | **University of Pittsburgh** School of Pharmacy and the Clinical and Translational Science Institute (CTSI) | Overall 2nd Place (Tied) | [View](https://devpost.com/software/sheerai) |
+| 2021 | [MakeUC](https://makeuc-2021.devpost.com) | University of Cincinnati | [Givaudan] Best Hack for Demystifying Food Experience ; [Tezos] Best Project Using Blockchain — 2nd Place ($2000) | [View](https://devpost.com/software/recaipe) |
+| 2021 | [DivHacks](https://divhacks.devpost.com) | Columbia University | Most Fun or Unique Hack | [View](https://devpost.com/software/safelynk) |
+| 2021 | [HyperHacks](https://hyperhacks.devpost.com) | HyperHacks Inc. | Top 10 | [View](https://devpost.com/software/aquastreet) |
+| 2021 | [Backyard Hacks 2.0](https://backyardhackstwo.devpost.com) | Major League Hacking | Best use of Google Cloud | [View](https://devpost.com/software/socialcurator) |
+| 2021 | [HopHacks Fall 2021](https://hophacks-fall-2021.devpost.com) | Johns Hopkins University, Maryland | Hacking - Runner Up | [View](https://devpost.com/software/spiroshield) |
+| 2021 | [PennApps XXII](https://pennapps-xxii.devpost.com) | University of Pennsylvania | Top 10 ; Sponsored Route: Best Use of IPFS and/or Filecoin | [View](https://devpost.com/software/spotzoo) |
+| 2021 | [PeddieHacks](https://peddiehacks2021.devpost.com) | Peddie School, Hightstown, New Jersey | Judges' Prize | [View](https://devpost.com/software/eyeballin) |
+| 2021 | [Slam Dunk Hacks](https://slamdunkhacks.devpost.com) | Major League Hacking | First Overall ; Best Domain Name from GoDaddy Registry [APAC Only] | [View](https://devpost.com/software/eyeballin) |
+| 2021 | [HackUPC 2021](https://hackupc2021.devpost.com) | Universitat Politècnica de Catalunya · Barcelona Tech - UPC | Second Best Overall ; IThinkUPC Challenge (Best Overall) | [View](https://devpost.com/software/edyfai) |
+| 2021 | [IBM Healthcare Innovation Challenge](https://www.ibm.com/in-en/industries/healthcare) | IBM | Second Best Overall (APAC) ; Innovators Award | [View](https://devpost.com/software/healthbay) |
+| 2021 | [Hacktech 2021](https://hacktech2021.devpost.com) | Caltech | Runner-Up (Best Overall) | [View](https://devpost.com/software/aerowave#updates) |
+| 2021 | [HueHacks](https://huehacks.devpost.com) | Major League Hacking | Work of Art Hack | [View](https://devpost.com/software/_colorsive_) |
+| 2021 | [HackPSU Spring 2021](https://hackpsu-spring-2021.devpost.com) | Penn State University | Nittany Ai Alliance — Ai for Good (First Place) ; HackPSU Health and Wellness | [View](https://devpost.com/software/adoptic) |
+| 2021 | [Hackthrob](https://hackthrob.devpost.com) | Major League Hacking | Best Hardware Hack presented by Digi-Key | [View](https://devpost.com/software/closeness) |
+| 2021 | [HackBU 2021](https://hackbu-2021.devpost.com) | Binghamton University | Best Design (UI) sponsored by RubyApps | [View](https://devpost.com/software/pronounce) |
+| 2021 | [uOttaHack 4](https://uottahack-4.devpost.com) | University of Ottawa | 1st Place Overall ; Solace - Best use of PubSub+ (Best Overall) | [View](https://devpost.com/software/ambuplus) |
+| 2021 | [Hoya Hacks 2021](https://hoya-hacks-2021.devpost.com) | Georgetown University | 1st Place Overall | [View](https://devpost.com/software/krishai-htkagf) |
+| 2021 | [Hack APAC](https://hackapac.devpost.com) | Major League Hacking | Best use of Google Cloud | [View](https://devpost.com/software/krishai) |
+| 2021 | [Hack Your Portfolio](https://hackyourportfolio.devpost.com) | Major League Hacking | Best Social Good Hack | [View](https://devpost.com/software/teach-for-a-cause) |
+| 2020 | [SharkHacks](https://sharkhacks.devpost.com) | Major League Hacking | Best Domain Name from GoDaddy Registry [APAC Only] | [View](https://devpost.com/software/sharkroom) |
+| 2020 | [Def Hacks — Global 2.0](https://bit.ly/3e9l3jA) | Def Hacks Inc. | [SecurePDF](https://devfolio.co/projects/securepdf) — Advanced Track Winner | [View](https://youtu.be/k_4fB4xYKlA?t=781) |
 
-<details><summary> 🔵 International Hackathons that I've Won ⏬</summary> 
-<p>
-
-- [EYEBalliN](https://devpost.com/software/eyeballin) — **PeddieHacks 2021** & MLH's **Slam Dunk Hacks**
-- [Healthbay](https://devpost.com/software/healthbay) — **IBM** Healthcare Innovation Challenge'21
-- [KrishAI](https://devpost.com/software/krishai-htkagf) — **Hoya Hacks**, GeorgeTown University
-- [Ambuplus+](https://devpost.com/software/ambuplus) — **uOttaHack 4**, University of Ottawa
-- [ZenTube](https://devpost.com/software/zentube) — **MetroHacks**, ACP
-- [Ziro](https://devpost.com/software/ziro) — **Hacktech'22**, Caltech
-- [Parampower](https://devpost.com/software/parampower) — **HackNYU'22**, New York University
-- [Pronounce](https://devpost.com/software/pronounce) — **Hack BU**, Binghamton University
-- [RentEasy](https://devpost.com/software/renteasy) — **Cal Hacks 8.0**, UC Berkeley
-
-... Shit, I can't write university names anymore 😫, hence mentioning few other hackathons as it is 😛
-
-- [UniSight](https://devpost.com/software/unisight) 
-- [QuikServe](https://devpost.com/software/quikserve)
-- [Aerowave](https://devpost.com/software/aerowave#updates)
-- [SpiroShield](https://devpost.com/software/spiroshield)
-- [SafeLynk](https://devpost.com/software/safelynk)
-- [SpotZoo](https://devpost.com/software/spotzoo)
-- [Recaipe](https://devpost.com/software/recaipe)
-- [Social Curator](https://devpost.com/software/socialcurator)
-- [SheerAI](https://devpost.com/software/sheerai)
-- [Adoptic](https://devpost.com/software/adoptic)
-- [EdyfAI](https://devpost.com/software/edyfai)
-- [Sharkroom](https://devpost.com/software/sharkroom)
-- [Teach 4A Cause](https://devpost.com/software/teach-for-a-cause)
-- [Colorsive](https://devpost.com/software/_colorsive_)
-
-... and **20+** more across *Devpost*, *Devfolio*, *AngelHack* & Other Platforms!
-
-💡 **Fun Fact** : I don't participate in domestic ones much since there, `(Politics + Partiality) >> Skills` 😆 
-
+... and 20+ more across Devpost, Devfolio, AngelHack & Other Platforms!
+💡 Fun Fact : I don't participate in domestic ones much since there, (Politics + Partiality) >> Skills 😆
+  
 </p>
 </details>
 
