@@ -70,6 +70,7 @@ Welcome to my favourite place! I am a passionate Developer trying to build solut
   
 | **Year** | **Name of Hackathon** | **Organizer (Name of International Institution/Organisation) 🏫** | **Position / Award 🏆** | **Project** |
 | --- | --- | --- | --- | --- |
+| 2022 | [Impractical Hackers 2](https://impracticalhackers2.devpost.com) | Major League Hacking (MLH) | Best Domain Name from GoDaddy Registry [APAC Only] | [View](https://devpost.com/software/sonicsurf) |
 | 2022 | [PeddieHacks](https://peddiehacks2022.devpost.com) | Peddie School, Hightstown, New Jersey | *Passion Prize by 1517* & *Education College Prize* | [View](https://devpost.com/software/summarizr-hczls7) |
 | 2022 | [KYH Hackathon](https://katy-youth-hacks.devpost.com) | KatyYouthHacks | Overall Winner | [View](https://devpost.com/software/food-oasis-irp89a) |
 | 2022 | [Impact Hacks](https://impact-hacks.devpost.com) | Irvington High School Data Science Club | Judge's Choice | [View](https://devpost.com/software/food-oasis-irp89a) |
@@ -131,7 +132,7 @@ TODO :-
 </div>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/NMCpTBlTEYbCw/source.gif" width="70px" height="100px">
+  <img src="https://media0.giphy.com/media/NMCpTBlTEYbCw/source.gif" width="70px" height="75px">
   <br>
 
 ## How I work
@@ -148,6 +149,7 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 <a href="https://steamcommunity.com/id/NeilzxD"><img height="30" src="https://raw.githubusercontent.com/Neilblaze/SVG-store/6f169f49e23fce2d743e3a3c43355e477fd8b2cb/icon8/icons8-steam.svg"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/Neilzblaze"><img height="30" src="https://raw.githubusercontent.com/Neilblaze/SVG-store/6f169f49e23fce2d743e3a3c43355e477fd8b2cb/icon8/icons8-facebook.svg"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/neilzblaze/"><img height="30" src="https://raw.githubusercontent.com/Neilblaze/SVG-store/6f169f49e23fce2d743e3a3c43355e477fd8b2cb/icon8/icons8-instagram.svg"></a>&nbsp;&nbsp;
+<a href="https://discordapp.com/users/694942064131047461"><img height="30" src="https://raw.githubusercontent.com/Neilblaze/vault-0.1/master/icon8/icons8-discord-bubble.svg"></a>&nbsp;&nbsp;
 <a href="https://devpost.com/Neilblaze/"><img height="30" src="https://i.postimg.cc/vZ00bVwG/devpost.png"></a>
 </p>
 
