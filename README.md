@@ -107,6 +107,7 @@ Welcome to my favourite place! I am a passionate Developer trying to build solut
 | 2021 | [Hoya Hacks 2021](https://hoya-hacks-2021.devpost.com) | Georgetown University | 1st Place Overall | [View](https://devpost.com/software/krishai-htkagf) |
 | 2021 | [Hack APAC](https://hackapac.devpost.com) | Major League Hacking | Best use of Google Cloud | [View](https://devpost.com/software/krishai) |
 | 2021 | [Hack Your Portfolio](https://hackyourportfolio.devpost.com) | Major League Hacking | Best Social Good Hack | [View](https://devpost.com/software/teach-for-a-cause) |
+| 2021 | [DigitalOcean App Platform Hackathon](https://dev.to/devteam/announcing-the-digitalocean-app-platform-hackathon-on-dev-2i1k) | DigitalOcean x DEV.to | Runner up | [View](https://dev.to/devteam/digitalocean-app-platform-hackathon-winners-announced-ig0#:~:text=docker%20%23showdev-,%40neilblaze,-Who%2Dof%2Dus) |
 | 2020 | [SharkHacks](https://sharkhacks.devpost.com) | Major League Hacking | Best Domain Name from GoDaddy Registry [APAC Only] | [View](https://devpost.com/software/sharkroom) |
 | 2020 | [Def Hacks — Global 2.0](https://bit.ly/3e9l3jA) | Def Hacks Inc. | [SecurePDF](https://devfolio.co/projects/securepdf) — Advanced Track Winner | [View](https://youtu.be/k_4fB4xYKlA?t=781) |
 
