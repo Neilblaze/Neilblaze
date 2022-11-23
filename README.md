@@ -70,12 +70,13 @@ Welcome to my favourite place! I am a passionate Developer trying to build solut
   
 | **Year** | **Name of Hackathon** | **Organizer (Name of International Institution/Organisation) 🏫** | **Position / Award 🏆** | **Project** |
 | --- | --- | --- | --- | --- |
+| 2022 | [MetroHacks 2022](https://metrohacks-2022.devpost.com) | MetroHacks — ASR-X | 1st Place (Best Overall) - Education Track (18+, Advanced Category) ; Most Creative Use of *Twilio* | [View](https://devpost.com/software/binoculearn) |
 | 2022 | [Impractical Hackers 2](https://impracticalhackers2.devpost.com) | Major League Hacking (MLH) | Best Domain Name from GoDaddy Registry [APAC Only] | [View](https://devpost.com/software/sonicsurf) |
 | 2022 | [PeddieHacks](https://peddiehacks2022.devpost.com) | Peddie School, Hightstown, New Jersey | *Passion Prize by 1517* & *Education College Prize* | [View](https://devpost.com/software/summarizr-hczls7) |
-| 2022 | [KYH Hackathon](https://katy-youth-hacks.devpost.com) | KatyYouthHacks | Overall Winner | [View](https://devpost.com/software/food-oasis-irp89a) |
+| 2022 | [KYH Hackathon](https://katy-youth-hacks.devpost.com) | KatyYouthHacks | Best Overall Winner | [View](https://devpost.com/software/food-oasis-irp89a) |
 | 2022 | [Impact Hacks](https://impact-hacks.devpost.com) | Irvington High School Data Science Club | Judge's Choice | [View](https://devpost.com/software/food-oasis-irp89a) |
-| 2022 | [GryphHacks](https://gryphhacks-2022.devpost.com) | University of Guelph | Second Place Overall, Best CI/CD Application Using CircleCI, Best use of CockroachDB | [View](https://devpost.com/software/skript) |
-| 2022 | [RU Hacks](https://ru-hacks-2022-digital-15171.devpost.com) | Ryerson University | Best Application of DCP API 1st Place, Best Use of Google Cloud, Mini Win: Most Engaging Demo Video | [View](https://devpost.com/software/r-u-safe) |
+| 2022 | [GryphHacks](https://gryphhacks-2022.devpost.com) | University of Guelph | Second Place Overall ; Best CI/CD Application Using CircleCI ; Best use of CockroachDB | [View](https://devpost.com/software/skript) |
+| 2022 | [RU Hacks](https://ru-hacks-2022-digital-15171.devpost.com) | Ryerson University | Best Application of DCP API 1st Place ; Best Use of Google Cloud ; Mini Win: Most Engaging Demo Video | [View](https://devpost.com/software/r-u-safe) |
 | 2022 | [SD Hacks](https://sd-hacks-2022.devpost.com) | UC San Diego | First Place ($1000) - MageAI challenge (Tied) | [View](https://devpost.com/software/hydroptimum) |
 | 2022 | [HackPrinceton Spring'22](https://hackprinceton-spring-2022.devpost.com) | Princeton University | Most Creative Use of Twilio | [View](https://devpost.com/software/fintruist) |
 | 2022 | [Faber Web3 Hackathon](https://faberweb3.devpost.com) | Faber Inc. | Third Best Overall ; Across the Line Award | [View](https://devpost.com/software/sparkstream) |
