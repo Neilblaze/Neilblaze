@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Neilblaze/vault-0.1/master/main.png">
+  <img  src="https://user-images.githubusercontent.com/48355572/207961878-f24217cf-d514-4ee9-90f9-bebd4111a6a0.png">
   <br>
 
 
-# Hi, I'm Pratyay <img src="https://raw.githubusercontent.com/Neilblaze/vault-0.1/master/Funny%20gif's/Hi.gif" width="30px" height="30px">
+# Hi, I'm Pratyay <img src="https://user-images.githubusercontent.com/48355572/205912228-52b28bd4-910b-4447-934f-be8b19a3aec5.gif" width="30px" height="30px">
 Welcome to my favourite place! I am a passionate Developer trying to build solutions to the world’s problems. I am a Electronics and Communication Engineering undergrad who loves to intersect Web & ML to create amazing stuff that brings positive change in human lives. I'm deeply passionate about Web, OSS and tech in general. Whether that be through creating neural networks or building web applications, all my work is focused on one thing: impact. When I'm not coding, you can find me sketching, doing CP, or playing soccer! The love for new skills and desire to create something which can directly influence people, keeps me interested. 🚀
-<img align='right' src='https://raw.githubusercontent.com/Neilblaze/vault-0.1/master/accessories/neilblaze-tech.png' width='150"'>
+<img align='right' src='https://user-images.githubusercontent.com/48355572/205913210-a40d093c-c40f-4cf7-b6ec-c67cd953476a.png' width='190'>
 
 - 🔭 I’m currently working on my [Blog](https://blog.neilblaze.live)
 - 👨‍💻 CP: [Codechef](https://www.codechef.com/users/zack_007) ❯ [Hackerrank](https://www.hackerrank.com/N3ilz_BL4Z3) ❯ [LeetCode](https://leetcode.com/Neilblaze)
@@ -33,19 +33,23 @@ Welcome to my favourite place! I am a passionate Developer trying to build solut
 
 - [Google Code-In'19](https://codein.withgoogle.com/archive/2019/organization/6265089057882112/) @Tensorflow
 - [HackInCodes'20](https://hakincodes.tech)
-- [NJACK Winter of Code 2020](http://njackwinterofcode.github.io)
+- [NJACK Winter of Code 2020](http://njackwinterofcode.github.io) @IITPatna
 - [DSC NSEC Winter of Code 2020](https://winterofcode.com)
 - Script Winter of Code ([SWOC](http://swoc.tech)) 2020
 
 
+
 💡 **Fun Fact** : I've mentored over ***2.5K+*** students across the globe by mentoring in few International Hackathons, for e.g. :- 
 
-- [Hack the North 2020++](https://hackthenorth.com)
-- [SunHacks 2020](https://sunhacks.io/)
-- [nwHacks 2021](https://www.nwhacks.io/)
-- [Hack the NorthEast 2021](https://hackthenortheast.com/)
-- [SacHacks 2021](https://sachacks.io/)
-- [TartanHacks 2021](https://www.tartanhacks.com/)
+- [Hack the North 2020++](https://hackthenorth.com)  ~ [University of Waterloo, CA]
+- [SunHacks 2020](https://sunhacks.io)  ~ [Arizona State University]
+- [nwHacks 2021](https://www.nwhacks.io)  ~ [UBC Vancouver, CA]
+- [Hack the NorthEast 2021](https://hackthenortheast.com)
+- [SacHacks 2021](https://sachacks.io)  ~ [UC Davis]
+- [TartanHacks 2021](https://www.tartanhacks.com)  ~ [Carnegie Mellon University]
+- [SigmaHacks-2.0 2021](https://sigmahacks.org)
+- [SBUHacks 2021](https://sbuhacks.org)  ~ [Stony Brook University]
+- [StormHacks 2021](https://stormhacks.com)  ~ [Simon Fraser University]
 
 </p>
 </details>
@@ -56,10 +60,12 @@ Welcome to my favourite place! I am a passionate Developer trying to build solut
 - [Layer5](https://layer5.io)
 - [DSCAOT](https://dscaot.xyz)
 - [CircuitVerse](https://circuitverse.org)
+- [BioConda](https://github.com/bioconda)
 - [Publiclab](https://publiclab.org)
 - [Tesseract Coding](https://www.tesseractcoding.tech)
 - [Fossasia](https://fossasia.org)
 - [Anitab-Org](https://anitab.org)
+
 
 </p>
 </details>
@@ -122,14 +128,28 @@ Welcome to my favourite place! I am a passionate Developer trying to build solut
 
 - [HackIllinois OS Fellow 21](https://fellowship.hackillinois.org) — Remote 
 - [MITACS GRI'21](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) — Remote // uAlberta
+- [The Visual Computing & Artificial Intelligence Lab at TUM, 2022](https://niessnerlab.org/) — Remote
   
 TODO :- 
 
 - [MLH Fellowship](https://fellowship.mlh.io/) ❎
 - [LFX Mentorship](https://lfx.linuxfoundation.org/) ❎
+- [NTU Research Fellowship](https://www.mmlab-ntu.com/careers.html) ❎
 
 </p>
 </details>
+
+<details><summary> 🟣 A few Easter Egg's 🥚 ⏬</summary> 
+<p>
+
+- Regional Top-10 in [**Build for Digital India** (BFDI), 2020](https://events.withgoogle.com/buildfordigitalindia), hosted by [**MeitY**](https://www.meity.gov.in/) and [**Google**](http://google.com) among **51/4756** teams across India! 
+- Selected as the Top-6 undergraduate for [**Resarch Week with Google**](https://sites.google.com/view/researchweek2022) among 3500+ applications across India!
+- [**Solace**](https://solace.com) published our hackathon project — [**Ambuplus**](https://devpost.com/software/ambuplus) for [**uOttaHack'21**](https://uottahack-4.devpost.com) on their [Blog](https://solace.com/blog/uottahack-challenge-real-time-ambulance-tracking) page!
+- More dispersed over LinkedIn & others 😉 ....
+ 
+</p>
+</details>
+
 </p>
 </div>
 
@@ -141,18 +161,18 @@ TODO :-
 My motivations are to stabilize and provide clarity through curiosity. That tends to manifest as creating (hopefully) just enough process. Checklists are my absolute favorite. ✅ If I'm too much in my head, feel free to nudge me to share what's in my brain. 🧠
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Git-Tutor/FE-WEB-DEV-Interview-Questions/master/src/assets/images/I%20love%20OSSs.png">
+  <img src="https://user-images.githubusercontent.com/48355572/207972307-0f5dcf42-2809-4d82-9a10-24dd878b5010.png">
   <br>
 
 <p align='center'>
-<a href="https://twitter.com/Neilzblaze007"><img height="30" src="https://raw.githubusercontent.com/Neilblaze/SVG-store/6f169f49e23fce2d743e3a3c43355e477fd8b2cb/icon8/icons8-twitter.svg"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/x3nosiz/"><img height="30" src="https://raw.githubusercontent.com/Neilblaze/SVG-store/6f169f49e23fce2d743e3a3c43355e477fd8b2cb/icon8/icons8-linkedin.svg"></a>&nbsp;&nbsp;
-<a href="https://www.reddit.com/user/Neilblaze"><img height="30" src="https://raw.githubusercontent.com/Neilblaze/SVG-store/6f169f49e23fce2d743e3a3c43355e477fd8b2cb/icon8/icons8-reddit.svg"></a>&nbsp;&nbsp;
-<a href="https://steamcommunity.com/id/NeilzxD"><img height="30" src="https://raw.githubusercontent.com/Neilblaze/SVG-store/6f169f49e23fce2d743e3a3c43355e477fd8b2cb/icon8/icons8-steam.svg"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/Neilzblaze"><img height="30" src="https://raw.githubusercontent.com/Neilblaze/SVG-store/6f169f49e23fce2d743e3a3c43355e477fd8b2cb/icon8/icons8-facebook.svg"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/neilzblaze/"><img height="30" src="https://raw.githubusercontent.com/Neilblaze/SVG-store/6f169f49e23fce2d743e3a3c43355e477fd8b2cb/icon8/icons8-instagram.svg"></a>&nbsp;&nbsp;
-<a href="https://discordapp.com/users/694942064131047461"><img height="30" src="https://raw.githubusercontent.com/Neilblaze/vault-0.1/master/icon8/icons8-discord-bubble.svg"></a>&nbsp;&nbsp;
-<a href="https://devpost.com/Neilblaze/"><img height="30" src="https://i.postimg.cc/vZ00bVwG/devpost.png"></a>
+<a href="https://twitter.com/Neilzblaze007"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971257-f667150e-17c2-469c-8f9f-24810c4ab522.svg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/x3nosiz/"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971352-d164e286-ffd8-4aac-a95b-88e499cdc386.svg"></a>&nbsp;&nbsp;
+<a href="https://www.reddit.com/user/Neilblaze"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971448-480baafd-cc5f-4e38-b68f-eb9dcb8042b0.svg"></a>&nbsp;&nbsp;
+<a href="https://steamcommunity.com/id/NeilzxD"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971528-c2f679d1-fb15-489d-8352-849b192abf0f.svg"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/Neilzblaze"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971602-39e1cdba-e93a-4702-abda-52f93049fcbc.svg"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/neilzblaze/"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971691-1a612ff3-ac3b-456a-8237-aa74a423b59c.svg"></a>&nbsp;&nbsp;
+<a href="https://discordapp.com/users/694942064131047461"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971778-7a331eb0-d413-4a03-a142-1370a89f6cb2.svg"></a>&nbsp;&nbsp;
+<a href="https://devpost.com/Neilblaze/"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971909-70ff9dfc-3df9-4310-9fc6-abff895d73c3.png"></a>
 </p>
 
 
@@ -162,7 +182,7 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 
 <br>
 <p align="center">
-  <img src="./footer-kol.png">
+  <img src="https://user-images.githubusercontent.com/48355572/205911047-018378cb-c2e9-4a19-9d0a-0c3f6b559c42.png">
 </p>  
 <br>
 
