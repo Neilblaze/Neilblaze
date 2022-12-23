@@ -76,6 +76,7 @@ Welcome to my favourite place! I am a passionate Developer trying to build solut
   
 | **Year** | **Name of Hackathon** | **Organizer (Name of International Institution/Organisation) 🏫** | **Position / Award 🏆** | **Project** |
 | --- | --- | --- | --- | --- |
+| 2022 | [MongoDB Atlas Hackathon 2022](https://dev.to/devteam/announcing-the-mongodb-atlas-hackathon-2022-on-dev-2107) | MongoDB x DEV | Runner-Up — Choose Your Own Adventure | [View](https://dev.to/devteam/mongodb-atlas-hackathon-2022-winners-announced-iib#:~:text=dotnet%20%23mongodb-,Binoculearn.ai) |
 | 2022 | [MetroHacks 2022](https://metrohacks-2022.devpost.com) | MetroHacks — ASR-X | 1st Place (Best Overall) - Education Track (18+, Advanced Category) ; Most Creative Use of *Twilio* | [View](https://devpost.com/software/binoculearn) |
 | 2022 | [Impractical Hackers 2](https://impracticalhackers2.devpost.com) | Major League Hacking (MLH) | Best Domain Name from GoDaddy Registry [APAC Only] | [View](https://devpost.com/software/sonicsurf) |
 | 2022 | [PeddieHacks](https://peddiehacks2022.devpost.com) | Peddie School, Hightstown, New Jersey | *Passion Prize by 1517* & *Education College Prize* | [View](https://devpost.com/software/summarizr-hczls7) |
