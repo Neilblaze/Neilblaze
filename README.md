@@ -19,7 +19,7 @@ Welcome to my favourite place! I am a passionate Developer trying to build solut
 - ✈️ I've been to **Three** countries!
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/48355572/148248804-ac54fabf-fa17-45c4-90e8-0bc26a9a7f30.png">
+  <img src="https://user-images.githubusercontent.com/48355572/209539106-8e1cbfc6-2f3d-4afd-b96a-890d967dd9ab.png">
 </p>
 
 <div>
@@ -76,6 +76,7 @@ Welcome to my favourite place! I am a passionate Developer trying to build solut
   
 | **Year** | **Name of Hackathon** | **Organizer (Name of International Institution/Organisation) 🏫** | **Position / Award 🏆** | **Project** |
 | --- | --- | --- | --- | --- |
+| 2022 | [Hacky Winterland 2](https://hacky-winterland-2.devpost.com) | Major League Hacking | Best Use of Google Cloud | [View](https://devpost.com/software/save-our-snooze) |
 | 2022 | [MongoDB Atlas Hackathon 2022](https://dev.to/devteam/announcing-the-mongodb-atlas-hackathon-2022-on-dev-2107) | MongoDB x DEV | Runner-Up — Choose Your Own Adventure | [View](https://dev.to/devteam/mongodb-atlas-hackathon-2022-winners-announced-iib#:~:text=dotnet%20%23mongodb-,Binoculearn.ai) |
 | 2022 | [MetroHacks 2022](https://metrohacks-2022.devpost.com) | MetroHacks — ASR-X | 1st Place (Best Overall) - Education Track (18+, Advanced Category) ; Most Creative Use of *Twilio* | [View](https://devpost.com/software/binoculearn) |
 | 2022 | [Impractical Hackers 2](https://impracticalhackers2.devpost.com) | Major League Hacking (MLH) | Best Domain Name from GoDaddy Registry [APAC Only] | [View](https://devpost.com/software/sonicsurf) |
@@ -127,8 +128,12 @@ Welcome to my favourite place! I am a passionate Developer trying to build solut
 <details><summary> 🟡 Fellowships that I've achieved ⏬</summary> 
 <p>
 
-- [HackIllinois OS Fellow 21](https://fellowship.hackillinois.org) — Remote 
-- [MITACS GRI'21](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) — Remote // uAlberta
+- Research Assistant (RA) Intern at [IIIT Hyderabad](https://www.iiit.ac.in) <br/>
+  ↳ Worked on Deep Neural Net Acoustic Model for Phoneme Segmentation under Dr. Naresh Manwani <br/><br/>
+- [HackIllinois OS Fellow 21](https://fellowship.hackillinois.org) — Remote <br/>
+  ↳ Worked on async wrappers of `k8s.io/apiserver` under [CNCF](https://www.cncf.io) <br/><br/>
+- [MITACS GRI'21](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) — Remote // uAlberta <br/>
+  ↳ Worked on Mobile Head Motion-Tracking Unit based on RCV designed for specially-abled under Dr. Nilanjan Ray (Department of Computing Science, University of Alberta, CA) <br/><br/>
 - [The Visual Computing & Artificial Intelligence Lab at TUM, 2022](https://niessnerlab.org/) — Remote
   
 TODO :- 
