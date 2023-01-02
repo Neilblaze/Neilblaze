@@ -76,6 +76,7 @@ Welcome to my favourite place! I am a passionate Developer trying to build solut
   
 | **Year** | **Name of Hackathon** | **Organizer (Name of International Institution/Organisation) 🏫** | **Position / Award 🏆** | **Project** |
 | --- | --- | --- | --- | --- |
+| 2022 | [Hacky New Year!](https://hacky-new-year.devpost.com) | Major League Hacking | Most Innovative Hack | [View](https://devpost.com/software/collabworks) |
 | 2022 | [Hacky Winterland 2](https://hacky-winterland-2.devpost.com) | Major League Hacking | Best Use of Google Cloud | [View](https://devpost.com/software/save-our-snooze) |
 | 2022 | [MongoDB Atlas Hackathon 2022](https://dev.to/devteam/announcing-the-mongodb-atlas-hackathon-2022-on-dev-2107) | MongoDB x DEV | Runner-Up — Choose Your Own Adventure | [View](https://dev.to/devteam/mongodb-atlas-hackathon-2022-winners-announced-iib#:~:text=dotnet%20%23mongodb-,Binoculearn.ai) |
 | 2022 | [MetroHacks 2022](https://metrohacks-2022.devpost.com) | MetroHacks — ASR-X | 1st Place (Best Overall) - Education Track (18+, Advanced Category) ; Most Creative Use of *Twilio* | [View](https://devpost.com/software/binoculearn) |
