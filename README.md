@@ -5,7 +5,7 @@
 
 # Hi, I'm Pratyay <img src="https://user-images.githubusercontent.com/48355572/205912228-52b28bd4-910b-4447-934f-be8b19a3aec5.gif" width="30px" height="30px">
 Welcome to my favourite place! I am a passionate Developer trying to build solutions to the world’s problems. I am a Electronics and Communication Engineering undergrad who loves to intersect Web & ML to create amazing stuff that brings positive change in human lives. I'm deeply passionate about Web, OSS and tech in general. Whether that be through creating neural networks or building web applications, all my work is focused on one thing: impact. When I'm not coding, you can find me sketching, doing CP, or playing soccer! The love for new skills and desire to create something which can directly influence people, keeps me interested. 🚀
-<img align='right' src='https://user-images.githubusercontent.com/48355572/205913210-a40d093c-c40f-4cf7-b6ec-c67cd953476a.png' width='190'>
+<img align='right' src='https://user-images.githubusercontent.com/48355572/205913210-a40d093c-c40f-4cf7-b6ec-c67cd953476a.png' width='177'>
 
 - 🔭 I’m currently working on my [Blog](https://blog.neilblaze.live)
 - 👨‍💻 CP: [Codechef](https://www.codechef.com/users/zack_007) ❯ [Hackerrank](https://www.hackerrank.com/N3ilz_BL4Z3) ❯ [LeetCode](https://leetcode.com/Neilblaze)
@@ -198,7 +198,7 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 <a href="https://www.instagram.com/neilzblaze"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971691-1a612ff3-ac3b-456a-8237-aa74a423b59c.svg"></a>&nbsp;&nbsp;
 <a href="https://discordapp.com/users/694942064131047461"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971778-7a331eb0-d413-4a03-a142-1370a89f6cb2.svg"></a>&nbsp;&nbsp;
 <a href="https://devpost.com/Neilblaze/"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971909-70ff9dfc-3df9-4310-9fc6-abff895d73c3.png"></a>&nbsp;&nbsp;
-<a href="https://dev.to/Neilblaze"><img height="30" src="https://user-images.githubusercontent.com/48355572/212684775-78ac7f41-a3d4-4ceb-910a-2bb635035cc2.png">
+<a href="https://dev.to/Neilblaze"><img height="28" src="https://user-images.githubusercontent.com/48355572/212684775-78ac7f41-a3d4-4ceb-910a-2bb635035cc2.png">
 </p>
 
 
