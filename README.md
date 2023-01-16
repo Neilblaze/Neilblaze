@@ -147,7 +147,7 @@ TODO :-
 </p>
 </details>
 
-<details><summary> 🟣 A few Easter Egg's 🥚 ⏬</summary> 
+<details><summary> ⚪ A few Easter Egg's 🥚 ⏬</summary> 
 <p>
 
 - Regional Top-10 in [**Build for Digital India** (BFDI), 2020](https://events.withgoogle.com/buildfordigitalindia), hosted by [**MeitY**](https://www.meity.gov.in/) and [**Google**](http://google.com) among **51/4756** teams across India! 
@@ -155,6 +155,22 @@ TODO :-
 - [**Solace**](https://solace.com) published our hackathon project — [**Ambuplus**](https://devpost.com/software/ambuplus) for [**uOttaHack'21**](https://uottahack-4.devpost.com) on their [Blog](https://solace.com/blog/uottahack-challenge-real-time-ambulance-tracking) page!
 - More dispersed over LinkedIn & others 😉 ....
  
+</p>
+</details>
+  
+  
+<details><summary> 🔮 My Tech Stack 👨‍💻 ⏬</summary> 
+<p><br/>
+
+<p align="center">
+  <br/>
+  <img src="https://user-images.githubusercontent.com/48355572/212682117-59a6a478-d394-4399-aa66-e71feb46ad24.png">
+  <br></p><br/>
+  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/48355572/209539106-8e1cbfc6-2f3d-4afd-b96a-890d967dd9ab.png">
+</p>
+<br/>
 </p>
 </details>
 
@@ -165,6 +181,7 @@ TODO :-
   <img src="https://media0.giphy.com/media/NMCpTBlTEYbCw/source.gif" width="70px" height="75px">
   <br>
 
+
 ## How I work
 My motivations are to stabilize and provide clarity through curiosity. That tends to manifest as creating (hopefully) just enough process. Checklists are my absolute favorite. ✅ If I'm too much in my head, feel free to nudge me to share what's in my brain. 🧠
 
@@ -174,13 +191,14 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 
 <p align='center'>
 <a href="https://twitter.com/Neilzblaze007"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971257-f667150e-17c2-469c-8f9f-24810c4ab522.svg"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/x3nosiz/"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971352-d164e286-ffd8-4aac-a95b-88e499cdc386.svg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/x3nosiz"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971352-d164e286-ffd8-4aac-a95b-88e499cdc386.svg"></a>&nbsp;&nbsp;
 <a href="https://www.reddit.com/user/Neilblaze"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971448-480baafd-cc5f-4e38-b68f-eb9dcb8042b0.svg"></a>&nbsp;&nbsp;
 <a href="https://steamcommunity.com/id/NeilzxD"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971528-c2f679d1-fb15-489d-8352-849b192abf0f.svg"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/Neilzblaze"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971602-39e1cdba-e93a-4702-abda-52f93049fcbc.svg"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/neilzblaze/"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971691-1a612ff3-ac3b-456a-8237-aa74a423b59c.svg"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/neilzblaze"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971691-1a612ff3-ac3b-456a-8237-aa74a423b59c.svg"></a>&nbsp;&nbsp;
 <a href="https://discordapp.com/users/694942064131047461"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971778-7a331eb0-d413-4a03-a142-1370a89f6cb2.svg"></a>&nbsp;&nbsp;
-<a href="https://devpost.com/Neilblaze/"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971909-70ff9dfc-3df9-4310-9fc6-abff895d73c3.png"></a>
+<a href="https://devpost.com/Neilblaze/"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971909-70ff9dfc-3df9-4310-9fc6-abff895d73c3.png"></a>&nbsp;&nbsp;
+<a href="https://dev.to/Neilblaze"><img height="30" src="https://user-images.githubusercontent.com/48355572/212684775-78ac7f41-a3d4-4ceb-910a-2bb635035cc2.png">
 </p>
 
 
@@ -194,4 +212,4 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 </p>  
 <br>
 
-Regarding any issues, feel free to drop a mail at — neilblaze007@gmail.com
+Regarding any issues, feel free to drop a mail at — **dev@neilblaze.live**
