@@ -203,7 +203,7 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Neilblaze&label=PROFILE+VIEWS">
+  <img src="https://komarev.com/ghpvc/?username=Neilblaze&label=PROFILE+VIEWS"> &nbsp; <a href="https://discordapp.com/users/694942064131047461"><img src="https://dcbadge.vercel.app/api/shield/694942064131047461?theme=discord-inverted&&logoColor=presence&&style=social"></a>
 </p> 
 
 <br>
