@@ -75,7 +75,7 @@ I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also int
 </details>
 
 
-<details><summary> 🔵 Hackathons (_International_ + _National_) that I've Won 🏆 ⏬</summary> 
+<details><summary> 🔵 Hackathons (<i>International</i> + <i>National</i>) that I've Won 🏆 ⏬</summary> 
 <p><br/>
   
 | **Year** | **Name of Hackathon** | **Organizer (Name of International Institution/Organisation) 🏫** | **Position / Award 🏆** | **Project** |
