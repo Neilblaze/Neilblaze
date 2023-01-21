@@ -4,7 +4,7 @@
 
 
 # Hi, I'm Pratyay <img src="https://user-images.githubusercontent.com/48355572/205912228-52b28bd4-910b-4447-934f-be8b19a3aec5.gif" width="30px" height="30px">
-Welcome to my favourite place! I'm a passionate ~~developer~~ **_innovator_** majoring in [*ECE*](https://en.wikipedia.org/?title=Electronics_and_Communication_Engineering&redirect=no) with a minor in [*CS*](https://en.wikipedia.org/wiki/Computer_science), striving to build [_SOTA_](https://en.wikipedia.org/wiki/State_of_the_art) solutions for challenging problems via intersecting Web & Machine Learning to create amazing stuff that brings positive change in human lives. I love tinkering with electronics, while I primarily work on applied Machine Learning (majorly Computer Vision), Backend (WebDev) & DevOps(Integrations, Microservices & Deployment). 
+Welcome to my favourite place! I'm a passionate ~~developer~~ **_innovator_** majoring in [*ECE*](https://en.wikipedia.org/?title=Electronics_and_Communication_Engineering&redirect=no) with a minor in [*CS*](https://en.wikipedia.org/wiki/Computer_science), striving to build [_SOTA_](https://en.wikipedia.org/wiki/State_of_the_art) solutions for challenging problems via intersecting Web & Machine Learning to create amazing stuff that brings positive change in human lives. I love tinkering with electronics, while I primarily work on applied Machine Learning (majorly Computer Vision), Backend (WebDev) & DevOps(Integrations, Microservices & Deployment). 🛠️
 
 I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also into System Designing and Reverse Engineering. I define myself as an independant [RSE](https://ukrse.github.io/who.html) as well as a competitive hackathon aficionado, with more than [50+ wins 🏆](https://bit.ly/3GPoE0y). Besides, I'm a _Competitive Speedcuber_, _Netflix nerd_ & _EDM fanatic_. Whether that be through creating neural networks or building web applications, all my work is focused on one thing: **impact** 📈. When I'm not coding, you can find me [sketching](https://urlx.vercel.app/ed-sheeran), doing CP, or playing soccer! The love for new skills and desire to create something which can directly influence people, keeps me interested. 🚀
 <img align='right' src='https://user-images.githubusercontent.com/48355572/205913210-a40d093c-c40f-4cf7-b6ec-c67cd953476a.png' width='177'>
@@ -19,7 +19,7 @@ I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also int
 - ⚡ Fun fact: I am **Competitive _Speedcuber_**
 - 🏃 Hobbies: Skectching and playing [CSGO](https://urlx.vercel.app/csgo-rank) 🎮
 - ✈️ I've been to **Three** countries!
-- 📚 A few fav books of _2022_: [**Ikigai**](https://www.amazon.com/Ikigai-Japanese-Secret-Long-Happy/dp/0143130722), [**The Almanack of Naval Ravikant**](https://www.amazon.com/Almanack-Naval-Ravikant-Wealth-Happiness-ebook/dp/B08FF8MTM6), [**Psychology of Money**](https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681), & a few more!
+- 📚 Readings (latest) : [**Ikigai**](https://www.amazon.com/Ikigai-Japanese-Secret-Long-Happy/dp/0143130722), [**The Almanack → NR**](https://www.amazon.com/Almanack-Naval-Ravikant-Wealth-Happiness-ebook/dp/B08FF8MTM6), [**Psychology of Money**](https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681), + more!
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/48355572/209539106-8e1cbfc6-2f3d-4afd-b96a-890d967dd9ab.png">
