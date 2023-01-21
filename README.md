@@ -4,19 +4,22 @@
 
 
 # Hi, I'm Pratyay <img src="https://user-images.githubusercontent.com/48355572/205912228-52b28bd4-910b-4447-934f-be8b19a3aec5.gif" width="30px" height="30px">
-Welcome to my favourite place! I am a passionate Developer trying to build solutions to the world’s problems. I am a Electronics and Communication Engineering undergrad who loves to intersect Web & ML to create amazing stuff that brings positive change in human lives. I'm deeply passionate about Web, OSS and tech in general. Whether that be through creating neural networks or building web applications, all my work is focused on one thing: impact. When I'm not coding, you can find me sketching, doing CP, or playing soccer! The love for new skills and desire to create something which can directly influence people, keeps me interested. 🚀
+Welcome to my favourite place! I'm a passionate ~~developer~~ **_innovator_** majoring in [*ECE*](https://en.wikipedia.org/?title=Electronics_and_Communication_Engineering&redirect=no) with a minor in [*CS*](https://en.wikipedia.org/wiki/Computer_science), striving to build [_SOTA_](https://en.wikipedia.org/wiki/State_of_the_art) solutions for challenging problems via intersecting Web & Machine Learning to create amazing stuff that brings positive change in human lives. I love tinkering with electronics, while I primarily work on applied Machine Learning (majorly Computer Vision), Backend (WebDev) & DevOps(Integrations, Microservices & Deployment). 
+
+I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also into System Designing and Reverse Engineering. I define myself as an independant [RSE](https://ukrse.github.io/who.html) as well as a competitive hackathon aficionado, with more than [50+ wins 🏆](https://bit.ly/3GPoE0y). Besides, I'm a _Competitive Speedcuber_, _Netflix nerd_ & _EDM fanatic_. Whether that be through creating neural networks or building web applications, all my work is focused on one thing: **impact** 📈. When I'm not coding, you can find me [sketching](https://urlx.vercel.app/ed-sheeran), doing CP, or playing soccer! The love for new skills and desire to create something which can directly influence people, keeps me interested. 🚀
 <img align='right' src='https://user-images.githubusercontent.com/48355572/205913210-a40d093c-c40f-4cf7-b6ec-c67cd953476a.png' width='177'>
 
 - 🔭 I’m currently working on my [Blog](https://blog.neilblaze.live)
 - 👨‍💻 CP: [Codechef](https://www.codechef.com/users/zack_007) ❯ [Hackerrank](https://www.hackerrank.com/N3ilz_BL4Z3) ❯ [LeetCode](https://leetcode.com/Neilblaze)
 - 🌱 I’m currently learning [Remix](https://remix.run) 🕺
 - 👨 I’m looking to collaborate on Projects & **Hackathons**
-- 🤔 I’m looking for help with **Statistics** and **CP**
+- 🤔 I’m looking for help with [**DIP**](https://en.wikipedia.org/wiki/Digital_image_processing) and **Statistics**
 - 💬 Ask me about anything [here](https://github.com/Neilblaze/Neilblaze/issues)
 - 😄 Pronouns: **He**/**His**/**Him**
-- ⚡ Fun fact: I am competitive *Speedcuber*
-- 🏃 Hobbies: Skectching and playing CSGO 🎮
+- ⚡ Fun fact: I am **Competitive _Speedcuber_**
+- 🏃 Hobbies: Skectching and playing [CSGO](https://urlx.vercel.app/csgo-rank) 🎮
 - ✈️ I've been to **Three** countries!
+- 📚 A few fav books of _2022_: [**Ikigai**](https://www.amazon.com/Ikigai-Japanese-Secret-Long-Happy/dp/0143130722), [**The Almanack of Naval Ravikant**](https://www.amazon.com/Almanack-Naval-Ravikant-Wealth-Happiness-ebook/dp/B08FF8MTM6), [**Psychology of Money**](https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681), & a few more!
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/48355572/209539106-8e1cbfc6-2f3d-4afd-b96a-890d967dd9ab.png">
@@ -50,6 +53,7 @@ Welcome to my favourite place! I am a passionate Developer trying to build solut
 - [SigmaHacks-2.0 2021](https://sigmahacks.org)
 - [SBUHacks 2021](https://sbuhacks.org)  ~ [Stony Brook University]
 - [StormHacks 2021](https://stormhacks.com)  ~ [Simon Fraser University]
+- [UofTHacks-X 2023](https://uofthacks.com) ~ [University of Toronto]
 
 </p>
 </details>
@@ -71,7 +75,7 @@ Welcome to my favourite place! I am a passionate Developer trying to build solut
 </details>
 
 
-<details><summary> 🔵 International Hackathons that I've Won 🏆 ⏬</summary> 
+<details><summary> 🔵 Hackathons (_International_ + _National_) that I've Won 🏆 ⏬</summary> 
 <p><br/>
   
 | **Year** | **Name of Hackathon** | **Organizer (Name of International Institution/Organisation) 🏫** | **Position / Award 🏆** | **Project** |
@@ -168,7 +172,7 @@ TODO :-
   <br></p><br/>
   
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/48355572/209539106-8e1cbfc6-2f3d-4afd-b96a-890d967dd9ab.png">
+  <img src="https://camo.githubusercontent.com/0ac2fd3571be98da8907b9603c220e669a8ab66d4d455cbb9a08750aa64ed030/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3834323734313930373732303839363531322f3834323830363331323338363432383934382f6769662e676966">
 </p>
 <br/>
 </p>
@@ -198,7 +202,8 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 <a href="https://www.instagram.com/neilzblaze"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971691-1a612ff3-ac3b-456a-8237-aa74a423b59c.svg"></a>&nbsp;&nbsp;
 <a href="https://discordapp.com/users/694942064131047461"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971778-7a331eb0-d413-4a03-a142-1370a89f6cb2.svg"></a>&nbsp;&nbsp;
 <a href="https://devpost.com/Neilblaze/"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971909-70ff9dfc-3df9-4310-9fc6-abff895d73c3.png"></a>&nbsp;&nbsp;
-<a href="https://dev.to/Neilblaze"><img height="28" src="https://user-images.githubusercontent.com/48355572/212684775-78ac7f41-a3d4-4ceb-910a-2bb635035cc2.png">
+<a href="https://dev.to/Neilblaze"><img height="28" src="https://user-images.githubusercontent.com/48355572/212684775-78ac7f41-a3d4-4ceb-910a-2bb635035cc2.png"></a>&nbsp;&nbsp;
+<a href="https://open.spotify.com/user/31okuur5huofrrd3n6y6v2gyrjx4"><img height="30" src="https://user-images.githubusercontent.com/48355572/213890881-d6f20dfa-2c5e-4c57-a8d8-d06b276bba50.svg"></a>
 </p>
 
 
@@ -212,4 +217,9 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 </p>  
 <br>
 
-Regarding any issues, feel free to drop a mail at — **dev@neilblaze.live**
+
+
+<p align="left">
+<a href="https://creativecommons.org/licenses/by-nc/4.0"><img align="right" style="padding-top: 7px;" src="https://licensebuttons.net/l/by-nc/3.0/88x31.png" width="72" /></a>&nbsp;<img align="right" style="padding-top: 7px;" src="https://user-images.githubusercontent.com/48355572/213894405-3eca405e-0c4b-41a6-aa8f-97cb62ae7176.png" width="70" />
+Regarding any issues, feel free to drop a mail at — <a href="mailto:dev@neilblaze.live"><b>dev@neilblaze.live</b></a>
+</p>
