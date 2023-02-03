@@ -39,21 +39,27 @@ I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also int
 - [NJACK Winter of Code 2020](http://njackwinterofcode.github.io) @IITPatna
 - [DSC NSEC Winter of Code 2020](https://winterofcode.com)
 - Script Winter of Code ([SWOC](http://swoc.tech)) 2020
+- [Hyperedge Winter of Blockchain](https://hyperedge.so/wob) 2023
 
 
+<br/>
 
 💡 **Fun Fact** : I've mentored over ***2.5K+*** students across the globe by mentoring in few International Hackathons, for e.g. :- 
 
-- [Hack the North 2020++](https://hackthenorth.com)  ~ [University of Waterloo, CA]
-- [SunHacks 2020](https://sunhacks.io)  ~ [Arizona State University]
-- [nwHacks 2021](https://www.nwhacks.io)  ~ [UBC Vancouver, CA]
-- [Hack the NorthEast 2021](https://hackthenortheast.com)
-- [SacHacks 2021](https://sachacks.io)  ~ [UC Davis]
-- [TartanHacks 2021](https://www.tartanhacks.com)  ~ [Carnegie Mellon University]
-- [SigmaHacks-2.0 2021](https://sigmahacks.org)
-- [SBUHacks 2021](https://sbuhacks.org)  ~ [Stony Brook University]
-- [StormHacks 2021](https://stormhacks.com)  ~ [Simon Fraser University]
-- [UofTHacks-X 2023](https://uofthacks.com) ~ [University of Toronto]
+
+| **Hackathon** | **Host** | **Place** |
+| --- | --- | --- |
+[Hack the North 2020++](https://hackthenorth.com)             | University of Waterloo, CA                                    |  Remote  |
+[SunHacks 2020](https://sunhacks.io)                          | Arizona State University                                      |  Remote  |
+[nwHacks 2021](https://www.nwhacks.io)                        | UBC Vancouver, CA                                             |  Remote  |
+[Hack the NorthEast 2021](https://hackthenortheast.com)       | HTNE                                                          |  Remote  |
+[SacHacks 2021](https://sachacks.io)                          | UC Davis                                                      |  Remote  |
+[TartanHacks 2021](https://www.tartanhacks.com)               | Carnegie Mellon University                                    |  Remote  |
+[SigmaHacks-2.0 2021](https://sigmahacks.org)                 | SigmaHacks                                                    |  Remote  |
+[SBUHacks 2021](https://sbuhacks.org)                         | Stony Brook University                                        |  Remote  |
+[StormHacks 2021](https://stormhacks.com)                     | Simon Fraser University                                       |  Remote  |
+[UofTHacks-X 2023](https://uofthacks.com)                     | University of Toronto                                         |  Remote  |
+[Hack@Brown 2023](https://2023.hackatbrown.org)               | Brown University                                              |  Remote  |
 
 </p>
 </details>
