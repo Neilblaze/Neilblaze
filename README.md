@@ -86,6 +86,7 @@ I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also int
   
 | **Year** | **Name of Hackathon** | **Organizer (Name of International Institution/Organisation) 🏫** | **Position / Award 🏆** | **Project** |
 | --- | --- | --- | --- | --- |
+| 2023 | [DeisHacks 2023](https://deishacks-2023.devpost.com) | Brandeis University | *Hidden Gem* Track Prize | [View](https://devpost.com/software/land-of-a-thousand-hills-collectibles) |
 | 2023 | [HackED](https://hacked-2023.devpost.com) | University of Alberta | Best Use of MongoDB Atlas | [View](https://devpost.com/software/edwiz) |
 | 2022 | [Hacky New Year!](https://hacky-new-year.devpost.com) | Major League Hacking | Most Innovative Hack | [View](https://devpost.com/software/collabworks) |
 | 2022 | [Hacky Winterland 2](https://hacky-winterland-2.devpost.com) | Major League Hacking | Best Use of Google Cloud | [View](https://devpost.com/software/save-our-snooze) |
