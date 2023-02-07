@@ -86,7 +86,7 @@ I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also int
   
 | **Year** | **Name of Hackathon** | **Organizer (Name of International Institution/Organisation) 🏫** | **Position / Award 🏆** | **Project** |
 | --- | --- | --- | --- | --- |
-| 2023 | [DeisHacks 2023](https://deishacks-2023.devpost.com) | Brandeis University | *Hidden Gem* Track Prize | [View](https://devpost.com/software/land-of-a-thousand-hills-collectibles) |
+| 2023 | [DeisHacks 2023](https://deishacks-2023.devpost.com) | Brandeis University | *Hidden Jem* Track Prize ([$500](https://user-images.githubusercontent.com/48355572/217180869-9f6dcd0a-3f81-4001-960a-2f341d80d73c.png))  | [View](https://devpost.com/software/land-of-a-thousand-hills-collectibles) |
 | 2023 | [HackED](https://hacked-2023.devpost.com) | University of Alberta | Best Use of MongoDB Atlas | [View](https://devpost.com/software/edwiz) |
 | 2022 | [Hacky New Year!](https://hacky-new-year.devpost.com) | Major League Hacking | Most Innovative Hack | [View](https://devpost.com/software/collabworks) |
 | 2022 | [Hacky Winterland 2](https://hacky-winterland-2.devpost.com) | Major League Hacking | Best Use of Google Cloud | [View](https://devpost.com/software/save-our-snooze) |
@@ -206,9 +206,10 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 <a href="https://www.reddit.com/user/Neilblaze"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971448-480baafd-cc5f-4e38-b68f-eb9dcb8042b0.svg"></a>&nbsp;&nbsp;
 <a href="https://steamcommunity.com/id/NeilzxD"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971528-c2f679d1-fb15-489d-8352-849b192abf0f.svg"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/Neilzblaze"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971602-39e1cdba-e93a-4702-abda-52f93049fcbc.svg"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/neilzblaze"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971691-1a612ff3-ac3b-456a-8237-aa74a423b59c.svg"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/Neilzblaze"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971691-1a612ff3-ac3b-456a-8237-aa74a423b59c.svg"></a>&nbsp;&nbsp;
 <a href="https://discordapp.com/users/694942064131047461"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971778-7a331eb0-d413-4a03-a142-1370a89f6cb2.svg"></a>&nbsp;&nbsp;
-<a href="https://devpost.com/Neilblaze/"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971909-70ff9dfc-3df9-4310-9fc6-abff895d73c3.png"></a>&nbsp;&nbsp;
+<a href="https://matrix.to/#/@neilblaze:matrix.org"><img height="30" src="https://user-images.githubusercontent.com/48355572/217184139-0094b94a-6850-4554-883a-f492f29f2605.png"></a>&nbsp;&nbsp;
+<a href="https://devpost.com/Neilblaze"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971909-70ff9dfc-3df9-4310-9fc6-abff895d73c3.png"></a>&nbsp;&nbsp;
 <a href="https://dev.to/Neilblaze"><img height="28" src="https://user-images.githubusercontent.com/48355572/212684775-78ac7f41-a3d4-4ceb-910a-2bb635035cc2.png"></a>&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/31okuur5huofrrd3n6y6v2gyrjx4"><img height="30" src="https://user-images.githubusercontent.com/48355572/213890881-d6f20dfa-2c5e-4c57-a8d8-d06b276bba50.svg"></a>
 </p>
