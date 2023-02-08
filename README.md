@@ -165,6 +165,19 @@ TODO :-
 - Selected as the Top-6 undergraduate for [**Resarch Week with Google**](https://sites.google.com/view/researchweek2022) among 3500+ applications across India!
 - [**Solace**](https://solace.com) published our hackathon project — [**Ambuplus**](https://devpost.com/software/ambuplus) for [**uOttaHack'21**](https://uottahack-4.devpost.com) on their [Blog](https://solace.com/blog/uottahack-challenge-real-time-ambulance-tracking) page!
 - More dispersed over LinkedIn & others 😉 ....
+
+<br/>
+
+- Hardware Resources 💻⚡ :
+<br/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/48355572/217467493-ff37e8b2-100e-48a0-8919-4885970c3ca7.png">
+</p>
+
+  
+<br/>
+</p>
+</details>
  
 </p>
 </details>
