@@ -60,6 +60,8 @@ I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also int
 [StormHacks 2021](https://stormhacks.com)                     | Simon Fraser University                                       |  Remote  |
 [UofTHacks-X 2023](https://uofthacks.com)                     | University of Toronto                                         |  Remote  |
 [Hack@Brown 2023](https://2023.hackatbrown.org)               | Brown University                                              |  Remote  |
+[McHacks 2023](https://www.mchacks.ca)                        | McGill University                                             |  Remote  |
+
 
 </p>
 </details>
@@ -68,6 +70,9 @@ I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also int
 <p>
 
 - [Layer5](https://layer5.io)
+- [Tenorflow](https://www.tensorflow.org)
+- [Pytorch](https://pytorch.org)
+- [Apache Software Foundation](https://www.apache.org)
 - [DSCAOT](https://dscaot.xyz)
 - [CircuitVerse](https://circuitverse.org)
 - [BioConda](https://github.com/bioconda)
@@ -75,6 +80,7 @@ I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also int
 - [Tesseract Coding](https://www.tesseractcoding.tech)
 - [Fossasia](https://fossasia.org)
 - [Anitab-Org](https://anitab.org)
+
 
 
 </p>
@@ -86,6 +92,7 @@ I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also int
   
 | **Year** | **Name of Hackathon** | **Organizer (Name of International Institution/Organisation) 🏫** | **Position / Award 🏆** | **Project** |
 | --- | --- | --- | --- | --- |
+| 2023 | [EthForAll 2023](https://ethforall.devfolio.co) | Devfolio x ETHIndia | Arcana Network Auth Prize | [View](https://devfolio.co/projects/studysurf-5ec7) |
 | 2023 | [Hacklytics 2023](https://hacklytics23.devpost.com) | Georgia Tech | Best Healthcare Hack | [View](https://devpost.com/software/healthifai) |
 | 2023 | [DeisHacks 2023](https://deishacks-2023.devpost.com) | Brandeis University | *Hidden Jem* Track Prize ([$500](https://user-images.githubusercontent.com/48355572/217180869-9f6dcd0a-3f81-4001-960a-2f341d80d73c.png))  | [View](https://devpost.com/software/land-of-a-thousand-hills-collectibles) |
 | 2023 | [HackED](https://hacked-2023.devpost.com) | University of Alberta | Best Use of MongoDB Atlas | [View](https://devpost.com/software/edwiz) |
