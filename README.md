@@ -92,12 +92,13 @@ I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also int
   
 | **Year** | **Name of Hackathon** | **Organizer (Name of International Institution/Organisation) 🏫** | **Position / Award 🏆** | **Project** |
 | --- | --- | --- | --- | --- |
+| 2023 | [Hack Around the World 2](https://hack-around-the-world-2.devpost.com) | Major League Hacking (MLH) | Best Domain Name from GoDaddy Registry [APAC Only] | [View](https://devpost.com/software/tomravel) |
 | 2023 | [EthForAll 2023](https://ethforall.devfolio.co) | Devfolio x ETHIndia | Arcana Network Auth Prize | [View](https://devfolio.co/projects/studysurf-5ec7) |
 | 2023 | [Hacklytics 2023](https://hacklytics23.devpost.com) | Georgia Tech | Best Healthcare Hack | [View](https://devpost.com/software/healthifai) |
 | 2023 | [DeisHacks 2023](https://deishacks-2023.devpost.com) | Brandeis University | *Hidden Jem* Track Prize ([$500](https://user-images.githubusercontent.com/48355572/217180869-9f6dcd0a-3f81-4001-960a-2f341d80d73c.png))  | [View](https://devpost.com/software/land-of-a-thousand-hills-collectibles) |
 | 2023 | [HackED](https://hacked-2023.devpost.com) | University of Alberta | Best Use of MongoDB Atlas | [View](https://devpost.com/software/edwiz) |
 | 2022 | [Hacky New Year!](https://hacky-new-year.devpost.com) | Major League Hacking | Most Innovative Hack | [View](https://devpost.com/software/collabworks) |
-| 2022 | [Hacky Winterland 2](https://hacky-winterland-2.devpost.com) | Major League Hacking | Best Use of Google Cloud | [View](https://devpost.com/software/save-our-snooze) |
+| 2022 | [Hacky Winterland 2](https://hacky-winterland-2.devpost.com) | Major League Hacking (MLH) | Best Use of Google Cloud | [View](https://devpost.com/software/save-our-snooze) |
 | 2022 | [MongoDB Atlas Hackathon 2022](https://dev.to/devteam/announcing-the-mongodb-atlas-hackathon-2022-on-dev-2107) | MongoDB x DEV | Runner-Up — Choose Your Own Adventure | [View](https://dev.to/devteam/mongodb-atlas-hackathon-2022-winners-announced-iib#:~:text=dotnet%20%23mongodb-,Binoculearn.ai) |
 | 2022 | [MetroHacks 2022](https://metrohacks-2022.devpost.com) | MetroHacks — ASR-X | 1st Place (Best Overall) - Education Track (18+, Advanced Category) ; Most Creative Use of *Twilio* | [View](https://devpost.com/software/binoculearn) |
 | 2022 | [Impractical Hackers 2](https://impracticalhackers2.devpost.com) | Major League Hacking (MLH) | Best Domain Name from GoDaddy Registry [APAC Only] | [View](https://devpost.com/software/sonicsurf) |
