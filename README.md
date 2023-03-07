@@ -92,6 +92,8 @@ I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also int
   
 | **Year** | **Name of Hackathon** | **Organizer (Name of International Institution/Organisation) 🏫** | **Position / Award 🏆** | **Project** |
 | --- | --- | --- | --- | --- |
+| 2023 | [Hacktech 2023](https://hacktech-2023.devpost.com) | California Institute of Technology (Caltech) | Grand Prize — Best Hack (Senior Division) | [View](https://devpost.com/software/up-cycle) |
+| 2023 | [Hack the Hill](https://hack-the-hill.devpost.com) | University of Ottawa & Carleton University | Best Use of Google Cloud | [View](https://devpost.com/software/onionalyze) |
 | 2023 | [Hack Around the World 2](https://hack-around-the-world-2.devpost.com) | Major League Hacking (MLH) | Best Domain Name from GoDaddy Registry [APAC Only] | [View](https://devpost.com/software/tomravel) |
 | 2023 | [EthForAll 2023](https://ethforall.devfolio.co) | Devfolio x ETHIndia | Arcana Network Auth Prize | [View](https://devfolio.co/projects/studysurf-5ec7) |
 | 2023 | [Hacklytics 2023](https://hacklytics23.devpost.com) | Georgia Tech | Best Healthcare Hack | [View](https://devpost.com/software/healthifai) |
@@ -110,7 +112,7 @@ I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also int
 | 2022 | [SD Hacks](https://sd-hacks-2022.devpost.com) | UC San Diego | First Place ($1000) - MageAI challenge (Tied) | [View](https://devpost.com/software/hydroptimum) |
 | 2022 | [HackPrinceton Spring'22](https://hackprinceton-spring-2022.devpost.com) | Princeton University | Most Creative Use of Twilio | [View](https://devpost.com/software/fintruist) |
 | 2022 | [Faber Web3 Hackathon](https://faberweb3.devpost.com) | Faber Inc. | Third Best Overall ; Across the Line Award | [View](https://devpost.com/software/sparkstream) |
-| 2022 | [Hacktech](https://hacktech-2022.devpost.com) | Caltech — California Institute of Technology | Best ML/AI Hack & *Passion Prize by 1517*  | [View](https://devpost.com/software/ziro) |
+| 2022 | [Hacktech](https://hacktech-2022.devpost.com) | California Institute of Technology (Caltech) | Best ML/AI Hack & *Passion Prize by 1517*  | [View](https://devpost.com/software/ziro) |
 | 2022 | [HackNYU](https://hacknyu-2022.devpost.com) | New York University | Best Overall — *Track: Inclusion*  | [View](https://devpost.com/software/parampower) |
 | 2021 | [Kent Hack Enough](https://kent-hack-enough-2021.devpost.com) | Kent State University | Best Use of Google Cloud, Best International Hack (Tied)  | [View](https://devpost.com/software/unisight) |
 | 2021 | [MetroHacks](https://metrohacks2021.devpost.com) | ACP x Tsinghua University | Best Overall  | [View](https://devpost.com/software/zentube) |
