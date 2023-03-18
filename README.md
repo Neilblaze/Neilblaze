@@ -175,6 +175,11 @@ TODO :-
 - Regional Top-10 in [**Build for Digital India** (BFDI), 2020](https://events.withgoogle.com/buildfordigitalindia), hosted by [**MeitY**](https://www.meity.gov.in/) and [**Google**](http://google.com) among **51/4756** teams across India! 
 - Selected as the Top-6 undergraduate for [**Resarch Week with Google**](https://sites.google.com/view/researchweek2022) among 3500+ applications across India!
 - [**Solace**](https://solace.com) published our hackathon project — [**Ambuplus**](https://devpost.com/software/ambuplus) for [**uOttaHack'21**](https://uottahack-4.devpost.com) on their [Blog](https://solace.com/blog/uottahack-challenge-real-time-ambulance-tracking) page!
+- Project [**Adoptic**](https://devpost.com/software/adoptic) got highlighted on the [**PennState**](https://news.engr.psu.edu/2021/hackpsu-winners.aspx#:~:text=and%20others%20as%20far%20as%20West%20Bengal%2C%20India) engineering blog!
+- The [**Brandeishoot**](https://brandeishoot.com/2023/02/17/brandeis-university-hosts-sixth-annual-deishacks) blog showcased our Project [**Land of a Thousand Hills Collectibles**](https://devpost.com/software/land-of-a-thousand-hills-collectibles) built at [**DeisHacks** 2023](https://deishacks-2023.devpost.com)!
+- The official blog of [**Caltech**](https://www.caltech.edu/about/news/hacktech#:~:Upcycle%2C%20a%20web,their%20clothes%20into.&text=Upcycle%2C%20a%20web,their%20clothes%20into.) featured Project [**Upcycle**](https://devpost.com/software/up-cycle) built at [**Hacktech 2023**](https://hacktech-2023.devpost.com)!
+- Project [**Upcycle**](https://devpost.com/software/up-cycle) got featured on [**Karmactive**](https://www.karmactive.com/students-harness-technology-for-sustainability-at-caltechs-hacktech/#:~:text=A%20web%20app,interactions%20between%20students.)!
+- As a recipient of the esteemed [**Dan Kohn Scholarship**](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/scholarships/#:~:text=The-,Dan%20Kohn%20Scholarship,-Fund%20exists%20to), I have been awarded a *fully funded trip* to _**KubeCon** + **CloudNativeCon Europe 2023**_, which will take place in Amsterdam, The Netherlands and is hosted by the [**Linux Foundation**](https://www.linuxfoundation.org).
 - More dispersed over LinkedIn & others 😉 ....
 
 <br/>
