@@ -36,6 +36,7 @@ I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also int
 
 - [Google Code-In'19](https://codein.withgoogle.com/archive/2019/organization/6265089057882112/) @Tensorflow
 - [HackInCodes'20](https://hakincodes.tech)
+- [Kharagpur Winter of Code (KWoC) 2020](https://kwoc.kossiitkgp.org) @IITKgp
 - [NJACK Winter of Code 2020](http://njackwinterofcode.github.io) @IITPatna
 - [DSC NSEC Winter of Code 2020](https://winterofcode.com)
 - Script Winter of Code ([SWOC](http://swoc.tech)) 2020
