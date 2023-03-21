@@ -240,6 +240,9 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 <a href="https://discordapp.com/users/694942064131047461"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971778-7a331eb0-d413-4a03-a142-1370a89f6cb2.svg"></a>&nbsp;&nbsp;
 <a href="https://matrix.to/#/@neilblaze:matrix.org"><img height="28" src="https://user-images.githubusercontent.com/48355572/217186918-e775a18c-2b5d-43e6-9218-990b5c02b99c.svg"></a>&nbsp;&nbsp;
 <a href="https://devpost.com/Neilblaze"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971909-70ff9dfc-3df9-4310-9fc6-abff895d73c3.png"></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/@Neilblaze"><img height="30" src="https://user-images.githubusercontent.com/48355572/226551770-c02e6606-b4bf-4cfa-9f95-e36147025a5d.svg"></a>&nbsp;&nbsp;
+<a href="https://www.twitch.tv/neilblaze"><img height="30" src="https://user-images.githubusercontent.com/48355572/226552192-7fd852e1-0020-4022-9013-81725949ca8f.svg"></a>&nbsp;&nbsp;
+<a href="https://soundcloud.com/neilblaze"><img height="30" src="https://user-images.githubusercontent.com/48355572/226553104-a70bb7c3-7d75-4c42-9ebf-b53f3a8eae9a.svg"></a>&nbsp;&nbsp;
 <a href="https://dev.to/Neilblaze"><img height="28" src="https://user-images.githubusercontent.com/48355572/212684775-78ac7f41-a3d4-4ceb-910a-2bb635035cc2.png"></a>&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/31okuur5huofrrd3n6y6v2gyrjx4"><img height="30" src="https://user-images.githubusercontent.com/48355572/213890881-d6f20dfa-2c5e-4c57-a8d8-d06b276bba50.svg"></a>
 </p>
