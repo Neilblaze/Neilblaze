@@ -97,6 +97,7 @@ I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also int
 | 2023 | [Hack the Hill](https://hack-the-hill.devpost.com) | University of Ottawa & Carleton University | Best Use of Google Cloud | [View](https://devpost.com/software/onionalyze) |
 | 2023 | [Hack Around the World 2](https://hack-around-the-world-2.devpost.com) | Major League Hacking (MLH) | Best Domain Name from GoDaddy Registry [APAC Only] | [View](https://devpost.com/software/tomravel) |
 | 2023 | [EthForAll 2023](https://ethforall.devfolio.co) | Devfolio x ETHIndia | Arcana Network Auth Prize | [View](https://devfolio.co/projects/studysurf-5ec7) |
+| 2023 | [Linode Hackathon 2023](https://dev.to/devteam/linode-dev-hackathon-winners-announced-2821) | Linode x DEV | Runner-Up — Smooth Shifters | [View](https://dev.to/devteam/linode-dev-hackathon-winners-announced-2821#:~:text=%23linodehackathon-,HealthifAI) |
 | 2023 | [Hacklytics 2023](https://hacklytics23.devpost.com) | Georgia Tech | Best Healthcare Hack | [View](https://devpost.com/software/healthifai) |
 | 2023 | [DeisHacks 2023](https://deishacks-2023.devpost.com) | Brandeis University | *Hidden Jem* Track Prize ([$500](https://user-images.githubusercontent.com/48355572/217180869-9f6dcd0a-3f81-4001-960a-2f341d80d73c.png))  | [View](https://devpost.com/software/land-of-a-thousand-hills-collectibles) |
 | 2023 | [HackED](https://hacked-2023.devpost.com) | University of Alberta | Best Use of MongoDB Atlas | [View](https://devpost.com/software/edwiz) |
