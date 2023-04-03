@@ -95,6 +95,7 @@ I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also int
 | --- | --- | --- | --- | --- |
 | 2023 | [Hacktech 2023](https://hacktech-2023.devpost.com) | California Institute of Technology (Caltech) | Grand Prize — Best Hack (Senior Division) | [View](https://devpost.com/software/up-cycle) |
 | 2023 | [Hack the Hill](https://hack-the-hill.devpost.com) | University of Ottawa & Carleton University | Best Use of Google Cloud | [View](https://devpost.com/software/onionalyze) |
+| 2023 | [Scaling Ethereum](https://ethglobal.com/events/scaling2023) | ETH Global | Polybase — Pool Prize | [View](https://ethglobal.com/showcase/fund3r-fw35o) |
 | 2023 | [Hack Around the World 2](https://hack-around-the-world-2.devpost.com) | Major League Hacking (MLH) | Best Domain Name from GoDaddy Registry [APAC Only] | [View](https://devpost.com/software/tomravel) |
 | 2023 | [EthForAll 2023](https://ethforall.devfolio.co) | Devfolio x ETHIndia | Arcana Network Auth Prize | [View](https://devfolio.co/projects/studysurf-5ec7) |
 | 2023 | [Linode Hackathon 2023](https://dev.to/devteam/linode-dev-hackathon-winners-announced-2821) | Linode x DEV | Runner-Up — Smooth Shifters | [View](https://dev.to/devteam/linode-dev-hackathon-winners-announced-2821#:~:text=%23linodehackathon-,HealthifAI) |
@@ -243,6 +244,7 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 <a href="https://discordapp.com/users/694942064131047461"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971778-7a331eb0-d413-4a03-a142-1370a89f6cb2.svg"></a>&nbsp;&nbsp;
 <a href="https://matrix.to/#/@neilblaze:matrix.org"><img height="28" src="https://user-images.githubusercontent.com/48355572/217186918-e775a18c-2b5d-43e6-9218-990b5c02b99c.svg"></a>&nbsp;&nbsp;
 <a href="https://devpost.com/Neilblaze"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971909-70ff9dfc-3df9-4310-9fc6-abff895d73c3.png"></a>&nbsp;&nbsp;
+<a href="https://gitlab.com/Neilblaze"><img height="29" src="https://user-images.githubusercontent.com/48355572/229457184-524c372d-8067-48ac-a09e-444010da9ffd.png"></a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/@Neilblaze"><img height="30" src="https://user-images.githubusercontent.com/48355572/226551770-c02e6606-b4bf-4cfa-9f95-e36147025a5d.svg"></a>&nbsp;&nbsp;
 <a href="https://www.twitch.tv/neilblaze"><img height="30" src="https://user-images.githubusercontent.com/48355572/226552192-7fd852e1-0020-4022-9013-81725949ca8f.svg"></a>&nbsp;&nbsp;
 <a href="https://soundcloud.com/neilblaze"><img height="30" src="https://user-images.githubusercontent.com/48355572/226553104-a70bb7c3-7d75-4c42-9ebf-b53f3a8eae9a.svg"></a>&nbsp;&nbsp;
