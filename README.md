@@ -94,6 +94,7 @@ I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also int
 | **Year** | **Name of Hackathon** | **Organizer (Name of International Institution/Organisation) 🏫** | **Position / Award 🏆** | **Project** |
 | --- | --- | --- | --- | --- |
 | 2023 | [Hacktech 2023](https://hacktech-2023.devpost.com) | California Institute of Technology (Caltech) | Grand Prize — Best Hack (Senior Division) | [View](https://devpost.com/software/up-cycle) |
+| 2023 | [University of Bridgeport Hackathon](https://bpt-hackathon.devpost.com) | University of Bridgeport | 1st Place Prize | [View](https://devpost.com/software/lyceum) |
 | 2023 | [Hack the Hill](https://hack-the-hill.devpost.com) | University of Ottawa & Carleton University | Best Use of Google Cloud | [View](https://devpost.com/software/onionalyze) |
 | 2023 | [Scaling Ethereum](https://ethglobal.com/events/scaling2023) | ETH Global | Polybase — Pool Prize | [View](https://ethglobal.com/showcase/fund3r-fw35o) |
 | 2023 | [Hack Around the World 2](https://hack-around-the-world-2.devpost.com) | Major League Hacking (MLH) | Best Domain Name from GoDaddy Registry [APAC Only] | [View](https://devpost.com/software/tomravel) |
