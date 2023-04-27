@@ -31,7 +31,7 @@ I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also int
 
 
 <p align="left">
-<details><summary> 🟢 I served as Mentor in some of the Org's ⏬</summary>
+<details><summary> 🟢 I served as Mentor in some of the Org's <img src="https://user-images.githubusercontent.com/48355572/234978665-08b7d16e-dace-479a-a061-478972c43f6b.gif" width="14px" height="14px"></summary>
 <p>
 
 - [Google Code-In'19](https://codein.withgoogle.com/archive/2019/organization/6265089057882112/) @Tensorflow
@@ -67,7 +67,7 @@ I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also int
 </p>
 </details>
 
-<details><summary> 🔴 Organizations that I'm into ⏬</summary> 
+<details><summary> 🔴 Organizations that I'm into <img src="https://user-images.githubusercontent.com/48355572/234978665-08b7d16e-dace-479a-a061-478972c43f6b.gif" width="14px" height="14px"></summary> 
 <p>
 
 - [Layer5](https://layer5.io)
@@ -88,10 +88,10 @@ I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also int
 </details>
 
 
-<details><summary> 🔵 Hackathons (<i>International</i> + <i>National</i>) that I've Won 🏆 ⏬</summary> 
+<details><summary> 🔵 Hackathons (<i>International</i> + <i>National</i>) that I've Won 🏆 <img src="https://user-images.githubusercontent.com/48355572/234978665-08b7d16e-dace-479a-a061-478972c43f6b.gif" width="14px" height="14px"></summary> 
 <p><br/>
   
-| **Year** | **Name of Hackathon** | **Organizer (Name of International Institution/Organisation) 🏫** | **Position / Award 🏆** | **Project** |
+| **Year** | **Name of Hackathon** | **Organizer (Name of International Institution/Organisation) 🏫** | **Position / Award 🏆** | **Explore Project** |
 | --- | --- | --- | --- | --- |
 | 2023 | [Hacktech 2023](https://hacktech-2023.devpost.com) <img src="https://user-images.githubusercontent.com/48355572/234949697-2534f427-c3e9-43bd-b81c-353c4f21405d.jpg" width="18px" height="14px"> | California Institute of Technology (Caltech) | Grand Prize — Best Hack (Senior Division) | [View](https://devpost.com/software/up-cycle) <a href="https://devpost.com/software/up-cycle" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/222726664-140bd1cf-fb29-4fd5-8926-d659c4632ea7.png" width="12px" height="12px"></a> |
 | 2023 | [University of Bridgeport Hackathon](https://bpt-hackathon.devpost.com) <img src="https://user-images.githubusercontent.com/48355572/234949697-2534f427-c3e9-43bd-b81c-353c4f21405d.jpg" width="18px" height="14px"> | University of Bridgeport | 1st Place Prize | [View](https://devpost.com/software/lyceum) <a href="https://devpost.com/software/lyceum" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/222726664-140bd1cf-fb29-4fd5-8926-d659c4632ea7.png" width="12px" height="12px"></a> |
@@ -149,11 +149,13 @@ I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also int
 
 ... and *20+* more across Devpost, Devfolio, AngelHack & Other Platforms! <br/>
 💡 **Fun Fact** : I don't participate in domestic ones much since there, (Politics + Partiality) >> Skills 😆
+
+<br/>
   
 </p>
 </details>
 
-<details><summary> 🟡 Fellowships that I've achieved ⏬</summary> 
+<details><summary> 🟡 Fellowships that I've achieved <img src="https://user-images.githubusercontent.com/48355572/234978665-08b7d16e-dace-479a-a061-478972c43f6b.gif" width="14px" height="14px"></summary> 
 <p>
 
 - Research Assistant (RA) Intern at [IIIT Hyderabad](https://www.iiit.ac.in) <br/>
@@ -166,14 +168,15 @@ I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also int
   
 TODO :- 
 
-- [MLH Fellowship](https://fellowship.mlh.io/) ❎
+- [MLH Fellowship](https://fellowship.mlh.io/) ⏳
 - [LFX Mentorship](https://lfx.linuxfoundation.org/) ❎
 - [NTU Research Fellowship](https://www.mmlab-ntu.com/careers.html) ❎
 
 </p>
+<br/>
 </details>
 
-<details><summary> ⚪ A few Easter Egg's 🥚 ⏬</summary> 
+<details><summary> ⚪ A few Easter Egg's 🥚 <img src="https://user-images.githubusercontent.com/48355572/234978665-08b7d16e-dace-479a-a061-478972c43f6b.gif" width="14px" height="14px"></summary> 
 <p>
 
 - Regional Top-10 in [**Build for Digital India** (BFDI), 2020](https://events.withgoogle.com/buildfordigitalindia), hosted by [**MeitY**](https://www.meity.gov.in/) and [**Google**](http://google.com) among **51/4756** teams across India! 
@@ -205,7 +208,7 @@ TODO :-
 </details>
   
   
-<details><summary> 🔮 My Tech Stack 👨‍💻 ⏬</summary> 
+<details><summary> 🔮 My Tech Stack 👨‍💻 <img src="https://user-images.githubusercontent.com/48355572/234978665-08b7d16e-dace-479a-a061-478972c43f6b.gif" width="14px" height="14px"></summary> 
 <p><br/>
 
 <p align="center">
