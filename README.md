@@ -31,7 +31,7 @@ I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also int
 
 
 <p align="left">
-<details><summary> 🟢 I served as Mentor in some of the Org's <img src="https://user-images.githubusercontent.com/48355572/234978665-08b7d16e-dace-479a-a061-478972c43f6b.gif" width="14px" height="14px"></summary>
+<details><summary> 🟢 Open Source & Mentorship Stats <img src="https://user-images.githubusercontent.com/48355572/234978665-08b7d16e-dace-479a-a061-478972c43f6b.gif" width="14px" height="14px"></summary>
 <p>
 
 - [Google Code-In'19](https://codein.withgoogle.com/archive/2019/organization/6265089057882112/) @Tensorflow
@@ -46,8 +46,12 @@ I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also int
 <br/>
 
 💡 **Fun Fact** : I've mentored over ***2.5K+*** students across the globe by mentoring in few International Hackathons, for e.g. :- 
+<br/>
 
+<table><tr><td valign="top" width="60%">
 
+## <a href="https://github.com/neilblaze"><img src="https://user-images.githubusercontent.com/48355572/234984847-4e6b24f7-6a4a-4428-9924-fd34774d512c.png" title="MentorshipLogo" alt="Provided mentorship in the following hackathons" width="auto"/> </a>
+ 
 | **Hackathon** | **Host** | **Place** |
 | --- | --- | --- |
 [Hack the North 2020++](https://hackthenorth.com)             | University of Waterloo, CA                                    |  Remote  |
@@ -62,28 +66,28 @@ I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also int
 [UofTHacks-X 2023](https://uofthacks.com)                     | University of Toronto                                         |  Remote  |
 [Hack@Brown 2023](https://2023.hackatbrown.org)               | Brown University                                              |  Remote  |
 [McHacks 2023](https://www.mchacks.ca)                        | McGill University                                             |  Remote  |
+ 
+</td><td valign="top" width="40%">
 
+## <a href="https://github.com/neilblaze"><img src="https://user-images.githubusercontent.com/48355572/234985823-3da24d69-f3c8-4fac-b789-0b683c378b53.png" title="InterestedOrganizations" alt="Organizations of interest" width="auto"/> </a>   
 
-</p>
-</details>
-
-<details><summary> 🔴 Organizations that I'm into <img src="https://user-images.githubusercontent.com/48355572/234978665-08b7d16e-dace-479a-a061-478972c43f6b.gif" width="14px" height="14px"></summary> 
-<p>
-
-- [Layer5](https://layer5.io)
-- [Tenorflow](https://www.tensorflow.org)
-- [Pytorch](https://pytorch.org)
-- [Apache Software Foundation](https://www.apache.org)
+- [Tensorflow](https://github.com/tensorflow) <img src="https://user-images.githubusercontent.com/48355572/234987454-6b44ef88-e396-4a93-88e2-8e61274257ea.png" width="14.5px" height="15.5px">
+- [Apache Software Foundation](https://github.com/apache) <img src="https://user-images.githubusercontent.com/48355572/234987743-dbccbb63-4cd8-4e42-8e71-bff1249cf939.png" width="15px" height="15px">
+- [Pytorch](https://github.com/pytorch) <img src="https://user-images.githubusercontent.com/48355572/234988080-cf2778c5-3599-4647-ae7d-d5a162c86fb8.png" width="10px" height="13px">
+- [Numpy](https://github.com/numpy) <img src="https://user-images.githubusercontent.com/48355572/234988613-acbb0932-5bc2-47ae-83d6-70ced6cd724d.png" width="15px" height="15px">
+- [Layer5](https://layer5.io) <img src="https://user-images.githubusercontent.com/48355572/234989129-48e5f558-7c33-485d-83bb-7651215c3058.png" width="12px" height="12px">
+- [Sigstore](https://github.com/sigstore) <img src="https://user-images.githubusercontent.com/48355572/234989351-e59efb75-e7af-4e67-8f00-1be9c915f96e.png" width="12px" height="12px">
+- [Cilium](https://github.com/cilium) <img src="https://user-images.githubusercontent.com/48355572/234989858-5556f23e-2299-4bd8-adb8-4a400959bc50.png" width="14px" height="14px">
+- [Processing Foundation](https://github.com/processing) <img src="https://user-images.githubusercontent.com/48355572/234990297-b0adceb5-5fcd-4522-9cc4-f91991f9c112.png" width="12px" height="14px">
+- [Publiclab](https://github.com/publiclab) <img src="https://user-images.githubusercontent.com/48355572/234990484-3b7c777e-fd4b-4c64-a2f9-4e5dc96c631f.png" width="12.5px" height="12px">
 - [DSCAOT](https://dscaot.xyz)
-- [CircuitVerse](https://circuitverse.org)
-- [BioConda](https://github.com/bioconda)
-- [Publiclab](https://publiclab.org)
-- [Tesseract Coding](https://www.tesseractcoding.tech)
-- [Fossasia](https://fossasia.org)
-- [Anitab-Org](https://anitab.org)
+- [BioConda](https://github.com/bioconda) <img src="https://user-images.githubusercontent.com/48355572/234990936-1dceeb8d-aa92-48f9-b529-b5e04f44cd69.png" width="13px" height="13px">
+- [Fossasia](https://github.com/fossasia) <img src="https://user-images.githubusercontent.com/48355572/234991428-bde6d1cc-529b-4258-9bd2-fee9b95de049.png" width="12px" height="12px">
+- [Anitab-Org](https://github.com/anitab-org) <img src="https://user-images.githubusercontent.com/48355572/234991658-3fdb31ec-5ad1-4791-aa77-41dd0177c8ca.png" width="12px" height="12px">
 
 
-
+</td></tr></table>
+<br/>
 </p>
 </details>
 
