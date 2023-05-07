@@ -6,7 +6,7 @@
 # Hi, I'm Pratyay <img src="https://user-images.githubusercontent.com/48355572/205912228-52b28bd4-910b-4447-934f-be8b19a3aec5.gif" width="30px" height="30px">
 Welcome to my favourite place! I'm a passionate ~~developer~~ **_innovator_** majoring in [*ECE*](https://en.wikipedia.org/?title=Electronics_and_Communication_Engineering&redirect=no) with a minor in [*CS*](https://en.wikipedia.org/wiki/Computer_science), striving to build [_SOTA_](https://en.wikipedia.org/wiki/State_of_the_art) solutions for challenging problems via intersecting Web & Machine Learning to create amazing stuff that brings positive change in human lives. I love tinkering with electronics, while I primarily work on applied Machine Learning (majorly Computer Vision), Backend (WebDev) & DevOps(Integrations, Microservices & Deployment). 🛠️
 
-I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also into System Designing and Reverse Engineering. I define myself as an independant [RSE](https://ukrse.github.io/who.html) as well as a competitive hackathon aficionado, with more than [50+ wins 🏆](https://bit.ly/3GPoE0y). Besides, I'm a _Competitive Speedcuber_, _Netflix nerd_ & _EDM fanatic_. Whether that be through creating neural networks or building web applications, all my work is focused on one thing: **impact** 📈. When I'm not coding, you can find me [sketching](https://urlx.vercel.app/ed-sheeran), doing CP, or playing soccer! The love for new skills and desire to create something which can directly influence people, keeps me interested. 🚀
+I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also into System Designing and Reverse Engineering. I define myself as an independant [RSE](https://ukrse.github.io/who.html) as well as a competitive hackathon aficionado, with more than [50+ wins 🏆](https://github.com/Neilblaze#:~:text=%F0%9F%94%B5-,Hackathons,-(International%20%2B). Besides, I'm a _Competitive Speedcuber_, _Netflix nerd_ & _EDM fanatic_. Whether that be through creating neural networks or building web applications, all my work is focused on one thing: **impact** 📈. When I'm not coding, you can find me [sketching](https://urlx.vercel.app/ed-sheeran), doing CP, or playing soccer! The love for new skills and desire to create something which can directly influence people, keeps me interested. 🚀
 <img align='right' src='https://user-images.githubusercontent.com/48355572/205913210-a40d093c-c40f-4cf7-b6ec-c67cd953476a.png' width='177'>
 
 - 🔭 I’m currently working on my [Blog](https://blog.neilblaze.live) <a href="https://blog.neilblaze.live"><img src="https://user-images.githubusercontent.com/48355572/234940695-3b5baa71-01f5-4156-aca0-7a759bdec650.gif" width="14px" height="14px"></a>
@@ -159,7 +159,7 @@ I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also int
 </p>
 </details>
 
-<details><summary> 🟡 Fellowships that I've achieved <img src="https://user-images.githubusercontent.com/48355572/234978665-08b7d16e-dace-479a-a061-478972c43f6b.gif" width="14px" height="14px"></summary> 
+<details><summary> 🟡 Been a part of Prestigious Programs including (but not limited to) <img src="https://user-images.githubusercontent.com/48355572/234978665-08b7d16e-dace-479a-a061-478972c43f6b.gif" width="14px" height="14px"></summary> 
 <p>
 
 - Research Assistant (RA) Intern at [IIIT Hyderabad](https://www.iiit.ac.in) <br/>
@@ -168,7 +168,9 @@ I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also int
   ↳ Worked on async wrappers of `k8s.io/apiserver` under [CNCF](https://www.cncf.io) <br/><br/>
 - [MITACS GRI'21](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) — Remote // uAlberta <br/>
   ↳ Worked on Mobile Head Motion-Tracking Unit based on RCV designed for specially-abled under Dr. Nilanjan Ray (Department of Computing Science, University of Alberta, CA) <br/><br/>
-- [The Visual Computing & Artificial Intelligence Lab at TUM, 2022](https://niessnerlab.org/) — Remote
+- [The Visual Computing & Artificial Intelligence Lab at TUM, 2022](https://niessnerlab.org/) — Remote <br/>
+  ↳ Worked on Panoptic Segmantation & Object Detection with YOLOv8  <br/><br/>
+- [Google Summer of Code 2023](https://summerofcode.withgoogle.com) ~ [Tensorflow](https://summerofcode.withgoogle.com/programs/2023/organizations/tensorflow-d1) (MediaPipe / GoogleAI) — Remote (Present) <a href="https://summerofcode.withgoogle.com/programs/2023/organizations/tensorflow-d1" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/234949697-2534f427-c3e9-43bd-b81c-353c4f21405d.jpg" width="18px" height="14px"></a> <br/><br/>
   
 TODO :- 
 
