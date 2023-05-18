@@ -41,6 +41,7 @@ I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also int
 - [DSC NSEC Winter of Code 2020](https://winterofcode.com)
 - Script Winter of Code ([SWOC](http://swoc.tech)) 2020
 - [Hyperedge Winter of Blockchain](https://hyperedge.so/wob) 2023
+- [GirlScript Summer of Code](https://gssoc.girlscript.tech) (GSSoC) 2023
 
 
 <br/>
@@ -80,7 +81,7 @@ I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also int
 - [Cilium](https://github.com/cilium) <img src="https://user-images.githubusercontent.com/48355572/234989858-5556f23e-2299-4bd8-adb8-4a400959bc50.png" width="14px" height="14px">
 - [Processing Foundation](https://github.com/processing) <img src="https://user-images.githubusercontent.com/48355572/234990297-b0adceb5-5fcd-4522-9cc4-f91991f9c112.png" width="12px" height="14px">
 - [Publiclab](https://github.com/publiclab) <img src="https://user-images.githubusercontent.com/48355572/234990484-3b7c777e-fd4b-4c64-a2f9-4e5dc96c631f.png" width="12.5px" height="12px">
-- [DSCAOT](https://dscaot.xyz)
+- [DSCAOT](https://dscaot.xyz) <img src="https://github.com/apache/apisix/assets/48355572/74555b59-4af8-42be-802c-a3837f3ea2ad" width="18px" height="10px">
 - [BioConda](https://github.com/bioconda) <img src="https://user-images.githubusercontent.com/48355572/234990936-1dceeb8d-aa92-48f9-b529-b5e04f44cd69.png" width="13px" height="13px">
 - [Fossasia](https://github.com/fossasia) <img src="https://user-images.githubusercontent.com/48355572/234991428-bde6d1cc-529b-4258-9bd2-fee9b95de049.png" width="12px" height="12px">
 - [Anitab-Org](https://github.com/anitab-org) <img src="https://user-images.githubusercontent.com/48355572/234991658-3fdb31ec-5ad1-4791-aa77-41dd0177c8ca.png" width="12px" height="12px">
@@ -174,15 +175,18 @@ I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also int
   
 TODO :- 
 
-- [MLH Fellowship](https://fellowship.mlh.io/) ⏳
-- [LFX Mentorship](https://lfx.linuxfoundation.org/) ❎
+- [MLH Fellowship](https://fellowship.mlh.io) ⏳
+- [LFX/N Mentorship](https://lfx.linuxfoundation.org) ⏳
+- [Google Season of Docs](https://developers.google.com/season-of-docs) (2023) → _**Shortlisted**_, but *had to drop out* because of **GSoC'23** 🥺
+- [Outreachy 2023](https://www.outreachy.org) (May Cohort) → _**Selected**_, but *had to drop out* because of **GSoC'23** 💔
+- [Summer of Bitcoin](https://www.summerofbitcoin.org) (2023) ❎
 - [NTU Research Fellowship](https://www.mmlab-ntu.com/careers.html) ❎
 
 </p>
 <br/>
 </details>
 
-<details><summary> ⚪ A few Easter Egg's 🥚 <img src="https://user-images.githubusercontent.com/48355572/234978665-08b7d16e-dace-479a-a061-478972c43f6b.gif" width="14px" height="14px"></summary> 
+<details><summary> ⚪ Journey & a few Easter Egg's 🥚 <img src="https://user-images.githubusercontent.com/48355572/234978665-08b7d16e-dace-479a-a061-478972c43f6b.gif" width="14px" height="14px"></summary> 
 <p>
 
 - Regional Top-10 in [**Build for Digital India** (BFDI), 2020](https://events.withgoogle.com/buildfordigitalindia), hosted by [**MeitY**](https://www.meity.gov.in/) and [**Google**](http://google.com) among **51/4756** teams across India! 
@@ -195,6 +199,9 @@ TODO :-
 - The official blog of [**Caltech**](https://www.caltech.edu/about/news/hacktech#:~:Upcycle%2C%20a%20web,their%20clothes%20into.&text=Upcycle%2C%20a%20web,their%20clothes%20into.) featured Project [**Upcycle**](https://devpost.com/software/up-cycle) built at [**Hacktech 2023**](https://hacktech-2023.devpost.com)!
 - Project [**Upcycle**](https://devpost.com/software/up-cycle) got featured on [**Karmactive**](https://www.karmactive.com/students-harness-technology-for-sustainability-at-caltechs-hacktech/#:~:text=A%20web%20app,interactions%20between%20students.)!
 - As a recipient of the esteemed [**Dan Kohn Scholarship**](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/scholarships/#:~:text=The-,Dan%20Kohn%20Scholarship,-Fund%20exists%20to), I have been awarded a *fully funded trip* to _**KubeCon** + **CloudNativeCon Europe 2023**_, which will take place in Amsterdam, The Netherlands and is hosted by the [**Linux Foundation**](https://www.linuxfoundation.org).
+- Applied, interviewed & even got _shortlisted_ for [_**Google Season of Docs**_](https://developers.google.com/season-of-docs) *2023* (under both [**Sigstore**](https://github.com/sigstore/docs/wiki/Season-of-Docs-2023-Organization-Project-Proposal) & [**AsyncAPI**](https://github.com/orgs/asyncapi/discussions/601) org), but then decided to drop out of GSoD'23 (full-time) because of *recurring clash between GSoD'23* & *GSoC'23* (full-time). Both [Lisa](https://lisatagliaferri.org) (from Sigstore) & [Alejandra](https://github.com/alequetzalli) (from AsyncAPI) advised me to apply next semester. ☀️
+- Was accepted into [_**Outreachy**_](https://www.outreachy.org)'s May 2023 cohort for the project "_Extend automated validation of API reference request/response samples._" However, I had to withdraw due to a scheduling conflict between Outreachy and GSoC'23. Outreachy's eligibility criteria prevent participation in both programs (refer to [this](https://bit.ly/3MC0Z82)). Sadly, this means I won't have the opportunity to participate in Outreachy in the near future. 💔
+- [**HealthifAI**](https://devpost.com/software/healthifai) has been successfully accepted into the prestigious [Create-X 2023](https://create-x.gatech.edu) program. Among over 300 applications at **Georgia Tech**, HealthifAI stands out as one of the top ten projects. We are thrilled to announce that HealthifAI will receive funding from the esteemed [_**Sony Corporation**_](https://www.sony.net). 🎊🎉
 - More dispersed over LinkedIn & others 😉 ....
 
 <br/>
