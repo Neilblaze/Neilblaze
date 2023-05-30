@@ -34,14 +34,14 @@ I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also int
 <details><summary> 🟢 Open Source & Mentorship Stats <img src="https://user-images.githubusercontent.com/48355572/234978665-08b7d16e-dace-479a-a061-478972c43f6b.gif" width="14px" height="14px"></summary>
 <p>
 
-- [Google Code-In'19](https://codein.withgoogle.com/archive/2019/organization/6265089057882112/) @Tensorflow
-- [HackInCodes'20](https://hakincodes.tech)
-- [Kharagpur Winter of Code (KWoC) 2020](https://kwoc.kossiitkgp.org) @IITKgp
-- [NJACK Winter of Code 2020](http://njackwinterofcode.github.io) @IITPatna
-- [DSC NSEC Winter of Code 2020](https://winterofcode.com)
-- Script Winter of Code ([SWOC](http://swoc.tech)) 2020
-- [Hyperedge Winter of Blockchain](https://hyperedge.so/wob) 2023
-- [GirlScript Summer of Code](https://gssoc.girlscript.tech) (GSSoC) 2023
+- [Google Code-In'19](https://codein.withgoogle.com/archive/2019/organization/6265089057882112/) @Tensorflow &nbsp; ❯ &nbsp; (Mentor)
+- [HackInCodes'20](https://hakincodes.tech) &nbsp; ❯ &nbsp; (Project Admin + Mentor)
+- [Kharagpur Winter of Code (KWoC) 2020](https://kwoc.kossiitkgp.org) @IITKgp &nbsp; ❯ &nbsp; (Mentor)
+- [NJACK Winter of Code 2020](http://njackwinterofcode.github.io) @IITPatna &nbsp; ❯ &nbsp; (Project Admin + Mentor)
+- [DSC NSEC Winter of Code 2020](https://winterofcode.com) &nbsp; ❯ &nbsp; (Mentor)
+- Script Winter of Code ([SWOC](http://swoc.tech)) 2020 &nbsp; ❯ &nbsp; (Mentor)
+- [Hyperedge Winter of Blockchain](https://hyperedge.so/wob) 2023 &nbsp; ❯ &nbsp; (Mentor)
+- [GirlScript Summer of Code](https://gssoc.girlscript.tech) (GSSoC) 2023 &nbsp; ❯ &nbsp; (Mentor)
 
 
 <br/>
