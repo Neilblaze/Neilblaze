@@ -164,7 +164,9 @@ I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also int
 <p>
 
 - Research Assistant (RA) Intern at [IIIT Hyderabad](https://www.iiit.ac.in) <br/>
-  ↳ Worked on Deep Neural Net Acoustic Model for Phoneme Segmentation under Dr. Naresh Manwani <br/><br/>
+  ↳ Worked on Deep Neural Net Acoustic Model for Phoneme Segmentation under *Dr. Naresh Manwani* <br/><br/>
+- Summer Intern at [III Kanpur](https://www.iitk.ac.in) <br/>
+  ↳ Was a part of Applied Machine Learning & Data Science group, governed by CCE, IITK (Indian Institute of Technology Kanpur), in collaboration with the Intelligent Data Engineering and Automation (IDEA) Laboratory under *Prof. Nishchal K. Verma* <br/><br/>
 - [HackIllinois OS Fellow 21](https://fellowship.hackillinois.org) — Remote <br/>
   ↳ Worked on async wrappers of `k8s.io/apiserver` under [CNCF](https://www.cncf.io) <br/><br/>
 - [MITACS GRI'21](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) — Remote // uAlberta <br/>
@@ -193,6 +195,10 @@ TODO :-
 - Selected as the Top-6 undergraduate for [**Research Week with Google**](https://sites.google.com/view/researchweek2022) among 3500+ applications across India!
 - [**Solace**](https://solace.com) published our hackathon project — [**Ambuplus**](https://devpost.com/software/ambuplus) for [**uOttaHack'21**](https://uottahack-4.devpost.com) on their [Blog](https://solace.com/blog/uottahack-challenge-real-time-ambulance-tracking) page!
 - Project [**Adoptic**](https://devpost.com/software/adoptic) got highlighted on the [**PennState**](https://news.engr.psu.edu/2021/hackpsu-winners.aspx#:~:text=and%20others%20as%20far%20as%20West%20Bengal%2C%20India) engineering blog!
+- Selected for **Nittany AI** Challenge 2021 (invited by [Brad Zdenek](https://nittanyai.psu.edu/about-us/meet-our-staff/brad-zdenek)), hosted by [**PennState**](https://www.psu.edu) among 1000+ teams across the globe!
+- Selected for **CIFAR Deep Learning Reinforcement Learning** Summer School, 2021
+- We proudly clinched the **Runner-Up** position in the prestigious [**CERN Openlab Webfest**](https://webfest-online.web.cern.ch), 2021. Our team showcased groundbreaking solutions and exemplified our commitment to pushing the limits of technology in the realm of nuclear energy. Check out the live judging session [here](https://youtu.be/Jmtsu4SniaE?t=1915).
+- Selected for [**AI+Science** Summer School](https://datascience.uchicago.edu/events/2022-ai-science-summer-school), jointly hosted by the Data Science Institute (DSI) and the Institute for Mathematical and Statistical Innovation (IMSI).
 - Secured acceptance into the highly prestigious **[HackMIT](https://hackmit.org) 2022** and **[HackHarvard](https://hackharvard.io) 2022**!
 - Got accepted into Stanford's prestigious annual hackathon **[TreeHacks](https://www.treehacks.com) 2023** & secured an _all-expense-paid round-trip scholarship_ to visit Stanford, CA.
 - The [**Brandeishoot**](https://brandeishoot.com/2023/02/17/brandeis-university-hosts-sixth-annual-deishacks) blog showcased our Project [**Land of a Thousand Hills Collectibles**](https://devpost.com/software/land-of-a-thousand-hills-collectibles) built at [**DeisHacks** 2023](https://deishacks-2023.devpost.com)!
@@ -206,7 +212,7 @@ TODO :-
 - [Dated: 06.06.23] → I received an email from Maciej regarding my proposal (for [this](https://github.com/asyncapi/website/issues/267)) for the **AsyncAPI 2023 Mentorship program**. While he appreciated my effort and dedication in crafting the proposal, I regret to share, that my application was *rejected* due to my current involvement in [GSoC'23](https://github.com/orgs/asyncapi/discussions/689#discussioncomment-6097651). They emphasized the importance of focusing on my current programs, allowing others to apply for the *AsyncAPI Mentorship Program* and grow their open-source skills.
 - [Dated: 11.06.23] → Had a chat with [Alejandra](https://github.com/alequetzalli) (from AsyncAPI), & confirmed that I'm not eligible for **AsyncAPI 2023** **_Technical Writer_** **Mentorship Program** for the same aforementioned reason. However, I am hopeful and determined to actively pursue opportunities for the **GSoD'24** program if they become available and circumstances align favorably. Fingers crossed! 🤞 
 - [Dated: 11.06.23] → I stumbled upon [**C4GT'23**](https://www.codeforgovtech.in) on June 9th, and today I swiftly drafted and submitted a proposal for the program. I also assisted my [friend](https://github.com/PoPsMokE07) in writing his proposal 😜. It has been an exhilarating journey so far, although the chances of acceptance are uncertain. Hence, remaining hopeful and keeping my fingers crossed. 🤞
-- Absolutely delighted to be among the fortunate 500 recipients of the prestigious 2023 LiFT Scholarship awarded by @linuxfoundation! 🥳🎉
+- Absolutely delighted to be among the fortunate 500 recipients of the prestigious 2023 LiFT Scholarship awarded by [@linuxfoundation](https://github.com/linuxfoundation)! 🥳🎉
 - More dispersed over LinkedIn & others 😉 ....
 
 <br/>
