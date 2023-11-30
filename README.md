@@ -57,6 +57,7 @@ I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also int
 - [Script Winter of Code (SWOC)](http://swoc.tech) 2020 &nbsp; ❯ &nbsp; (Mentor)
 - [Hyperedge Winter of Blockchain](https://hyperedge.so/wob) 2023 &nbsp; ❯ &nbsp; (Mentor)
 - [GirlScript Summer of Code](https://gssoc.girlscript.tech) (GSSoC) 2023 &nbsp; ❯ &nbsp; (Mentor)
+- [Social Winter of Code](https://www.socialwinterofcode.com) (SWoC) 2023 &nbsp; ❯ &nbsp; (Mentor)
 
 
 <br/>
@@ -105,8 +106,11 @@ I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also int
 - [Fossasia](https://github.com/fossasia) <img src="https://user-images.githubusercontent.com/48355572/234991428-bde6d1cc-529b-4258-9bd2-fee9b95de049.png" width="12px" height="12px">
 - [Anitab-Org](https://github.com/anitab-org) <img src="https://user-images.githubusercontent.com/48355572/234991658-3fdb31ec-5ad1-4791-aa77-41dd0177c8ca.png" width="12px" height="12px">
 
+<br/>
 
 </td></tr></table>
+
+
 <br/>
 </p>
 </details>
@@ -117,7 +121,9 @@ I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also int
   
 | **Year** | **Name of Hackathon** | **Organizer (Name of International Institution/Organisation) 🏫** | **Position / Award 🏆** | **Explore Project** |
 | --- | --- | --- | --- | --- |
+| 2024 | [CalgaryHacks 2024](https://calgaryhacks-2024.devpost.com) <img src="https://user-images.githubusercontent.com/48355572/234949697-2534f427-c3e9-43bd-b81c-353c4f21405d.jpg" width="18px" height="14px"> | University of Calgary | Tier 1 — Second Place | [View](https://devpost.com/software/visionaid) <a href="https://devpost.com/software/visionaid" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/222726664-140bd1cf-fb29-4fd5-8926-d659c4632ea7.png" width="12px" height="12px"></a> |
 | 2023 | [Hacktech 2023](https://hacktech-2023.devpost.com) <img src="https://user-images.githubusercontent.com/48355572/234949697-2534f427-c3e9-43bd-b81c-353c4f21405d.jpg" width="18px" height="14px"> | California Institute of Technology (Caltech) | Grand Prize — Best Hack (Senior Division) | [View](https://devpost.com/software/up-cycle) <a href="https://devpost.com/software/up-cycle" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/222726664-140bd1cf-fb29-4fd5-8926-d659c4632ea7.png" width="12px" height="12px"></a> |
+| 2023 | [MetroHacks 2023](https://metrohacks-2023-19943.devpost.com) | MetroHacks — ACP / ASR-X | 1st Place (Best Overall) — Communication Track (18+, Advanced Category) | [View](https://devpost.com/software/historacle) <a href="https://devpost.com/software/historacle" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/222726664-140bd1cf-fb29-4fd5-8926-d659c4632ea7.png" width="12px" height="12px"></a> |
 | 2023 | [Web3Apps](https://web3apps-19509.devpost.com) | Major League Hacking (MLH) | Best Use of Hedera | [View](https://devpost.com/software/verisage) <a href="https://devpost.com/software/verisage" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/222726664-140bd1cf-fb29-4fd5-8926-d659c4632ea7.png" width="12px" height="12px"></a> |
 | 2023 | [University of Bridgeport Hackathon](https://bpt-hackathon.devpost.com) | University of Bridgeport | 1st Place Prize | [View](https://devpost.com/software/lyceum) <a href="https://devpost.com/software/lyceum" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/222726664-140bd1cf-fb29-4fd5-8926-d659c4632ea7.png" width="12px" height="12px"></a> |
 | 2023 | [Citro Hacks 2023](https://citro-hacks-2023.devpost.com) | Citro Tech | Best Collegiate Hack | [View](https://devpost.com/software/facemelody) <a href="https://devpost.com/software/facemelody" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/222726664-140bd1cf-fb29-4fd5-8926-d659c4632ea7.png" width="12px" height="12px"></a> |
@@ -181,7 +187,7 @@ I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also int
 | 2020 | [DandyHacks](https://dandyhacks-2020.devpost.com) | University of Rochester | echoAR Track Prize | [View](https://devpost.com/software/edubattle) <a href="https://devpost.com/software/edubattle" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/222726664-140bd1cf-fb29-4fd5-8926-d659c4632ea7.png" width="12px" height="12px"></a> |
 | 2020 | [Def Hacks — Global 2.0](https://bit.ly/3e9l3jA) | Def Hacks Inc. | [SecurePDF](https://devfolio.co/projects/securepdf) — Advanced Track Winner | [View](https://youtu.be/k_4fB4xYKlA?t=781) <a href="https://youtu.be/k_4fB4xYKlA?t=781" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/222726664-140bd1cf-fb29-4fd5-8926-d659c4632ea7.png" width="12px" height="12px"></a> |
 
-... and *20+* more across Devpost, Devfolio, AngelHack & Other Platforms! <br/>
+... and *20+* more across Devpost, Devfolio, AngelHack & Other Platforms! <br/><br/> <img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701376874/z2cgkcsvhrttlm0ln95g.gif" width="13.5px" height="13.5px" /> Furthermore, in addition to my role as an MLH Mentor, I have taken on the responsibility of judging in various prestigious international hackathons, including: [BigRedHacks](https://www.bigredhacks.com), [Hack BMU 5.0](https://hackbmu.tech), [StormHacks](https://stormhacks.com), [YUHacks](https://yuhacks.tech), [KnightHacks](https://2021.knighthacks.org), [BrickHack](https://brickhack.io), etc. <br/><br/>
 💡 **Fun Fact** : I don't participate in domestic ones much since there, (Politics + Partiality) >> Skills 😆
 
 <br/>
@@ -193,38 +199,134 @@ I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also int
 <p>
 <br/>
 
-- Research Assistant (RA) Intern at [IIIT Hyderabad](https://www.iiit.ac.in) <br/>
+- <a href="https://www.iiit.ac.in" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701367256/d2fv0c5jojotv8vxfdcl.png" width="13.5px" height="13.5px"></a> Research Assistant (RA) Intern at [IIIT Hyderabad](https://www.iiit.ac.in) — Remote <br/>
   ↳ Worked on Deep Neural Net Acoustic Model for Phoneme Segmentation under *Dr. Naresh Manwani* <br/><br/>
-- Summer Intern at [III Kanpur](https://www.iitk.ac.in) <br/>
+- <a href="https://www.iitk.ac.in" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/265286953-18d1feae-994a-453c-ba4a-1a2644e336ce.png" width="13.5px" height="13.5px"></a> Summer Intern at [III Kanpur](https://www.iitk.ac.in) — Remote <br/>
   ↳ Was a part of the Applied Machine Learning & Data Science group, governed by CCE, IITK (Indian Institute of Technology Kanpur), in collaboration with the Intelligent Data Engineering and Automation (IDEA) Laboratory under *Prof. Nishchal K. Verma* <br/><br/>
-- [HackIllinois OS Fellow 21](https://fellowship.hackillinois.org) — Remote <br/>
+- <a href="https://www.isro.gov.in" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1711491966/uzgk9qwevsxr2togn1sq.png" width="13.5px" height="13.5px"></a> Summer Intern at [Space Applications Centre (SAC)](https://www.sac.gov.in), [ISRO](https://www.isro.gov.in) — Remote (5m) / In-Person (1w) <br/>
+  ↳ Created [Gecko plugins](https://res.cloudinary.com/dutfy6mlc/image/upload/v1711491480/gyl0mebomdegltgmgmc8.png) utilizing TensorFlow.js for the detection, instance segmentation, and classification of distinct segments within objects in satellite images. These extensions are optimized for high-resolution remote sensing data, enhancing their applicability in scientific research and analysis. <br/><br/>
+- <a href="https://illinois.edu" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/265285901-738b4681-5ef9-42c1-ab63-2d302ac6edce.png" width="13.5px" height="13.5px"></a> [HackIllinois OS Fellow 21](https://fellowship.hackillinois.org) — Remote <br/>
   ↳ Worked on async wrappers of `k8s.io/apiserver` under [CNCF](https://www.cncf.io) <br/><br/>
-- [MITACS GRI'21](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) — Remote // uAlberta <br/>
+- <a href="https://globalink.mitacs.ca" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/265286122-29f3d298-c293-4571-a26d-51fd9045b8a0.png" width="13.5px" height="13.5px"></a> [MITACS GRI'21](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) — Remote // uAlberta <br/>
   ↳ Worked on Mobile Head Motion-Tracking Unit based on RCV designed for specially-abled under Dr. Nilanjan Ray (Department of Computing Science, University of Alberta, CA) <br/><br/>
-- [The Visual Computing & Artificial Intelligence Lab at TUM, 2022](https://niessnerlab.org/) — Remote <br/>
+- <a href="https://www.tum.de/en" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/265285727-51a11e49-6bec-472e-a614-7de914b0809b.png" width="13.5px" height="13.5px"></a> [The Visual Computing & Artificial Intelligence Lab at TUM, 2022](https://niessnerlab.org/) — Remote <br/>
   ↳ Worked on Panoptic Segmentation & Object Detection with YOLOv8  <br/><br/>
-- [Google Summer of Code 2023](https://summerofcode.withgoogle.com) ~ [Tensorflow](https://summerofcode.withgoogle.com/programs/2023/organizations/tensorflow-d1) (MediaPipe / GoogleAI) — Remote <br/><br/>
-- Applied AI (student) Researcher at [SimPPL](https://simppl.org) under [Unicode Research](https://unicode-research.netlify.app) — Remote (Present) <a href="https://simppl.org" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/234949697-2534f427-c3e9-43bd-b81c-353c4f21405d.jpg" width="18px" height="14px"></a> <br/>
+- <a href="https://summerofcode.withgoogle.com" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/265284112-e5bb337e-c7be-4ed3-b671-fa55c6bd8d0d.png" width="13.5px" height="13.5px"></a> [Google Summer of Code 2023](https://summerofcode.withgoogle.com) ~ [Tensorflow](https://summerofcode.withgoogle.com/programs/2023/organizations/tensorflow-d1) (MediaPipe / GoogleAI) — Remote <br/><br/>
+- <a href="https://www.syracuse.edu" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/265285417-ac3a12bc-c865-4739-a4bc-27c6caa08d61.png" width="13.5px" height="12.5px"></a> [SVS Lab](http://www.vision.syr.edu), [Syracuse University](https://www.syracuse.edu) — Remote <br/>
+  ↳ Worked on Real-Time Efficient End-to-End Multi-Person Pose Estimation from Low-Res Video Feed, under [*Senem Velipasalar*](https://ecs.syr.edu/faculty/velipasalar) <br/><br/>
+- <a href="https://iisc.ac.in" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701367255/j2xfveh9z3t9s37o4yxo.png" width="13.5px" height="13.5px"></a> [Image Analysis and Computer Vision (IACV) Lab](https://sites.google.com/iisc.ac.in/somabiswas/iacv-lab-iisc), [IISc Bangalore](https://iisc.ac.in) — Remote <br/>
+  ↳ Worked on [Few-Shot Multimodal Synthesis](https://gist.github.com/assets/48355572/924e6983-02a1-40db-a9a7-abdf9bc742eb) (Expandable AI), under [*Soma Biswas*](https://eecs.iisc.ac.in/people/soma-biswas) <br/><br/>
+- <a href="https://simppl.org" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/265284608-b386d79b-e34c-4c3e-9a27-6d3f18094434.png" width="13.5px" height="13.5px"></a> Applied AI / Research Engineer at [SimPPL](https://simppl.org) under [Unicode Research](https://unicode-research.netlify.app) — Remote (Present) <a href="https://simppl.org" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/234949697-2534f427-c3e9-43bd-b81c-353c4f21405d.jpg" width="18px" height="14px"></a> <br/>
   ↳ Working on Social Data Scraping and AI for fairness, under [*Swapneel Mehta*](https://twitter.com/swapneel_mehta) <br/><br/>
-- [SVS Lab](http://www.vision.syr.edu), [Syracuse University](https://www.syracuse.edu) — Remote <br/>
-  ↳ Working on Real-Time Efficient End-to-End Multi-Person Pose Estimation from Low-Res Video Feed, under [*Senem Velipasalar*](https://ecs.syr.edu/faculty/velipasalar) <br/><br/>
-  
-**TODO** :- 
+- <a href="https://www.bu.edu/hic" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1707321529/vhpax5ijkblz0yymky5i.png" width="13.5px" height="13.5px"></a> [Rafik B. Hariri Institute for Computing and Computational Science & Engineering](https://www.bu.edu/hic), [Boston University](https://www.bu.edu) — Remote (Present) <a href="https://www.bu.edu/hic" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/234949697-2534f427-c3e9-43bd-b81c-353c4f21405d.jpg" width="18px" height="14px"></a> <br/>
+  ↳ Dedicated to advancing free speech, social media, and democratic values through the application of state-of-the-art methodologies. Currently developing cutting-edge measurement and mitigation techniques to address online harms, contributing to advanced platform governance and the formulation of impactful policies, under Prof. [*Marshall Van Alstyne*](https://www.bu.edu/hic/profile/marshall-van-alstyne) <br/><br/>
 
-- 🟢 [MLH Fellowship](https://fellowship.mlh.io) ⏳
-- 🟢 [LFX/N Mentorship](https://lfx.linuxfoundation.org) ⏳(2024)
-- 🟢 [Google Season of Docs](https://developers.google.com/season-of-docs) (2023) → _**Shortlisted**_, but *had to drop out* because of **GSoC'23** 🥺
-- 🔴 [Outreachy 2023](https://www.outreachy.org) (May Cohort) → _**Selected**_, but *had to drop out* because of **GSoC'23** 💔❎
-- 🟡 [DAAD Wise Scholarship](https://shorturl.at/kpyzS) (2021) → Institutional [eligibility](https://shorturl.at/dtGIM) factors 💔❎
-- 🟡 [Summer of Bitcoin](https://www.summerofbitcoin.org) (2023) → Yet to take a shot ⏳(2024)
-- 🟡 [NTU (MM Lab) Research Internship](https://www.mmlab-ntu.com/careers.html) → (Not eligible) ❎ / Reapply ⏳(2024)
-- 🟢 [HKUST PG Visiting Research Internship](https://shorturl.at/aAVW8) → ⏳([2024/2025](https://facultyprofiles.hkust.edu.hk/facultylisting.php))
-- 🟢 [NUS Research Internship](https://nus.edu.sg/cfg/students/jobs-internships/internships) → (Summer / Fall cohort) ⏳(2024)  
+  
+<details>
+  <summary>ⓘ <b>Stats of Other Endeavours</b> ... &nbsp; <img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1703282612/v3cx0yo6bxcsyxp7db9m.gif" width="14px" height="14px"></summary><br/>
+  <ul>
+    <li>
+      🟢 <a href="https://fellowship.mlh.io" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368047/jh4hy7jfrtdcvg8acruj.png" width="13.5px" height="13.5px"></a> <a href="https://fellowship.mlh.io">MLH Fellowship</a> ⏳
+    </li>
+    <li>
+      🟢 <a href="https://lfx.linuxfoundation.org" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368047/zyjjhfg1q1obylerpcn9.jpg" width="13.5px" height="13.5px"></a> <a href="https://lfx.linuxfoundation.org">LFX/N Mentorship</a> ⏳(2024)
+    </li>
+    <li>
+      🟢 <a href="https://developers.google.com/season-of-docs" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368047/yoir6ljmime7o49kizpa.png" width="13.5px" height="13.5px"></a> <a href="https://developers.google.com/season-of-docs">Google Season of Docs</a> (2023) → <em><strong>Shortlisted</strong></em>, but <em>had to drop out</em> because of <strong>GSoC'23</strong> 🥺
+    </li>
+    <li>
+      🔴 <a href="https://www.outreachy.org" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368046/o5rgyd2mcvptgaagrfiw.png" width="13.5px" height="13.5px"></a> <a href="https://www.outreachy.org">Outreachy 2023</a> (May Cohort) → <em><strong>Selected</strong></em>, but <em>had to drop out</em> because of <strong>GSoC'23</strong> 💔❎
+    </li>
+    <li>
+      🟡 <a href="https://shorturl.at/kpyzS" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368046/jtlnde3tmszddrmfga6j.png" width="13.5px" height="13.5px"></a> <a href="https://shorturl.at/kpyzS">DAAD Wise Scholarship</a> (2021) → Institutional <a href="https://shorturl.at/dtGIM">eligibility</a> factors 💔❎
+    </li>
+    <li>
+      🟡 <a href="https://www.summerofbitcoin.org" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368046/gmx9p4u0gulrfhsivvtc.png" width="13.5px" height="13.5px"></a> <a href="https://www.summerofbitcoin.org">Summer of Bitcoin</a> (2023) → Yet to take a shot ⏳(2024)
+    </li>
+    <li>
+      🟡 <a href="https://www.mmlab-ntu.com/careers.html" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368047/c41u6laladwkgf4ox7wy.png" width="13.5px" height="13.5px"></a> <a href="https://www.mmlab-ntu.com/careers.html">NTU (MM Lab) Research Internship</a> → (Not eligible) ❎ / Reapply ⏳(2024)
+    </li>
+    <li>
+      🟢 <a href="https://shorturl.at/aAVW8" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368046/peld8vwsbmylurgiszyk.jpg" width="13.5px" height="13.5px"></a> <a href="https://shorturl.at/aAVW8">HKUST PG Visiting Research Internship</a> → ⏳(<a href="https://facultyprofiles.hkust.edu.hk/facultylisting.php">2024/2025</a>)
+    </li>
+    <li>
+      🟢 <a href="https://nus.edu.sg/cfg/students/jobs-internships/internships" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368046/vgiabaoetvcp7zjyisqm.jpg" width="13.5px" height="13.5px"></a> <a href="https://nus.edu.sg/cfg/students/jobs-internships/internships">NUS Research Internship</a> → (Summer / Fall cohort) ⏳(2024)
+    </li>
+  </ul><br/>  
+</details>
+
+
+<details>
+  <summary>👥 <b>Other noteworthy groups and communities I am associated with ... &nbsp; <img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1703282612/v3cx0yo6bxcsyxp7db9m.gif" width="14px" height="14px"></b></summary>
+  <br/>
+  <ul>
+    <li>
+      <a href="https://www.linkedin.com/company/ieeesbaot" target="_blank">IEEE AOT</a>, Academy of Technology
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/company/sceceaot" target="_blank">IEI-AOT</a>, Academy of Technology
+    </li>
+    <li>
+      <a href="https://kolkata.acm.org/w" target="_blank">Association for Computing Machinery (ACM)</a>, Kolkata Chapter
+    </li>
+    <li>
+      <a href="https://www.isical.ac.in/~vlrg" target="_blank">Vision and Learning Research Group (VLRG)</a>, ISI Kolkata
+    </li>
+    <li>
+      <a href="http://www.csikolkata.org" target="_blank">The Computer Society of India (CSI)</a>, Kolkata
+    </li>
+    <li>
+      <a href="https://mlrgisi.github.io" target="_blank">Machine Learning Research Group (MLRG)</a>, ISI Kolkata
+    </li>
+    <li>
+      <a href="https://www.iarcs.org" target="_blank">Indian Association for Research in Computing Science (IARCS)</a>, India
+    </li>
+    <li>
+      <a href="https://www.iacsit.org" target="_blank">The International Association of Computer Science and Information Technology (IACSIT)</a>, Singapore
+    </li>
+    <li>
+      <a href="https://fb-ki.gi.de/en/article/kostenlose-mitgliedschaft-fuer-studierende-schueler-innen-und-auszubildende-in-2023" target="_blank">The European Association for Artificial Intelligence (EurAI) / DE</a>, Europe
+    </li>
+    <li>
+      <a href="https://github.com/dscaot" target="_blank">Developer Students Club, AOT</a>, Academy of Technology
+    </li>
+    <li>
+      <a href="https://tfug.kolkata.dev" target="_blank">Tensorflow User Group</a>, Kolkata
+    </li>
+    <li>
+      <a href="https://community.mozilla.org/en/groups/mozilla-kolkata" target="_blank">Mozilla Kolkata</a>
+    </li>
+    <li>
+      <a href="https://gdg.community.dev/gdg-kolkata" target="_blank">Google Developer Group (GDG)</a>, Kolkata
+    </li>
+    <li>
+      <a href="https://gdgcloud.kolkata.dev" target="_blank">Google Developer Group (GDG) Cloud Kolkata</a>
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/company/codechef-aot-chapter" target="_blank">CodeChef AOT Chapter</a>, Academy of Technology
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/company/awsugkol" target="_blank">AWS User Group</a>, Kolkata
+    </li>
+    <li>
+      <a href="https://www.facebook.com/groups/DevCKolkata" target="_blank">Facebook Developer Circle</a>, Kolkata
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/company/aot-technology-business-incubation-centre" target="_blank">AOT Technology Business Incubation Centre</a>, Academy of Technology
+    </li>
+  </ul>
+  <p>And several others including, <a href="https://community.openai.com" target="_blank">OpenAI Community</a>, <a href="https://community.fossasia.org" target="_blank">FOSSASIA Community</a>, <a href="https://community.cncf.io/kolkata" target="_blank">CNCF Kolkata</a>, etc.</p>
+</details> 
+
 
 <br/>
 
-> [!NOTE]
+
+> ⓘ **NOTE** <br/>
 If you're reading this, do know that the struggle for excellence is hard but worth mentioning. I've struggled psychologically, and I had to sacrifice a lot of things in the same process, be it living or non-living, but it's the good memories that stayed with me and propelled me forward. Sometimes, I get lost in the mess, but then I prepare for the worst and hope for the best. Like a lot of people, I'm not sure what the future holds for me. Regardless of what I do, I'll do it to the best of my ability, in order to perform my duty to impart a net good onto the human race! 😃
+
+
+
 
 
 </p>
@@ -251,18 +353,24 @@ If you're reading this, do know that the struggle for excellence is hard but wor
 - We proudly clinched the **Runner-Up** position in the prestigious [**CERN Openlab Webfest**](https://webfest-online.web.cern.ch), 2021. Our team showcased groundbreaking solutions and exemplified our commitment to pushing the limits of technology in the realm of nuclear energy. Check out the live judging session [here](https://youtu.be/Jmtsu4SniaE?t=1915).
 - Project [**EyeBalliN**](https://devpost.com/software/eyeballin) got [featured](https://twitter.com/MLHacks/status/1429470210046705665) on [*Major League Hacking*](https://mlh.io/) aka MLH's [Twitter](https://twitter.com/MLHacks) page! 🎊
 - Became a finalist of J.P. Morgan & Co. (JPMC) [**Code for Good**](https://careers.jpmorgan.com/global/en/students/programs/code-for-good) Hackathon, 2021 (APAC, Virtual) 🥳
-- Made it to the top-10 with *Rexis* in [Accenture Innovation Challenge](https://accenture-innovation-challenge-2021.hackerearth.com), 2021 hosted on HackerEarth! 🚀
+- Made it to the Top-10 with *Rexis* in [Accenture Innovation Challenge](https://accenture-innovation-challenge-2021.hackerearth.com), 2021 hosted on HackerEarth! 🚀
+- Our team (AlphaStark) of three (consisting of Me, [Sandipan](https://github.com/sandipndev) and [Saif](https://github.com/fias786)) became the *college finalist* in [Optum Stratethon](https://unstop.com/competitions/optum-stratethon-season-3-optum-part-of-the-unitedhealth-group-family-of-businesses-216741) - Season 3, 2021 (Engineering Track), and our Project/PPT can be viewed [here](https://github.com/sandipndev/medizen) 🎉 
 - Developed a Pytorch-based [model](https://devpost.com/software/agingclock) utilizing the _Fruits360_ dataset to accurately predict the lifecycle of 131 fruits based on their exterior color, & earned an **Honorable Mention** at the renowned [PyTorch Annual Hackathon 2021](https://pytorch2021.devpost.com) hosted by [Meta](https://meta.com) 🏆
 - [Selected](https://github.com/google/mediapipe/assets/48355572/a6e61a8b-eff7-4e6b-bedb-e017c47c0fec) as the Top-6 undergraduate for [**Research Week with Google**](https://sites.google.com/view/researchweek2022) among 3500+ applications across India!
 - Selected for [**AI+Science** Summer School](https://datascience.uchicago.edu/events/2022-ai-science-summer-school), jointly hosted by the Data Science Institute (DSI) and the Institute for Mathematical and Statistical Innovation (IMSI).
-- [**RentEasy**](https://devpost.com/software/renteasy) got rebranded to [**RentalHunt**](https://rentalhunt.ca) & has successfully raised **$150k** with the help of [*UBC Innovation*](https://innovation.ubc.ca) cell & [**FounderFuel**](https://founderfuel.com). 🎉
+- Regrettably, I received an email notifying me that I didn't secure a spot in the esteemed [CaCTüS Internship](https://www.projects.tuebingen.mpg.de)'s Top 10 (globally). This prestigious three-month paid program at the Max Planck Institutes focuses on fostering inclusion and supporting talented students in the fields of Biological and Artificial Intelligence research 🥺
+- [**RentEasy**](https://devpost.com/software/renteasy) got rebranded to [**RentalHunt**](https://rentalhunt.ca) & has successfully raised **$150k** with the help of [*UBC Innovation*](https://innovation.ubc.ca) cell & [**FounderFuel**](https://founderfuel.com) 🎉
+- Presented [**RentEasy**](https://devpost.com/software/renteasy) live on @-platform (by [**AtSign**](https://atsign.com)) Demo Day via [YouTube](https://youtu.be/ZIG0uSJySMI?t=5602) and received an exclusive Limited Edition swag kit as a token of appreciation! 🤙
+- Project [Unisight](https://devpost.com/software/unisight) clinched the [Overall Best Prize](https://gist.github.com/assets/48355572/13a125b3-a13c-4776-acf9-f8fbe190402a) award in [**DeveloperWeek Austin**](https://www.facebook.com/DevWeekATX) which happened on November 17-18, 2021, during the virtual edition of the largest hackathon in Texas. 🎉
 - Selected for **CNI** Summer School, 2022 hosted by [Centre for Networked Intelligence](https://cni.iisc.ac.in), IISc Bangalore (Virtual)
 - Secured acceptance into the highly prestigious **[HackMIT](https://hackmit.org) 2022** and **[HackHarvard](https://hackharvard.io) 2022**!
+- [Chosen](https://github.com/Neilblaze/Neilblaze/assets/48355572/47d88c23-0006-4534-86eb-fe687ceaae72) as one of the top 600 students nationwide to participate in the prestigious [Amazon Machine Learning Summer School](https://www.amazon.science/academic-engagements/second-annual-ml-summer-school-amazon-india) (MLSS) 2022!
 - Earned the prestigious **TensorFlow** [Developer Certificate](https://user-images.githubusercontent.com/48355572/265551324-42e6fe43-4572-4f42-94db-29eec75b0d7d.png)! 🎊
 - Attended [ASONAM 2022](https://asonam.cpsc.ucalgary.ca/2022) — IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining Istanbul, Turkey! (Virtually)
 - Scored a ticket for the prestigious [**AstroHackWeek** 2022](http://astrohackweek.org/2022) Summer School, hosted by the esteemed [**Max Planck Institute**](https://www.mpia.de/en) in Heidelberg, Germany (Virtual).
 - Landed a [**finalist**](https://user-images.githubusercontent.com/48355572/256391141-3bed8961-40aa-43a9-90d9-40f795bb0e91.png) spot in the prestigious [Microsoft Imagine Cup 2022](https://imaginecup.microsoft.com/en-us/Competition/17846), (R3) India Finals 🎉
 - Got accepted into Stanford's prestigious annual hackathon **[TreeHacks](https://www.treehacks.com) 2023** & secured an _all-expense-paid round-trip scholarship_ to visit Stanford, CA.
+- The sole recipient worldwide to be awarded the prestigious **3x [1517 Medici Grant](https://www.1517fund.com/medici-project)** (2022-2023) for three distinct projects ([Lyceum](https://devpost.com/software/lyceum), [Summarizr](https://devpost.com/software/summarizr-hczls7), & [Ziro](https://devpost.com/software/ziro)) in a single annual season! 🎉
 - The [**Brandeishoot**](https://brandeishoot.com/2023/02/17/brandeis-university-hosts-sixth-annual-deishacks) blog showcased our Project [**Land of a Thousand Hills Collectibles**](https://devpost.com/software/land-of-a-thousand-hills-collectibles) built at [**DeisHacks** 2023](https://deishacks-2023.devpost.com)!
 - Project [ZenTube](https://devpost.com/software/zentube) got featured in [App-In Club](https://www.appinclub.org) [**_webinar_**](https://youtu.be/ixJKyMf8cQQ?t=1453), special thanks to _Anthony_ and _Richard_ for giving us a shoutout! 🙌
 - The official blog of [**Caltech**](https://www.caltech.edu/about/news/hacktech#:~:Upcycle%2C%20a%20web,their%20clothes%20into.&text=Upcycle%2C%20a%20web,their%20clothes%20into.) featured Project [**Upcycle**](https://devpost.com/software/up-cycle) built at [**Hacktech 2023**](https://hacktech-2023.devpost.com)!
@@ -276,17 +384,17 @@ If you're reading this, do know that the struggle for excellence is hard but wor
 - [Dated: 05.06.23] → The **LFX Mentorship 2023** program under **Hyperledger** Org announced [*mentees*](https://mentorship.lfx.linuxfoundation.org/project/6904ed62-2022-4451-bbc7-6bc0f940586f), but the selection process seemed extremely unprofessional. Received no interviews or feedback, and it appeared that diversity and networking played a bigger role than merit. This makes me hesitant to apply for future Hyperledger projects.
 - [Dated: 06.06.23] → I received an email from Maciej regarding my proposal (for [this](https://github.com/asyncapi/website/issues/267)) for the **AsyncAPI 2023 Mentorship program**. While he appreciated my effort and dedication in crafting the proposal, I regret to share, that my application was *rejected* due to my current involvement in [GSoC'23](https://github.com/orgs/asyncapi/discussions/689#discussioncomment-6097651). They emphasized the importance of focusing on my current programs, allowing others to apply for the *AsyncAPI Mentorship Program* and grow their open-source skills.
 - [Dated: 11.06.23] → Had a chat with [Alejandra](https://github.com/alequetzalli) (from AsyncAPI), & confirmed that I'm not eligible for **AsyncAPI 2023** **_Technical Writer_** **Mentorship Program** for the same aforementioned reason. However, I am hopeful and determined to actively pursue opportunities for the **GSoD'24** program if they become available and circumstances align favorably. Fingers crossed! 🤞 
-- [Dated: 11.06.23] → I stumbled upon [**C4GT'23**](https://www.codeforgovtech.in) on June 9th, and today I swiftly drafted and submitted a proposal ([*#ai-tools*](https://github.com/Samagra-Development/ai-tools/issues/78)) for the program (. I also assisted my [friend](https://github.com/PoPsMokE07) in writing his proposal 😜. It has been an exhilarating journey so far, although the chances of acceptance are uncertain. Hence, remaining hopeful and keeping my fingers crossed. 🤞
+- [Dated: 11.06.23] → I stumbled upon [**C4GT'23**](https://www.codeforgovtech.in) on June 9th, and today I swiftly drafted and submitted a proposal ([*#ai-tools*](https://github.com/Samagra-Development/ai-tools/issues/78)) for the program. I also assisted my [friend](https://github.com/PoPsMokE07) in writing his proposal 😜. It has been an exhilarating journey so far, although the chances of acceptance are uncertain. Hence, remaining hopeful and keeping my fingers crossed. 🤞
 - Accepted for [**Mathematical Summer in Paris** 2023](https://mathinparis2023.imo.universite-paris-saclay.fr/), hosted by Université Paris-Saclay! (Virtual)
 - Attended a workshop tutorial on [Denoising Diffusion Models: A Generative Learning Big Bang](https://cvpr2023-tutorial-diffusion-models.github.io) by [Arash Vahdat](http://arashvahdat.com), [Jiaming Song](https://tsong.me) & [Chenlin Meng](https://cs.stanford.edu/~chenlin) at CVPR'23. 
 - [Dated: 20.06.23] → Received an email from [**C4GT'23**](https://www.codeforgovtech.in) (specifically, [GautamR](https://github.com/GautamR-Samagra) from Samagra), stating that they are not accepting mentees who have been selected in this year's GSoC (2023). However, they did suggest that I consider becoming a Mentor instead. Additionally, [Chakshu Gautam](https://github.com/ChakshuGautam) reached out to me regarding the opportunity to mentor for [DSEP](https://github.com/Samagra-Development/dsep/issues/25), which I unfortunately had to postpone due to other commitments.
-- Absolutely delighted to be among the fortunate 500 recipients of the prestigious 2023 LiFT Scholarship awarded by [@linuxfoundation](https://github.com/linuxfoundation)! 🥳🎉
+- Absolutely delighted to be among the fortunate 500 recipients of the prestigious 2023 [LiFT Scholarship](https://www.linuxfoundation.org/about/lift-scholarships) awarded by [@linuxfoundation](https://github.com/linuxfoundation)! 🥳🎉
 - Secured a scholarship ticket to attend [**AI-DLDA**](https://www.aidlda.it), the International Summer School on Artificial Intelligence, scheduled from July 3rd to 7th, 2023, Udine (Virtual)
-- [Dated: 30.06.23] → Despite catching a cold, I decided to participate in **MLH's** [**#Web3Build**](https://organize.mlh.io/participants/events/9852-web3-build-hackathon-hosted-in-partnership-with-near-horizon) Hackathon sponsored by **NEAR** Horizon. I teamed up with [Niku](https://devpost.com/nikusingh319), [Pranav](https://devpost.com/sinhafighterpranav), and [Kamal](https://devpost.com/0xkamal7) to create [**NearSocialBoost**](https://devpost.com/software/nearsocialboost) 🔥. Unfortunately, the results didn't turn out as expected, as we witnessed some diversity drama and saw pre-coded projects being selected under a rebranded guise. The lack of strict rules allowed *one* of the winning teams (among the top-4) to exploit the T&Cs and engage in plagiarism.
+- [Dated: 30.06.23] → Despite catching a cold, I decided to participate in **MLH's** [**#Web3Build**](https://organize.mlh.io/participants/events/9852-web3-build-hackathon-hosted-in-partnership-with-near-horizon) Hackathon sponsored by **NEAR** Horizon. I teamed up with [Niku](https://devpost.com/nikusingh319), [Pranav](https://devpost.com/sinhafighterpranav), and [Kamal](https://devpost.com/0xkamal7) to create [**NearSocialBoost**](https://devpost.com/software/nearsocialboost) 🔥. Unfortunately, the results didn't turn out as expected, as we witnessed some diversity drama and saw pre-coded projects being selected under a rebranded guise. The lack of strict rules allowed *one* of the winning teams (among the Top-4) to exploit the T&Cs and engage in plagiarism.
 - Got selected for the 7th edition of [**CVIT Summer School**](https://cvit.iiit.ac.in/summerschoolseries) Event on AI with Focus on Computer Vision and Machine Learning organized by [IIIT Hyderabad](https://www.iiit.ac.in), held from 18th July to 19th August, 2023. 🎉
 - [Dated: 12.07.23] → Received an email from [*MLH*](https://mlh.io) & [*MongoDB*](https://mongodb.com) who're [interested](https://user-images.githubusercontent.com/48355572/257504159-bfc73bef-460d-4520-8c12-16a6408a9b4c.png) in publishing our [**EDWiz**](https://devpost.com/software/edwiz) project on their website!
 - Super stoked to let you know I've landed a spot at the [**ZTF**](https://www.ztf.caltech.edu/summer-school-2023.html) Summer School 2023 at Caltech! It's a dream come true for a space geek like me! 🪐
-- Got invited to join Berkeley [SkyDeck's portfolio of startups](https://skydeck.vc/portfolio) to receive ~**$50,000** in funding for [*RentalHunt*](https://rentalhunt.ca) and attend UC Berkeley's prestigious annunal [AI Hackathon](https://ai.calhacks.io) 2023 hosted by [Cal Hacks](https://calhacks.io). 
+- Got invited to join Berkeley [SkyDeck's portfolio of startups](https://skydeck.vc/portfolio) to receive ~**$50,000** in funding for [*RentalHunt*](https://rentalhunt.ca) and attend UC Berkeley's prestigious annual [AI Hackathon](https://ai.calhacks.io) 2023 hosted by [Cal Hacks](https://calhacks.io). 
 - [Dated: 17.07.23] → Originally, I applied to be a participant at [**HackMIT**](https://hackmit.org) **2023**. However, I was pleasantly surprised when they offered me a position as a Mentor instead & provided a generous travel grant. But after giving it some thought, I decided to offer my mentorship remotely, virtually. I'm super excited and thrilled to be able to assist other hackers in turning their ideas into reality. Let's launch those projects into the stratosphere! 🚀
 - [Dated: 18.07.23] → Scored an entry into the prestigious **Data Science in India 2023** conference, organized by ACM SIGKDD India Chapter ([IKDD](https://ikdd.acm.org)) 🎉
 - [Dated: 12.08.23] → Started developing a parallelized module for building Super-Resolution of frames using Lossless Pooling Convolutional Networks 🧠
@@ -299,6 +407,13 @@ If you're reading this, do know that the struggle for excellence is hard but wor
 - Participated in Stanford University's [**Graph Learning Workshop**](https://snap.stanford.edu/graphlearning-workshop-2023) 2023, featuring cutting-edge developments in Machine Learning and AI for Relational domains, Foundation Models, and Multimodal AI 🤖
 - [Dated: 04.11.23] → Participated in [**Headout**](https://www.headout.com)'s annual hackathon → [**Hackout 2023**](https://hackout2023.devfolio.co). I teamed up with [Niku](https://github.com/NIKU-SINGH), [Pranav](https://github.com/scriptedpranav), and [Devesh](https://github.com/deveshXm) & built [**NeoWay**](https://devfolio.co/projects/neoway-de6b), a smart mobile app which acts as your Stress-Free Travel Companion for Budget-Friendly, Epic Solo Adventures 🔥. Unfortunately, the results didn't turn out as expected, as we witnessed mismanagement and unfairness in the judging process, revealing incompetent projects as the winners.
 - [Dated: 07.11.23] → Project [Sakhi](https://sakhi.simppl.org) (সখী), led by a join collaboration of team AI4Good & [WaterAid BD](https://wateraid.org/bd), received a developmental grant of [€10,000](https://docs.google.com/presentation/d/13fX-Hm5SMqQo2xoWEtuCSgPGVwBBd9Yb/edit#slide=id.p1) 🚀
+- [Dated: 25.11.23] → Participated in the [AI Symposium 2023](https://sites.google.com/goa.bits-pilani.ac.in/ai-symposium-2023) organized by the [Society for Artificial Intelligence and Deep Learning (SAiDL)](https://www.saidl.in) at *BITS Pilani*, fostering connections, exposing students to AI trends in science, and providing insights for aspiring researchers and practitioners.
+- [Dated: 28.11.23] → Presented **সখী** aka "[Sakhi-bot](https://sakhi.simppl.org)" during an information session of [SimPPL](https://simppl.org) at DJSCE, Mumbai, led by our team — [Raghav Jain](https://www.linkedin.com/in/raghav-jain-3a8076214), [Mrunmayi Parker](https://www.linkedin.com/in/mrunmayi-parker-388294233), [Nahush Patil](https://www.linkedin.com/in/nahush-patil-29a495221), and myself. Feel free to surf the video [here](https://nyu.zoom.us/rec/play/IzGWH3IHr4lgIi_W4yfDqYQuCnLYg5sHTBgPp-VdFMb67ZbFv_Ap-FxGyq2ufwUNukvYakSqvzGH4kKc.AW5vrr_cxFuxRFE_)
+- Excited to announce SimPPL's [Responsible AI Research Fellowship](https://simppl.org/fellowships) program, offering undergraduates a 4/6-month research training sponsored by Google Research with experienced mentors from MIT, Oxford, NYU, X (prev. Twitter), Goldman Sachs, Adobe, CERN, Bombora. Fellowship applications opening soon! 🚀
+- [Dated: 28.11.23] → Submitted a workshop paper addressing fundamental research questions and societal impacts, for the 2nd Workshop of Deployable AI ([**DAI 2024**](https://sites.google.com/view/dai-2024/home)) at [AAAI 2024](https://aaai.org/aaai-conference), organized by faculty from IIT Madras and supported by RBCDSAI and CeRAI.
+- [Dated: 21.12.23] → Became the sole individual (globally) who has achieved an unprecedented hat-trick of **Best Overall** victories in the prestigious **_MetroHacks_** for the consecutive years [2021](https://devpost.com/software/zentube), [2022](https://devpost.com/software/binoculearn), and [2023](https://devpost.com/software/historacle)! 🔥
+- [Dated: 21.12.23] → Our [**first report**](https://infolab.techglobalinstitute.com/how-facebook-has-become-a-political-battleground-in-bangladesh) under Tech Global Institute (TGI) has been published! 🎉
+- [Dated: 05.02.24] → Project [**সখী**](https://sakhi.simppl.org) (Sakhi) has been [accepted](https://res.cloudinary.com/dutfy6mlc/image/upload/v1707323397/daxmrpcxmnw6ij7z3haj.png) into MIT's prestigious [**IDEAS** *Social Innovation Challenge*](https://pkgcenter.mit.edu/programs/ideas)! This is an exciting opportunity for us to join forces with MIT and collaborate on addressing global social and environmental challenges! 🚀
 - More dispersed over LinkedIn & others 😉 ....
 
 <br/>
