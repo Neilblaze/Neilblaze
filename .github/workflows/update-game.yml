@@ -1,0 +1,21 @@
+name: scheduled/update-space-shooter
+
+on:
+  schedule:
+    - cron: '30 18 * * *'  # Daily at midnight IST (UTC+5:30)
+  workflow_dispatch:  # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update-game:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: czl9707/gh-space-shooter@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: 'assets/game.gif'
+          strategy: 'random'

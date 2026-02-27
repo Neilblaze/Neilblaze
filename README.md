@@ -205,6 +205,8 @@ I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also int
   ↳ Was a part of the Applied Machine Learning & Data Science group, governed by CCE, IITK (Indian Institute of Technology Kanpur), in collaboration with the Intelligent Data Engineering and Automation (IDEA) Laboratory under *Prof. Nishchal K. Verma* <br/><br/>
 - <a href="https://www.isro.gov.in" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1711491966/uzgk9qwevsxr2togn1sq.png" width="13.5px" height="13.5px"></a> Summer Intern at [Space Applications Centre (SAC)](https://www.sac.gov.in), [ISRO](https://www.isro.gov.in) — Remote (5m) / In-Person (1w) <br/>
   ↳ Created [Gecko plugins](https://res.cloudinary.com/dutfy6mlc/image/upload/v1711491480/gyl0mebomdegltgmgmc8.png) utilizing TensorFlow.js for the detection, instance segmentation, and classification of distinct segments within objects in satellite images. These extensions are optimized for high-resolution remote sensing data, enhancing their applicability in scientific research and analysis. <br/><br/>
+- <a href="https://mentorship.lfx.linuxfoundation.org" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368047/zyjjhfg1q1obylerpcn9.jpg" width="13.5px" height="13.5px"></a> Software Development Engineer Intern & LFN Mentee (DevOps) at [Layer5](https://layer5.io/programs/lfx/2021), Inc — Remote <br/>
+  ↳ Migrated SMP to Rails, refactored UI to cut dependencies (improving site health & SEO by 63%), and enhanced unit tests with Cypress to streamline workflows, reducing processing time by 30% <br/><br/>
 - <a href="https://illinois.edu" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/265285901-738b4681-5ef9-42c1-ab63-2d302ac6edce.png" width="13.5px" height="13.5px"></a> [HackIllinois OS Fellow 21](https://fellowship.hackillinois.org) — Remote <br/>
   ↳ Worked on async wrappers of `k8s.io/apiserver` under [CNCF](https://www.cncf.io) <br/><br/>
 - <a href="https://globalink.mitacs.ca" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/265286122-29f3d298-c293-4571-a26d-51fd9045b8a0.png" width="13.5px" height="13.5px"></a> [MITACS GRI'21](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) — Remote // uAlberta <br/>
@@ -229,9 +231,6 @@ I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also int
   <ul>
     <li>
       🟢 <a href="https://fellowship.mlh.io" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368047/jh4hy7jfrtdcvg8acruj.png" width="13.5px" height="13.5px"></a> <a href="https://fellowship.mlh.io">MLH Fellowship</a> ⏳
-    </li>
-    <li>
-      🟢 <a href="https://lfx.linuxfoundation.org" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368047/zyjjhfg1q1obylerpcn9.jpg" width="13.5px" height="13.5px"></a> <a href="https://lfx.linuxfoundation.org">LFX/N Mentorship</a> ⏳(2024)
     </li>
     <li>
       🟢 <a href="https://developers.google.com/season-of-docs" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368047/yoir6ljmime7o49kizpa.png" width="13.5px" height="13.5px"></a> <a href="https://developers.google.com/season-of-docs">Google Season of Docs</a> (2023) → <em><strong>Shortlisted</strong></em>, but <em>had to drop out</em> because of <strong>GSoC'23</strong> 🥺
@@ -417,11 +416,14 @@ If you're reading this, do know that the struggle for excellence is hard but wor
 - [Dated: 21.12.23] → Our [**first report**](https://infolab.techglobalinstitute.com/how-facebook-has-become-a-political-battleground-in-bangladesh) under Tech Global Institute (TGI) has been published! 🎉
 - [Dated: 05.02.24] → Project [**সখী**](https://sakhi.simppl.org) (Sakhi) has been [accepted](https://res.cloudinary.com/dutfy6mlc/image/upload/v1707323397/daxmrpcxmnw6ij7z3haj.png) into MIT's prestigious [**IDEAS** *Social Innovation Challenge*](https://pkgcenter.mit.edu/programs/ideas)! This is an exciting opportunity for us to join forces with MIT and collaborate on addressing global social and environmental challenges! 🚀
 - Got selected as an [**OSPP**](https://urlx.vercel.app/ospp-pratyay-24)'24 (Open Source Promotion Plan) *mentee* under [**x-Lab**](https://github.com/X-lab2017) organization, under the mentorship of [**Frank Zhao**](https://github.com/frank-zsy)! 🥳
-- More dispersed over LinkedIn & others 😉 ....
 
 <br/>
 
-- Hardware Resources 💻⚡ :
+**UPDATE:** This list is no longer maintained due to privacy concerns. More can be found scattered across LinkedIn & other platforms. If you want to know more about my journey, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/neilblaze) or [Twitter](https://twitter.com/neilblaze007)! 🙌
+
+<br/>
+
+### Hardware Resources 💻⚡ :
 <br/>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/48355572/217467493-ff37e8b2-100e-48a0-8919-4885970c3ca7.png">
@@ -466,9 +468,10 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 <p align="center">
   <img src="https://user-images.githubusercontent.com/48355572/207972307-0f5dcf42-2809-4d82-9a10-24dd878b5010.png">
   <br>
+  <img src="assets/game.gif">
 
 <p align='center'>
-<a href="https://twitter.com/Neilzblaze007"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971257-f667150e-17c2-469c-8f9f-24810c4ab522.svg"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/Neilblaze007"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971257-f667150e-17c2-469c-8f9f-24810c4ab522.svg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/Neilblaze"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971352-d164e286-ffd8-4aac-a95b-88e499cdc386.svg"></a>&nbsp;&nbsp;
 <a href="https://www.reddit.com/user/Neilblaze"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971448-480baafd-cc5f-4e38-b68f-eb9dcb8042b0.svg"></a>&nbsp;&nbsp;
 <a href="https://steamcommunity.com/id/NeilzxD"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971528-c2f679d1-fb15-489d-8352-849b192abf0f.svg"></a>&nbsp;&nbsp;
@@ -492,7 +495,7 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Neilblaze&label=PROFILE+VIEWS"> &nbsp; <a href="https://discordapp.com/users/694942064131047461"><img src="https://dcbadge.vercel.app/api/shield/694942064131047461?theme=discord-inverted&&logoColor=presence&&style=social"></a>
+  <img src="https://komarev.com/ghpvc/?username=Neilblaze&label=PROFILE+VIEWS">
 </p> 
 
 <br>
