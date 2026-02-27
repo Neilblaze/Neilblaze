@@ -5,21 +5,22 @@
 
 # Hi, I'm Pratyay 👋🏻
 
-Welcome to my favourite place! I'm a passionate ~~developer~~ **_innovator_** & a recent grad, with a major in [*ECE*](https://en.wikipedia.org/?title=Electronics_and_Communication_Engineering&redirect=no) & a minor in [*CS*](https://en.wikipedia.org/wiki/Computer_science), striving to build [_SOTA_](https://en.wikipedia.org/wiki/State_of_the_art) solutions for challenging problems via intersecting Web & Machine Learning to create amazing stuff that brings positive change in human lives. I love tinkering with electronics, while I primarily work on applied Machine Learning (majorly Computer Vision), Backend (WebDev) & DevOps(Integrations, Microservices & Deployment). 🛠️
+Welcome to my favourite place! I'm a passionate ~~developer~~ **_innovator_** & CS/AI grad student with a minor in [HCI](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction), building at the intersection of **reliable intelligence** for frontier AI and **human-centred systems** to create amazing stuff that brings positive change in human lives. I lean toward an `e/acc` mindset, focusing on making agentic systems *trustworthy at scale*, helping to push capabilities forward for high-stakes domains. 
 
-I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also into System Designing and Reverse Engineering. I define myself as an independent [RSE](https://ukrse.github.io/who.html) as well as a competitive hackathon aficionado, with more than [**50+ wins** 🏆](https://bit.ly/3nuM2Lz). Besides, I'm a _Competitive Speedcuber_, _Netflix nerd_ & _EDM fanatic_. Whether that be through creating neural networks or building web applications, all my work is focused on one thing: **impact** 📈. When I'm not coding, you can find me [sketching](https://urlx.vercel.app/ed-sheeran), doing CP, or playing soccer! The love for new skills and desire to create something which can directly influence people, keeps me interested. 🚀
+Beyond the said, I adore working on **OSS**, **product/system design**, and **reverse engineering**, and I define myself as an independent [RSE](https://ukrse.github.io/who.html) & a competitive hackathon aficionado \w [**75+ wins** 🏆](https://bit.ly/3nuM2Lz) who quantifies outcome via **_scale of impact_**. When I'm not working, you'll find me [sketching](https://urlx.vercel.app/ed-sheeran), solving puzzles, or (maybe) on the football field. The love for new skills and desire to create something which can directly influence people, keeps me motivated! 🚀
+
 <img align='right' src='https://user-images.githubusercontent.com/48355572/205913210-a40d093c-c40f-4cf7-b6ec-c67cd953476a.png' width='177'>
 
 - 🔭 I’m currently working on my [Blog](https://blog.neilblaze.live) <a href="https://blog.neilblaze.live"><img src="https://user-images.githubusercontent.com/48355572/234940695-3b5baa71-01f5-4156-aca0-7a759bdec650.gif" width="12.9px" height="12.9px"></a>
 - 👨‍💻 CP: [Codechef](https://www.codechef.com/users/zack_007) <a href="https://www.codechef.com/users/zack_007"><img src="https://user-images.githubusercontent.com/48355572/234939005-1a3b35fe-c834-44e6-987e-e86a1deee81c.png" width="14px" height="14px"></a> &nbsp; ❯ &nbsp; [Hackerrank](https://www.hackerrank.com/N3ilz_BL4Z3) <a href="https://www.hackerrank.com/N3ilz_BL4Z3"><img src="https://user-images.githubusercontent.com/48355572/234939454-3defe865-400a-46ec-9d2d-59f9eb8d7d06.png" width="14px" height="14px"></a> &nbsp; ❯ &nbsp; [LeetCode](https://leetcode.com/Neilblaze) <a href="https://leetcode.com/Neilblaze"><img src="https://user-images.githubusercontent.com/48355572/234939592-15f29ec2-10f5-41da-a6ca-7d78db446aa0.png" width="14px" height="14px"></a>
-- 🌱 I’m currently learning [BPF](https://en.wikipedia.org/wiki/Berkeley_Packet_Filter) 🖧
+- 🌱 I’m currently learning [Applied Category Theory](https://arxiv.org/pdf/1809.05923.pdf) (ACT) ✨
 - 😄 I’m looking to collaborate on Projects & **Hackathons** <img src="https://user-images.githubusercontent.com/48355572/234943320-94375e5d-9028-4d61-8b7b-eed4f4fe6c86.gif" width="15px" height="15px">
 - 🤔 I’m looking for help with [**DIP**](https://en.wikipedia.org/wiki/Digital_image_processing) and **Statistics**
 - 💬 Ask me about anything [here](https://github.com/Neilblaze/Neilblaze/issues)
-- ⚡ Fun fact: I am **Competitive _Speedcuber_**
+- ⚡ Fun fact: I'm a State Level Swimming Champion 🏊🏻‍
 - 🎮 Hobbies: Skectching and playing [**CSGO**](https://urlx.vercel.app/csgo-rank) <a href="https://steamcommunity.com/id/NeilzxD"><img src="https://user-images.githubusercontent.com/48355572/234972696-0cbb7e64-16ba-4f6a-a5be-d7b64d361897.png" width="14px" height="14px"></a>
 - ✈️ I've been to **Three** countries!
-- 🧭 I'm currently exploring [Applied Category Theory](https://arxiv.org/pdf/1809.05923.pdf) (ACT) ✨
+- 🧭 I'm currently exploring [Diffusion Language Models](https://arxiv.org/abs/2602.22661) (DLMs) 🧠
 - 📚 Readings (latest) : [**Essentialism by Greg McKeown**](https://literal.club/neilblaze/book/essentialism-d4v31), [**Predictably Irrational by Dan Ariely**](https://literal.club/neilblaze/book/predictably-irrational-60c6r), + more!
 
 <p align="center">
@@ -59,10 +60,11 @@ I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also int
 - [GirlScript Summer of Code](https://gssoc.girlscript.tech) (GSSoC) 2023 &nbsp; ❯ &nbsp; (Mentor)
 - [Social Winter of Code](https://www.socialwinterofcode.com) (SWoC) 2023 &nbsp; ❯ &nbsp; (Mentor)
 
+Other affiliations include being PA's in [TSoC](https://tsoc.dev/projects), [SSoC](https://www.linkedin.com/posts/scriptwinterofcode_swoc-2022-team-activity-6911533140339552256-_bNL/). 
 
 <br/>
 
-💡 **Fun Fact** : Other affiliations include being PA's in [TSoC](https://tsoc.dev/projects), [SSoC](https://www.linkedin.com/posts/scriptwinterofcode_swoc-2022-team-activity-6911533140339552256-_bNL/) I've mentored over ***2.5K+*** students across the globe by mentoring hackers in International Hackathons, for e.g. :- 
+💡 **Fun Fact** :  I've mentored over ***2.5K+*** students across the globe by mentoring hackers in International Hackathons, 
 <br/>
 
 <table><tr><td valign="top" width="60%">
@@ -121,8 +123,13 @@ I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also int
   
 | **Year** | **Name of Hackathon** | **Organizer (Name of International Institution/Organisation) 🏫** | **Position / Award 🏆** | **Explore Project** |
 | --- | --- | --- | --- | --- |
-| 2024 | [CalgaryHacks 2024](https://calgaryhacks-2024.devpost.com) <img src="https://user-images.githubusercontent.com/48355572/234949697-2534f427-c3e9-43bd-b81c-353c4f21405d.jpg" width="18px" height="14px"> | University of Calgary | Tier 1 — Second Place | [View](https://devpost.com/software/visionaid) <a href="https://devpost.com/software/visionaid" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/222726664-140bd1cf-fb29-4fd5-8926-d659c4632ea7.png" width="12px" height="12px"></a> |
-| 2023 | [Hacktech 2023](https://hacktech-2023.devpost.com) <img src="https://user-images.githubusercontent.com/48355572/234949697-2534f427-c3e9-43bd-b81c-353c4f21405d.jpg" width="18px" height="14px"> | California Institute of Technology (Caltech) | Grand Prize — Best Hack (Senior Division) | [View](https://devpost.com/software/up-cycle) <a href="https://devpost.com/software/up-cycle" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/222726664-140bd1cf-fb29-4fd5-8926-d659c4632ea7.png" width="12px" height="12px"></a> |
+| 2026 | [Show and Tell Challenge Presented by Mux](https://dev.to/devteam/devs-worldwide-show-and-tell-challenge-presented-by-mux-pitch-your-projects-3000-in-prizes-40g7) <img src="https://user-images.githubusercontent.com/48355572/234949697-2534f427-c3e9-43bd-b81c-353c4f21405d.jpg" width="18px" height="14px"> | MUX + DEV | Show and Tell Challenge Track Winner | [View](https://dev.to/neilblaze/fragments--2h12) <a href="https://dev.to/neilblaze/fragments--2h12" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/222726664-140bd1cf-fb29-4fd5-8926-d659c4632ea7.png" width="12px" height="12px"></a> |
+| 2025 | [Midnight Network "Privacy First" Challenge](https://dev.to/devteam/join-the-midnight-network-privacy-first-challenge-5000-in-prizes-3l45) <img src="https://user-images.githubusercontent.com/48355572/234949697-2534f427-c3e9-43bd-b81c-353c4f21405d.jpg" width="18px" height="14px"> | Midnight Foundation + DEV | Best Overall Winner — $5000 | [View](https://dev.to/neilblaze/dawn-1gl5) <a href="https://dev.to/neilblaze/dawn-1gl5" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/222726664-140bd1cf-fb29-4fd5-8926-d659c4632ea7.png" width="12px" height="12px"></a> |
+| 2025 | [AssemblyAI Voice Agents Challenge](https://dev.to/devteam/join-the-assemblyai-voice-agents-challenge-3000-in-prizes-109a) | AssemblyAI + DEV | Business Automation Voice Agent Track Winner | [View](https://dev.to/neilblaze/wynnie--4po3) <a href="https://dev.to/neilblaze/wynnie--4po3" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/222726664-140bd1cf-fb29-4fd5-8926-d659c4632ea7.png" width="12px" height="12px"></a> |
+| 2025 | [SacHacks VI](https://sachacks-vi.devpost.com) | UC Davis | Best Design with code + Best Technical Implementation | [View](https://devpost.com/software/scrolla) <a href="https://devpost.com/software/scrolla" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/222726664-140bd1cf-fb29-4fd5-8926-d659c4632ea7.png" width="12px" height="12px"></a> |
+| 2024 | [Build with Squid 2024](https://getsquid.ai/blog/announcing-the-build-with-squid-contest) | Squid AI | Best Overall| [View](https://i.postimg.cc/3NzgS2N5/image.png) <a href="https://i.postimg.cc/3NzgS2N5/image.png" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/222726664-140bd1cf-fb29-4fd5-8926-d659c4632ea7.png" width="12px" height="12px"></a> |
+| 2024 | [CalgaryHacks 2024](https://calgaryhacks-2024.devpost.com) | University of Calgary | Tier 1 — Second Place | [View](https://devpost.com/software/visionaid) <a href="https://devpost.com/software/visionaid" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/222726664-140bd1cf-fb29-4fd5-8926-d659c4632ea7.png" width="12px" height="12px"></a> |
+| 2023 | [Hacktech 2023](https://hacktech-2023.devpost.com) | California Institute of Technology (Caltech) | Grand Prize — Best Hack (Senior Division) | [View](https://devpost.com/software/up-cycle) <a href="https://devpost.com/software/up-cycle" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/222726664-140bd1cf-fb29-4fd5-8926-d659c4632ea7.png" width="12px" height="12px"></a> |
 | 2023 | [MetroHacks 2023](https://metrohacks-2023-19943.devpost.com) | MetroHacks — ACP / ASR-X | 1st Place (Best Overall) — Communication Track (18+, Advanced Category) | [View](https://devpost.com/software/historacle) <a href="https://devpost.com/software/historacle" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/222726664-140bd1cf-fb29-4fd5-8926-d659c4632ea7.png" width="12px" height="12px"></a> |
 | 2023 | [Web3Apps](https://web3apps-19509.devpost.com) | Major League Hacking (MLH) | Best Use of Hedera | [View](https://devpost.com/software/verisage) <a href="https://devpost.com/software/verisage" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/222726664-140bd1cf-fb29-4fd5-8926-d659c4632ea7.png" width="12px" height="12px"></a> |
 | 2023 | [University of Bridgeport Hackathon](https://bpt-hackathon.devpost.com) | University of Bridgeport | 1st Place Prize | [View](https://devpost.com/software/lyceum) <a href="https://devpost.com/software/lyceum" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/222726664-140bd1cf-fb29-4fd5-8926-d659c4632ea7.png" width="12px" height="12px"></a> |
@@ -225,6 +232,9 @@ I'm deeply passionate about Web, OSS and tech in general. Moreover, I'm also int
 - <a href="https://urlx.vercel.app/ospp-pratyay-24" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1723791110/fsv074ov2xldjej2lnbo.png" width="13.5px" height="13.5px"></a> [**Open Source Promotion Plan**](https://urlx.vercel.app/ospp-pratyay-24)'24 (OSPP) *mentee* ~ [OpenDigger](https://github.com/X-lab2017/open-digger) — Remote (Present) <a href="https://summer-ospp.ac.cn" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/234949697-2534f427-c3e9-43bd-b81c-353c4f21405d.jpg" width="18px" height="14px"></a> <br/>
   ↳ Worked under the guidance of [Frank Zhao](https://github.com/frank-zsy) at [X-Lab](https://github.com/X-lab2017/open-digger) to help develop and improve an open-source analysis platform — [OpenDigger](https://open-digger.cn/en). This program is jointly sponsored by Huawei \& ISCAS, CN. <br/><br/>
 
+> WIP — last updated June 2024, updating to February 2026 soon.
+
+<br/>
   
 <details>
   <summary>ⓘ <b>Stats of Other Endeavours</b> ... &nbsp; <img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1703282612/v3cx0yo6bxcsyxp7db9m.gif" width="14px" height="14px"></summary><br/>
