@@ -2,7 +2,7 @@ name: scheduled/update-space-shooter
 
 on:
   schedule:
-    - cron: '30 18 * * *'  # Daily at midnight IST (UTC+5:30)
+    - cron: '0 0 * * *'  # Daily at midnight
   workflow_dispatch:  # Allow manual trigger
 
 permissions:
