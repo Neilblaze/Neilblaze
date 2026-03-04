@@ -1,9 +1,20 @@
 <p align="center">
-  <img  src="https://user-images.githubusercontent.com/48355572/207961878-f24217cf-d514-4ee9-90f9-bebd4111a6a0.png">
-  <br>
+  <img src="https://user-images.githubusercontent.com/48355572/207961878-f24217cf-d514-4ee9-90f9-bebd4111a6a0.png">
+</p>
 
+<br/>
 
-# Hi, I'm Pratyay 👋🏻
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=600&size=23&pause=1000&color=F7F7F7&width=700&lines=Hi%2C%20I%27m%20Pratyay%20%F0%9F%91%8B%F0%9F%8F%BB;%E0%A6%B9%E0%A7%87%E0%A6%B2%E0%A7%8B%2C%20%E0%A6%86%E0%A6%AE%E0%A6%BF%20Pratyay%20%F0%9F%91%8B%F0%9F%8F%BB;%E0%A4%B9%E0%A5%87%E0%A4%B2%E0%A5%8B%2C%20%E0%A4%AE%E0%A5%88%E0%A4%82%20Pratyay%20%E0%A4%B9%E0%A5%82%E0%A4%81%20%F0%9F%91%8B%F0%9F%8F%BB;Hola%2C%20soy%20Pratyay%20%F0%9F%91%8B%F0%9F%8F%BB;Salut%2C%20je%20suis%20Pratyay%20%F0%9F%91%8B%F0%9F%8F%BB;Oi%2C%20eu%20sou%20Pratyay%20%F0%9F%91%8B%F0%9F%8F%BB;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81Pratyay%E3%81%A7%E3%81%99%20%F0%9F%91%8B%F0%9F%8F%BB;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AFPratyay%20%F0%9F%91%8B%F0%9F%8F%BB;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C%20%D1%8F%20Pratyay%20%F0%9F%91%8B%F0%9F%8F%BB"
+  />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=600&size=23&pause=1000&color=1E90FF&width=700&lines=Hi%2C%20I%27m%20Pratyay%20%F0%9F%91%8B%F0%9F%8F%BB;%E0%A6%B9%E0%A7%87%E0%A6%B2%E0%A7%8B%2C%20%E0%A6%86%E0%A6%AE%E0%A6%BF%20Pratyay%20%F0%9F%91%8B%F0%9F%8F%BB;%E0%A4%B9%E0%A5%87%E0%A4%B2%E0%A5%8B%2C%20%E0%A4%AE%E0%A5%88%E0%A4%82%20Pratyay%20%E0%A4%B9%E0%A5%82%E0%A4%81%20%F0%9F%91%8B%F0%9F%8F%BB;Hola%2C%20soy%20Pratyay%20%F0%9F%91%8B%F0%9F%8F%BB;Salut%2C%20je%20suis%20Pratyay%20%F0%9F%91%8B%F0%9F%8F%BB;Oi%2C%20eu%20sou%20Pratyay%20%F0%9F%91%8B%F0%9F%8F%BB;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81Pratyay%E3%81%A7%E3%81%99%20%F0%9F%91%8B%F0%9F%8F%BB;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AFPratyay%20%F0%9F%91%8B%F0%9F%8F%BB;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C%20%D1%8F%20Pratyay%20%F0%9F%91%8B%F0%9F%8F%BB"
+    style="width:100%;"
+    alt="Typing animation"
+  />
+</picture>
 
 Welcome to my favourite place! I'm a passionate ~~developer~~ **_innovator_** & CS/AI grad student with a minor in [HCI](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction), building at the intersection of **_reliable intelligence_** to improve latent reasoning across long-horizon tasks for frontier AI (L/SLMs) & State Space Models (SSM), and **_human-centred systems_** to create amazing stuff that brings positive change in human lives. I lean toward an `e/acc` mindset, focusing on making agentic systems *trustworthy at scale*, helping to push capabilities forward for high-stakes domains. 
 
@@ -231,7 +242,9 @@ Other affiliations include being PA's in [TSoC](https://tsoc.dev/projects), [SSo
 - <a href="https://www.bu.edu/hic" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1707321529/vhpax5ijkblz0yymky5i.png" width="13.5px" height="13.5px"></a> [Rafik B. Hariri Institute for Computing and Computational Science & Engineering](https://www.bu.edu/hic), [Boston University](https://www.bu.edu) — Remote (Present) <br/>
   ↳ Dedicated to advancing free speech, social media, and democratic values through the application of state-of-the-art methodologies. Currently developing cutting-edge measurement and mitigation techniques to address online harms, contributing to advanced platform governance and the formulation of impactful policies, under Prof. [*Marshall Van Alstyne*](https://www.bu.edu/hic/profile/marshall-van-alstyne) <br/><br/>
 - <a href="https://www.artpark.in/language-data-ai/hrp-copilot" target="_blank"><img src="https://res.cloudinary.com/dmlwye965/image/upload/v1772271619/channels4_profile_hitvxy.jpg" width="13.5px" height="13.5px"></a> Machine Learning Engineer (Research Engineering Intern) at [ARTPARK, IISc Bangalore](https://www.iitbbs.ac.in) — Remote <br/>
-  ↳ Worked under the guidance of *Sid Parida* & [Jigar Doshi](https://in.linkedin.com/in/jigarkdoshi) & built a production agentic RAG system at [ARMMAN](https://armman.org) using sub-3B models & deployed for ~1M frontline healthcare workers. Besides, Hybrid FAISS-HNSW + BM25 retrieval, multi-agent routing, and guardrails reduced clinical errors by 37% across 22 domains while keeping P50 latency under 330 ms. Added hallucination checks using self-consistency voting, logit-entropy clustering, and ontology validation, cutting hallucinations by another 18%. Moreover, set up model evaluation and routing infrastructure — DSPy consensus grading, multilingual CRAG for Indic queries, and benchmarking 8+ quantized models — bringing P95 latency from 1.75s to 0.9s at 80+ QPS and validating Qwen3-30B-A3B as a near-equivalent evaluator at 63% lower cost. <br/><br/>
+  ↳ Worked under the guidance of *Sid Parida* & [Jigar Doshi](https://in.linkedin.com/in/jigarkdoshi) & built a production agentic RAG system at [ARMMAN](https://armman.org) using sub-3B models & deployed for ~1M frontline healthcare workers. Besides, employed Hybrid FAISS-HNSW + BM25 retrieval, multi-agent routing, and guardrails to reduce clinical errors by 37% across 22 domains while keeping P50 latency under 330 ms. Added hallucination checks using self-consistency voting, logit-entropy clustering, and ontology validation, cutting hallucinations by another 18%. Moreover, set up model evaluation and routing infrastructure \& DSPy consensus grading, multilingual CRAG for Indic queries, and benchmarking 8+ quantized models, bringing P95 latency from 1.75s to 0.9s at 80+ QPS and validating Qwen3-30B-A3B as a near-equivalent evaluator at 63% lower cost. <br/><br/>
+- <a href="https://digiyatrafoundation.com" target="_blank"><img src="https://res.cloudinary.com/dmlwye965/image/upload/v1772653854/images_e8absl.png" width="13.5px" height="13.5px"></a> CoreML and Data Science (Fellow) via [Build for Bharat Fellowship 2025](https://www.bharatdigital.io) — Remote <br/>
+  ↳ Pioneered an 8-bit quantized CNN-Transformer hybrid for on-device liveliness detection, reducing biometric spoofing by 83%, strengthening resistance to presentation attacks & enhancing facial recognition integrity in the Digi Yatra app. Ensured sub-200ms inference time on edge devices, enabling secure, real-time passenger verification on the go <br/><br/>
 - <a href="https://urlx.vercel.app/ospp-pratyay-24" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1723791110/fsv074ov2xldjej2lnbo.png" width="13.5px" height="13.5px"></a> [**Open Source Promotion Plan**](https://urlx.vercel.app/ospp-pratyay-24)'24 (OSPP) *mentee* ~ [OpenDigger](https://github.com/X-lab2017/open-digger) — Remote <a href="https://summer-ospp.ac.cn" target="_blank"></a> <br/>
   ↳ Worked under the guidance of [Frank Zhao](https://github.com/frank-zsy) at [X-Lab](https://github.com/X-lab2017/open-digger) to help develop and improve an open-source analysis platform — [OpenDigger](https://open-digger.cn/en). This program is jointly sponsored by Huawei \& ISCAS, CN. <br/><br/>
 - <a href="https://www.iitbbs.ac.in" target="_blank"><img src="https://res.cloudinary.com/dmlwye965/image/upload/v1772269478/images_yeqvju.jpg" width="13.5px" height="13.5px"></a> Winter Research Intern at [Indian Institute of Technology, Bhubaneswar](https://www.iitbbs.ac.in) — Remote <br/>
@@ -247,32 +260,57 @@ Other affiliations include being PA's in [TSoC](https://tsoc.dev/projects), [SSo
 
 <details>
   <summary>ⓘ <b>Stats of Other Endeavours</b> ... &nbsp; <img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1703282612/v3cx0yo6bxcsyxp7db9m.gif" width="14px" height="14px"></summary><br/>
+
   <ul>
     <li>
-      🟢 <a href="https://fellowship.mlh.io" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368047/jh4hy7jfrtdcvg8acruj.png" width="13.5px" height="13.5px"></a> <a href="https://fellowship.mlh.io">MLH Fellowship</a> ⏳
+      🔴 <a href="https://fellowship.mlh.io" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368047/jh4hy7jfrtdcvg8acruj.png" width="13.5px" height="13.5px"></a> 
+      <a href="https://fellowship.mlh.io">MLH Fellowship</a> → Program discontinued for APAC since 2023 ❎
     </li>
     <li>
-      🟢 <a href="https://developers.google.com/season-of-docs" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368047/yoir6ljmime7o49kizpa.png" width="13.5px" height="13.5px"></a> <a href="https://developers.google.com/season-of-docs">Google Season of Docs</a> (2023) → <em><strong>Shortlisted</strong></em>, but <em>had to drop out</em> because of <strong>GSoC'23</strong> 🥺
+      🔴 <a href="https://developers.google.com/season-of-docs" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368047/yoir6ljmime7o49kizpa.png" width="13.5px" height="13.5px"></a> 
+      <a href="https://developers.google.com/season-of-docs">Google Season of Docs</a> (2023) → <strong>Shortlisted</strong> but withdrew due to participation in <strong>GSoC 2023</strong>
     </li>
     <li>
-      🔴 <a href="https://www.outreachy.org" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368046/o5rgyd2mcvptgaagrfiw.png" width="13.5px" height="13.5px"></a> <a href="https://www.outreachy.org">Outreachy 2023</a> (May Cohort) → <em><strong>Selected</strong></em>, but <em>had to drop out</em> because of <strong>GSoC'23</strong> 💔❎
+      🔴 <a href="https://www.outreachy.org" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368046/o5rgyd2mcvptgaagrfiw.png" width="13.5px" height="13.5px"></a> 
+      <a href="https://www.outreachy.org">Outreachy</a> (May 2023 Cohort) → <strong>Selected</strong> but withdrew due to overlap with <strong>GSoC 2023</strong>
     </li>
     <li>
-      🟡 <a href="https://shorturl.at/kpyzS" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368046/jtlnde3tmszddrmfga6j.png" width="13.5px" height="13.5px"></a> <a href="https://shorturl.at/kpyzS">DAAD Wise Scholarship</a> (2021) → Institutional <a href="https://shorturl.at/dtGIM">eligibility</a> factors 💔❎
+      🟡 <a href="https://shorturl.at/kpyzS" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368046/jtlnde3tmszddrmfga6j.png" width="13.5px" height="13.5px"></a> 
+      <a href="https://shorturl.at/kpyzS">DAAD WISE Scholarship</a> (2021) → Could not apply due to institutional <a href="https://shorturl.at/dtGIM">eligibility requirements</a> ❎
     </li>
     <li>
-      🟡 <a href="https://www.summerofbitcoin.org" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368046/gmx9p4u0gulrfhsivvtc.png" width="13.5px" height="13.5px"></a> <a href="https://www.summerofbitcoin.org">Summer of Bitcoin</a> (2023) → Yet to take a shot ⏳(2024)
+      🟡 <a href="https://www.summerofbitcoin.org" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368046/gmx9p4u0gulrfhsivvtc.png" width="13.5px" height="13.5px"></a> 
+      <a href="https://www.summerofbitcoin.org">Summer of Bitcoin</a> → Planning to apply ⏳ (Target cycle 2025) / Missed ❎
     </li>
     <li>
-      🟡 <a href="https://www.mmlab-ntu.com/careers.html" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368047/c41u6laladwkgf4ox7wy.png" width="13.5px" height="13.5px"></a> <a href="https://www.mmlab-ntu.com/careers.html">NTU (MM Lab) Research Internship</a> → (Not eligible) ❎ / Reapply ⏳(2024)
+      🟡 <a href="https://www.mmlab-ntu.com/careers.html" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368047/c41u6laladwkgf4ox7wy.png" width="13.5px" height="13.5px"></a> 
+      <a href="https://www.mmlab-ntu.com/careers.html">NTU MMLab Research Internship</a> → Not eligible during previous cycle. Planning to reapply (2025)
     </li>
     <li>
-      🟢 <a href="https://shorturl.at/aAVW8" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368046/peld8vwsbmylurgiszyk.jpg" width="13.5px" height="13.5px"></a> <a href="https://shorturl.at/aAVW8">HKUST PG Visiting Research Internship</a> → ⏳(<a href="https://facultyprofiles.hkust.edu.hk/facultylisting.php">2024/2025</a>)
+      🟡 <a href="https://shorturl.at/aAVW8" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368046/peld8vwsbmylurgiszyk.jpg" width="13.5px" height="13.5px"></a> 
+      <a href="https://shorturl.at/aAVW8">HKUST PG Visiting Research Internship</a> → Not eligible earlier due to institutional constraints. Considering reapplication (2025)
     </li>
     <li>
-      🟢 <a href="https://nus.edu.sg/cfg/students/jobs-internships/internships" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368046/vgiabaoetvcp7zjyisqm.jpg" width="13.5px" height="13.5px"></a> <a href="https://nus.edu.sg/cfg/students/jobs-internships/internships">NUS Research Internship</a> → (Summer / Fall cohort) ⏳(2024)
+      🟡 <a href="https://nus.edu.sg/cfg/students/jobs-internships/internships" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368046/vgiabaoetvcp7zjyisqm.jpg" width="13.5px" height="13.5px"></a> 
+      <a href="https://nus.edu.sg/cfg/students/jobs-internships/internships">NUS Research Internship</a> → Summer / Fall research internship track ⏳ (Planned cycle 2025)
     </li>
-  </ul><br/>  
+    <li>
+      🔴 <a href="https://iusstf.org/iusstf-viterbi-program" target="_blank">
+      <img src="https://res.cloudinary.com/dmlwye965/image/upload/v1772653317/wt0-TdjN_400x400_fmkjsn.jpg" width="13.5px" height="13.5px"></a> 
+      <a href="https://iusstf.org/iusstf-viterbi-program">IUSSTF – Viterbi Program</a> → Indo-US research exchange fellowship. Application Rejected ❎
+    </li>
+    <li>
+      🔴 <a href="https://eee.epfl.ch/" target="_blank">
+      <img src="https://res.cloudinary.com/dmlwye965/image/upload/v1772653365/images_yhmf3e.png" width="13.5px" height="13.5px"></a> 
+      <a href="https://eee.epfl.ch/">EPFL E3 Program</a> → Application rejected in round-3 due to project-lab mismatch ❎
+    </li>
+    <li>
+      🔴 <a href="https://www.ntu.edu.sg/about-us/global/global-connect-fellowship" target="_blank">
+      <img src="https://res.cloudinary.com/dmlwye965/image/upload/v1772653416/3a7f0fd4ba3d1b2943a2353ed61b4aea_tlljqf.jpg" width="13.5px" height="13.5px"></a> 
+      <a href="https://www.ntu.edu.sg/about-us/global/global-connect-fellowship">NTU Global Connect Fellowship</a> → Rejected due to pre-committed obligations ❎
+    </li>
+  </ul><br/>
+
 </details>
 
 
