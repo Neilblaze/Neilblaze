@@ -1,0 +1,62 @@
+tap "nikitabobko/tap" # Aerospace
+
+## 🙊 Languages
+
+brew "pipx"
+brew "node"
+brew "uv"
+brew "go"
+brew "gofumpt"
+brew "golangci-lint"
+brew "golangci-lint-langserver"
+brew "pnpm"
+
+## 💻 CLI Tools
+
+brew "kind"
+brew "kubernetes-cli"
+brew "k9s"
+brew "carapace"
+# brew "kubectx"
+brew "ripgrep"
+brew "httpie"
+brew "atuin"
+brew "gh"
+brew "git"
+brew "gitleaks"
+brew "gitmoji"
+brew "fastfetch"
+brew "fish"
+brew "htop"
+brew "btop"
+brew "starship"
+brew "neovim"
+brew "lazygit"
+brew "lazydocker"
+brew "stow"
+brew "direnv"
+brew "zoxide"
+brew "pgcli"
+
+## 🎨 GUI Apps
+
+cask "google-drive"
+cask "protonvpn"
+cask "claude"
+cask "aerospace"
+cask "alt-tab"
+cask "docker"
+cask "ghostty"
+cask "raycast"
+cask "visual-studio-code"
+cask "todoist-app"
+cask "calibre"
+cask "vlc"
+cask "spotify"
+cask "firefox"
+cask "obsidian"
+cask "zen-browser"
+
+## 💻 Code extensions
+
+vscode "golang.go"
