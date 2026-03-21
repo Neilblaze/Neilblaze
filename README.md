@@ -28,7 +28,7 @@ Beyond the said, I adore working on **OSS**, **product/system design**, and **re
 - 😄 I’m looking to collaborate on Projects & **Hackathons** <img src="https://user-images.githubusercontent.com/48355572/234943320-94375e5d-9028-4d61-8b7b-eed4f4fe6c86.gif" width="15px" height="15px">
 - 💬 Ask me about anything [here](https://github.com/Neilblaze/Neilblaze/issues)
 - ⚡ Fun fact: I love building/assembling PCs
-- 🎮 Hobbies: Skectching and playing [**CSGO**](https://urlx.vercel.app/csgo-rank) <a href="https://steamcommunity.com/id/NeilzxD"><img src="https://user-images.githubusercontent.com/48355572/234972696-0cbb7e64-16ba-4f6a-a5be-d7b64d361897.png" width="14px" height="14px"></a>
+- 🎮 Hobbies: Sketching and playing [**CSGO**](https://urlx.vercel.app/csgo-rank) <a href="https://steamcommunity.com/id/NeilzxD"><img src="https://user-images.githubusercontent.com/48355572/234972696-0cbb7e64-16ba-4f6a-a5be-d7b64d361897.png" width="14px" height="14px"></a>
 - ✈️ I've been to **Three** countries!
 - 🧭 I'm currently exploring [Diffusion Language Models](https://arxiv.org/abs/2602.22661) (DLMs) 🧠
 - 📚 Readings (latest) : [**Essentialism by Greg McKeown**](https://literal.club/neilblaze/book/essentialism-d4v31), [**Predictably Irrational by Dan Ariely**](https://literal.club/neilblaze/book/predictably-irrational-60c6r), + more!
@@ -122,6 +122,14 @@ Other affiliations include being PA's in [TSoC](https://tsoc.dev/projects), [SSo
 
 </td></tr></table>
 
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/exports/repo-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/exports/repo-graph.svg" />
+  <img alt="Repository Similarity Graph" src="assets/exports/repo-graph.svg" width="960" />
+</picture>
 
 <br/>
 </p>
@@ -287,12 +295,17 @@ Other affiliations include being PA's in [TSoC](https://tsoc.dev/projects), [SSo
       <a href="https://www.mmlab-ntu.com/careers.html">NTU MMLab Research Internship</a> → Not eligible during previous cycle. Planning to reapply (2025)
     </li>
     <li>
-      🟡 <a href="https://shorturl.at/aAVW8" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368046/peld8vwsbmylurgiszyk.jpg" width="13.5px" height="13.5px"></a> 
+      🟠 <a href="https://shorturl.at/aAVW8" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368046/peld8vwsbmylurgiszyk.jpg" width="13.5px" height="13.5px"></a> 
       <a href="https://shorturl.at/aAVW8">HKUST PG Visiting Research Internship</a> → Not eligible earlier due to institutional constraints. Considering reapplication (2025)
     </li>
     <li>
       🟡 <a href="https://nus.edu.sg/cfg/students/jobs-internships/internships" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368046/vgiabaoetvcp7zjyisqm.jpg" width="13.5px" height="13.5px"></a> 
       <a href="https://nus.edu.sg/cfg/students/jobs-internships/internships">NUS Research Internship</a> → Summer / Fall research internship track ⏳ (Planned cycle 2025)
+    </li>
+    <li>
+      🟠 <a href="https://sgi.mit.edu" target="_blank">
+      <img src="https://res.cloudinary.com/dmlwye965/image/upload/v1774114887/409211515_860969302704141_1092385533892708192_n.jpg_d8goex.jpg" width="13.5px" height="13.5px"></a> 
+      <a href="https://www.ntu.edu.sg/about-us/global/global-connect-fellowship">MIT Summer Geometry Initiative 2025</a> → Application Waitlisted ⏳
     </li>
     <li>
       🔴 <a href="https://iusstf.org/iusstf-viterbi-program" target="_blank">
@@ -391,7 +404,7 @@ If you're reading this, do know that the struggle for excellence is hard but wor
 <br/>
 </details>
 
-<details><summary> ⚪ Journey & a few Easter Egg's 🥚 <img src="https://user-images.githubusercontent.com/48355572/234978665-08b7d16e-dace-479a-a061-478972c43f6b.gif" width="14px" height="14px"></summary> 
+<details><summary> ⚪ Journey & a few Easter Eggs 🥚 <img src="https://user-images.githubusercontent.com/48355572/234978665-08b7d16e-dace-479a-a061-478972c43f6b.gif" width="14px" height="14px"></summary> 
 <p>
 
 - Achieved a remarkable Top-10 position in the prestigious SAP Semicolon Hackathon 3.0, held in Bangalore in 2019 🏆
@@ -476,7 +489,9 @@ If you're reading this, do know that the struggle for excellence is hard but wor
 
 <br/>
 
-**UPDATE:** This list is no longer maintained due to privacy concerns. More can be found scattered across LinkedIn & other platforms. If you want to know more about my journey, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/neilblaze) or [Twitter](https://twitter.com/neilblaze007)! 🙌
+**ⓘ UPDATE:** This list is no longer maintained due to privacy concerns. More can be found scattered across LinkedIn & other platforms. If you want to know more about my journey, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/neilblaze) or [Twitter](https://twitter.com/neilblaze007)! 🙌
+
+![dotted-bar-long](https://user-images.githubusercontent.com/48355572/263612162-32246a50-238b-48d7-aa6d-f1562b04ce3a.png)
 
 <br/>
 
@@ -485,6 +500,10 @@ If you're reading this, do know that the struggle for excellence is hard but wor
 <p align="center">
   <img src="https://user-images.githubusercontent.com/48355572/217467493-ff37e8b2-100e-48a0-8919-4885970c3ca7.png">
 </p>
+
+<br/>
+
+**ⓘ UPDATE (Dec 2025):** My primary setup now includes two MacBook Pros (14-inch M4 Pro, 18GB RAM, and M1 Pro, 16GB RAM, 1TB storage), along with a Raspberry Pi 5 (8GB) for side projects. Besides, the previous desktop GPU was upgraded to an RTX 4070 Ti (12GB), replacing the RX 570 (4GB) 🚀
 
   
 <br/>

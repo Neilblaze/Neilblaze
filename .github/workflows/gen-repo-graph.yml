@@ -1,0 +1,76 @@
+name: scheduled/gen-repo-graph
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  gen-graph:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install networkx
+
+      - name: Fetch repo data
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh api graphql --field query='
+            query {
+              user(login: "Neilblaze") {
+                repositories(
+                  first: 100
+                  ownerAffiliations: OWNER
+                  privacy: PUBLIC
+                  isFork: false
+                  orderBy: { field: PUSHED_AT, direction: DESC }
+                ) {
+                  nodes {
+                    name
+                    isFork
+                    primaryLanguage { name }
+                    languages(first: 10, orderBy: { field: SIZE, direction: DESC }) {
+                      totalSize
+                      edges {
+                        size
+                        node { name color }
+                      }
+                    }
+                    repositoryTopics(first: 20) {
+                      nodes {
+                        topic { name }
+                      }
+                    }
+                    stargazerCount
+                    pushedAt
+                  }
+                }
+              }
+            }' | python3 -c "
+          import json, sys
+          data = json.load(sys.stdin)
+          repos = [r for r in data['data']['user']['repositories']['nodes'] if not r['isFork']]
+          json.dump(repos, open('repos_data.json', 'w'))
+          print(f'Fetched {len(repos)} repos')
+          "
+
+      - name: Generate graph
+        run: python3 scripts/gen_graph.py
+
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/exports/repo-graph.svg assets/exports/repo-graph-dark.svg
+          git diff --cached --quiet || git commit -m "chore: update repo similarity graph [skip ci]"
+          git push
