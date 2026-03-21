@@ -122,6 +122,7 @@ Other affiliations include being PA's in [TSoC](https://tsoc.dev/projects), [SSo
 
 </td></tr></table>
 
+![dotted-bar-long](https://user-images.githubusercontent.com/48355572/263612162-32246a50-238b-48d7-aa6d-f1562b04ce3a.png)
 
 <br/>
 
@@ -132,6 +133,9 @@ Other affiliations include being PA's in [TSoC](https://tsoc.dev/projects), [SSo
 </picture>
 
 <br/>
+
+![dotted-bar-long](https://user-images.githubusercontent.com/48355572/263612162-32246a50-238b-48d7-aa6d-f1562b04ce3a.png)
+
 </p>
 </details>
 
@@ -489,7 +493,7 @@ If you're reading this, do know that the struggle for excellence is hard but wor
 
 <br/>
 
-**ⓘ UPDATE:** This list is no longer maintained due to privacy concerns. More can be found scattered across LinkedIn & other platforms. If you want to know more about my journey, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/neilblaze) or [Twitter](https://twitter.com/neilblaze007)! 🙌
+**ⓘ UPDATE:** This list is no longer maintained due to privacy concerns. More can be found scattered across LinkedIn & other platforms. If you want to know more about my journey, feel free to connect on [LinkedIn](https://www.linkedin.com/in/neilblaze) or [Twitter](https://twitter.com/neilblaze007)! 🙌
 
 ![dotted-bar-long](https://user-images.githubusercontent.com/48355572/263612162-32246a50-238b-48d7-aa6d-f1562b04ce3a.png)
 

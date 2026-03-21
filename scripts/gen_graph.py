@@ -158,8 +158,8 @@ def generate_graph(repos):
     # Higher k = more spread, more iterations for convergence
     pos = nx.spring_layout(
         G,
-        k=5.0 / math.sqrt(max(len(G.nodes), 1)),
-        iterations=300,
+        k=9.0 / math.sqrt(max(len(G.nodes), 1)),
+        iterations=500,
         seed=42,
         scale=1.0,
     )

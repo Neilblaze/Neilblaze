@@ -1,8 +1,8 @@
-name: Check Links
+name: checks/link-exists-or-not
 
 on:
   schedule:
-    - cron: '0 12 * * 1'  # Weekly on Monday at noon
+    - cron: '0 12 1,22 * *'  # Every ~3 weeks (1st and 22nd of each month)
   workflow_dispatch:
   push:
     branches: [master]

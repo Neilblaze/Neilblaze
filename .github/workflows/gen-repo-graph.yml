@@ -2,7 +2,7 @@ name: scheduled/gen-repo-graph
 
 on:
   schedule:
-    - cron: '0 6 * * *'
+    - cron: '0 6 1,15 * *'  # Bi-weekly (1st and 15th of each month)
   workflow_dispatch:
 
 permissions:
