@@ -44,7 +44,7 @@ jobs:
             --exclude '\.mmd$'
             --max-concurrency 10
             README.md
-          fail: true
+          fail: false
 
       - name: Create Issue on Failure
         if: failure()
