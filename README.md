@@ -263,8 +263,11 @@ Other affiliations include being PA's in [TSoC](https://tsoc.dev/projects), [SSo
   ↳ Worked under the guidance of [*Prof. Shreya Ghosh*](https://secs.iitbbs.ac.in/index.php/shreya) on an Indic travel recommendation system using multi-SLMs with graph-based modeling and path-aware retrieval for contextual reasoning. This research was jointly sponsored by Microsoft Research, India <br/><br/>
 - <a href="https://verify.studio.dhiway.com/b/0a28a066-8f50-4f0c-a04e-22d6fecc3c03" target="_blank"><img src="https://res.cloudinary.com/dmlwye965/image/upload/v1772270318/code_for_govtech_logo_onutkp.jpg" width="13.5px" height="13.5px"></a> [Code for Govt Tech (C4GT) 2025 (Mentee) — The Apprentice Project (TAP)](https://codeforgovtech.in) — Remote <br/>
   ↳ Selected from over 4200+ applicants nationwide to work on “*The Apprentice Project: AI-First Internal Transformation*” under the Dedicated Mentoring Program (DMP) 2025, focused on building production-grade, governance-focused open-source infrastructure. Worked alongside TAP’s CEO, [*Anand Gopakumar*](https://in.linkedin.com/in/anandgopakumar), other mentors, and public sector PoCs to deliver real-world digital solutions with public impact. <br/><br/>
-- <a href="https://github.com/X-lab2017/open-digger-mcp-server/pull/1" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1723791110/fsv074ov2xldjej2lnbo.png" width="13.5px" height="13.5px"></a> [**Open Source Promotion Plan**](https://summer-ospp.ac.cn/org/prodetail/255b40533?lang=en&list=pro)'25 (OSPP) *mentee* ~ [OpenDigger](https://github.com/X-lab2017/open-digger) — Remote (Present) <a href="https://summer-ospp.ac.cn" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/234949697-2534f427-c3e9-43bd-b81c-353c4f21405d.jpg" width="18px" height="14px"></a> <br/>
+- <a href="https://github.com/X-lab2017/open-digger-mcp-server/pull/1" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1723791110/fsv074ov2xldjej2lnbo.png" width="13.5px" height="13.5px"></a> [**Open Source Promotion Plan**](https://summer-ospp.ac.cn/org/prodetail/255b40533?lang=en&list=pro)'25 (OSPP) *mentee* ~ [OpenDigger](https://github.com/X-lab2017/open-digger) — Remote (Present) <a href="https://summer-ospp.ac.cn" target="_blank"></a> <br/>
   ↳ Worked under the mentorship of [Frank Zhao](https://github.com/frank-zsy) at [X-Lab](https://github.com/X-lab2017/open-digger) to implement & publish full MCP (Model Context Protocol) support for [OpenDigger](https://open-digger.cn/en), enabling LLMs to stream real-time open-source metrics via SSE, using TypeScript and Node.js. This program is jointly sponsored by Huawei \& ISCAS, CN. <br/><br/>
+- <a href="https://cde.nus.edu.sg/graduate/2026-nus-young-fellowship/" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368046/vgiabaoetvcp7zjyisqm.jpg" width="13.5px" height="13.5px"></a> [**NUS Young Fellowship Programme**](https://cde.nus.edu.sg/graduate/2026-nus-young-fellowship/)'26 (NYFP) *fellow* ~ National University of Singapore — Singapore / Remote (Jun–Jul 2026) <a href="https://cde.nus.edu.sg/graduate/2026-nus-young-fellowship/" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/234949697-2534f427-c3e9-43bd-b81c-353c4f21405d.jpg" width="18px" height="14px"></a> <br/>
+  ↳ Selected for the highly competitive **National University of Singapore Young Fellowship Programme 2026**, focused on *AI and Graduate Research*. Grants a prestigious opportunity to engage with NUS faculty and global peers through a hybrid format, including on-campus lectures, research lab visits, and hands-on project work. Also, includes exploring applications of AI across science, engineering, healthcare, business, and social sciences, culminating in a final research presentation. Programme includes fully sponsored on-campus accommodation during the Singapore residency and a SGD 500 travel grant upon successful completion. <br/><br/>
+
 
 > ⓘ WIP — last updated till late Dec 2025, & will be updated to February 2026 soon.
 
@@ -300,7 +303,7 @@ Other affiliations include being PA's in [TSoC](https://tsoc.dev/projects), [SSo
     </li>
     <li>
       🟠 <a href="https://shorturl.at/aAVW8" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368046/peld8vwsbmylurgiszyk.jpg" width="13.5px" height="13.5px"></a> 
-      <a href="https://shorturl.at/aAVW8">HKUST PG Visiting Research Internship</a> → Not eligible earlier due to institutional constraints. Considering reapplication (2025)
+      <a href="https://shorturl.at/aAVW8">HKUST PG Visiting Research Internship</a> → Not eligible earlier due to institutional constraints ❎
     </li>
     <li>
       🟡 <a href="https://nus.edu.sg/cfg/students/jobs-internships/internships" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368046/vgiabaoetvcp7zjyisqm.jpg" width="13.5px" height="13.5px"></a> 
@@ -325,6 +328,36 @@ Other affiliations include being PA's in [TSoC](https://tsoc.dev/projects), [SSo
       🔴 <a href="https://www.ntu.edu.sg/about-us/global/global-connect-fellowship" target="_blank">
       <img src="https://res.cloudinary.com/dmlwye965/image/upload/v1772653416/3a7f0fd4ba3d1b2943a2353ed61b4aea_tlljqf.jpg" width="13.5px" height="13.5px"></a> 
       <a href="https://www.ntu.edu.sg/about-us/global/global-connect-fellowship">NTU Global Connect Fellowship</a> → Rejected due to pre-committed obligations ❎
+    </li>
+    <li>
+      🔴 <a href="https://www.daad.de/en/information-services-for-higher-education-institutions/further-information-on-daad-programmes/kospie" target="_blank">
+      <img src="https://res.cloudinary.com/dmlwye965/image/upload/v1777046253/images_hxwpkl.jpg" width="13.5px" height="13.5px"></a> 
+      <a href="https://www.daad.de/en/information-services-for-higher-education-institutions/further-information-on-daad-programmes/kospie">KOSPIE Scholarship Programme 2024-2025</a> → Could not proceed due to lack of formal approval from home institution ❎
+    </li>
+    <li>
+      🔴 <a href="https://www.scholarships.unsw.edu.au/global-taste-research-india-summer-practicum-scholarship-program-ugvc1062-research-projects" target="_blank">
+      <img src="https://res.cloudinary.com/dmlwye965/image/upload/v1777046602/images_xya4qq.png" width="13.5px" height="13.5px"></a> 
+      <a href="https://www.scholarships.unsw.edu.au/global-taste-research-india-summer-practicum-scholarship-program-ugvc1062-research-projects">UNSW Global Taste of Research – India Summer Practicum Scholarship Program 2025</a> → Administrative constraints at home institute prevented continuation ❎
+    </li>
+    <li>
+      🔴 <a href="https://www.inde.campusfrance.org/charpak-scholarships" target="_blank">
+      <img src="https://res.cloudinary.com/dmlwye965/image/upload/v1777046739/images_iun7je.png" width="13.5px" height="13.5px"></a> 
+      <a href="https://www.inde.campusfrance.org/charpak-scholarships">Charpak Research Internship 2025</a> → Intentionally avoided (No travel funding & I prioritised fully-funded opportunities) ❎
+    </li>
+    <li>
+      🔴 <a href="https://www.aalto.fi/en/aalto-science-institute-asci/aalto-science-institute-international-summer-research-programme" target="_blank">
+      <img src="https://res.cloudinary.com/dmlwye965/image/upload/v1777048213/apple-touch-icon_yyjxjv.png" width="13.5px" height="13.5px"></a> 
+      <a href="https://www.aalto.fi/en/aalto-science-institute-asci/aalto-science-institute-international-summer-research-programme">Aalto Science Institute International Summer Research Programme 2025</a> → Skipped due to partial funding and overlap with fully-funded commitments ❎
+    </li>
+    <li>
+      🔴 <a href="https://cde.nus.edu.sg/graduate/2026-nus-young-fellowship" target="_blank">
+        <img src="https://res.cloudinary.com/dmlwye965/image/upload/v1777048165/Eberhard_Karls_University__T%C3%BCbingen_Logo_gp1jcn.jpg" width="13.5px" height="13.5px"></a> 
+        <a href="https://cde.nus.edu.sg/graduate/2026-nus-young-fellowship">CaCTüS — Computation & Cognition Tübingen Summer Internship 2025</a> → Couldn’t commit to full 3-month on-site duration alongside existing obligations ❎
+    </li>
+    <li>
+      🔴 <a href="https://www.oist.jp/admissions/research-internship/program-description" target="_blank">
+      <img src="https://res.cloudinary.com/dmlwye965/image/upload/v1777046826/channels4_profile_tmmbfa.jpg" width="13.5px" height="13.5px"></a> 
+      <a href="https://www.oist.jp/admissions/research-internship/program-description">OIST Research Internship 2026</a> → Received no response after application, hence assumed rejection ❎
     </li>
   </ul><br/>
 
