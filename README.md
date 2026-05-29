@@ -24,7 +24,7 @@ Beyond the said, I adore working on **OSS**, **product/system design**, and **re
 
 - 🔭 I’m currently working on my [Blog](https://blog.neilblaze.live) <a href="https://blog.neilblaze.live"><img src="https://user-images.githubusercontent.com/48355572/234940695-3b5baa71-01f5-4156-aca0-7a759bdec650.gif" width="12.9px" height="12.9px"></a>
 - 👨‍💻 CP: [Codechef](https://www.codechef.com/users/zack_007) <a href="https://www.codechef.com/users/zack_007"><img src="https://user-images.githubusercontent.com/48355572/234939005-1a3b35fe-c834-44e6-987e-e86a1deee81c.png" width="14px" height="14px"></a> &nbsp; ❯ &nbsp; [Hackerrank](https://www.hackerrank.com/N3ilz_BL4Z3) <a href="https://www.hackerrank.com/N3ilz_BL4Z3"><img src="https://user-images.githubusercontent.com/48355572/234939454-3defe865-400a-46ec-9d2d-59f9eb8d7d06.png" width="14px" height="14px"></a> &nbsp; ❯ &nbsp; [LeetCode](https://leetcode.com/Neilblaze) <a href="https://leetcode.com/Neilblaze"><img src="https://user-images.githubusercontent.com/48355572/234939592-15f29ec2-10f5-41da-a6ca-7d78db446aa0.png" width="14px" height="14px"></a>
-- 🌱 I’m currently learning [Applied Category Theory](https://arxiv.org/pdf/1809.05923.pdf) (ACT) ✨
+- 🌱 I’m currently learning [Applied Category Theory](https://arxiv.org/pdf/1809.05923.pdf) (ACT) & [AML — UofCornell / CS5785](https://kuleshov-group.github.io/aml-website) ✨
 - 😄 I’m looking to collaborate on Projects & **Hackathons** <img src="https://user-images.githubusercontent.com/48355572/234943320-94375e5d-9028-4d61-8b7b-eed4f4fe6c86.gif" width="15px" height="15px">
 - 💬 Ask me about anything [here](https://github.com/Neilblaze/Neilblaze/issues)
 - ⚡ Fun fact: I love building/assembling PCs
@@ -69,6 +69,7 @@ Beyond the said, I adore working on **OSS**, **product/system design**, and **re
 - [Hyperedge Winter of Blockchain](https://hyperedge.so/wob) 2023 &nbsp; ❯ &nbsp; (Mentor)
 - [GirlScript Summer of Code](https://gssoc.girlscript.tech) (GSSoC) 2023 &nbsp; ❯ &nbsp; (Mentor)
 - [Social Winter of Code](https://www.socialwinterofcode.com) (SWoC) 2023 &nbsp; ❯ &nbsp; (Mentor)
+- [GirlScript Summer of Code](https://gssoc.girlscript.tech) (GSSoC) 2026 &nbsp; ❯ &nbsp; (Mentor)
 
 Other affiliations include being PA's in [TSoC](https://tsoc.dev/projects), [SSoC](https://www.linkedin.com/posts/scriptwinterofcode_swoc-2022-team-activity-6911533140339552256-_bNL/). 
 
@@ -104,6 +105,10 @@ Other affiliations include being PA's in [TSoC](https://tsoc.dev/projects), [SSo
 
 - [Tensorflow](https://github.com/tensorflow) <img src="https://user-images.githubusercontent.com/48355572/234987454-6b44ef88-e396-4a93-88e2-8e61274257ea.png" width="14.5px" height="15.5px">
 - [MediaPipe](https://github.com/google/mediapipe) <img src="https://user-images.githubusercontent.com/48355572/265551775-b498b260-aaba-4bd6-9751-737485aef6d0.png" width="15px" height="15px">
+- [EleutherAI](https://github.com/EleutherAI) <img src="https://res.cloudinary.com/dmlwye965/image/upload/v1780084352/1677697344840_orsgtq.jpg" width="12px" height="12px">
+- [Hugging Face](https://github.com/huggingface) <img src="https://res.cloudinary.com/dmlwye965/image/upload/v1780084357/huggingface-color_rrmpku.png" width="12px" height="12px">
+- [LangChain](https://github.com/langchain-ai) <img src="https://res.cloudinary.com/dmlwye965/image/upload/v1780084407/langchain_oi2z8i.webp" width="12px" height="12px">
+- [LlamaIndex](https://github.com/run-llama) <img src="https://res.cloudinary.com/dmlwye965/image/upload/v1780084444/llamaindex_rt8ndb.webp" width="12px" height="12px">
 - [Apache Software Foundation](https://github.com/apache) <img src="https://user-images.githubusercontent.com/48355572/234987743-dbccbb63-4cd8-4e42-8e71-bff1249cf939.png" width="15px" height="15px">
 - [Pytorch](https://github.com/pytorch) <img src="https://user-images.githubusercontent.com/48355572/234988080-cf2778c5-3599-4647-ae7d-d5a162c86fb8.png" width="10px" height="13px">
 - [Numpy](https://github.com/numpy) <img src="https://user-images.githubusercontent.com/48355572/234988613-acbb0932-5bc2-47ae-83d6-70ced6cd724d.png" width="15px" height="15px">
@@ -113,10 +118,10 @@ Other affiliations include being PA's in [TSoC](https://tsoc.dev/projects), [SSo
 - [Processing Foundation](https://github.com/processing) <img src="https://user-images.githubusercontent.com/48355572/234990297-b0adceb5-5fcd-4522-9cc4-f91991f9c112.png" width="12px" height="14px">
 - [Publiclab](https://github.com/publiclab) <img src="https://user-images.githubusercontent.com/48355572/234990484-3b7c777e-fd4b-4c64-a2f9-4e5dc96c631f.png" width="12.5px" height="12px">
 - [gRPC](https://github.com/grpc) <img src="https://user-images.githubusercontent.com/48355572/265551910-84de7026-16ee-4b74-8aca-9cc74fb3241c.png" width="13px" height="13px">
-- [DSCAOT](https://dscaot.xyz) <img src="https://github.com/apache/apisix/assets/48355572/74555b59-4af8-42be-802c-a3837f3ea2ad" width="18px" height="10px">
 - [BioConda](https://github.com/bioconda) <img src="https://user-images.githubusercontent.com/48355572/234990936-1dceeb8d-aa92-48f9-b529-b5e04f44cd69.png" width="13px" height="13px">
 - [Fossasia](https://github.com/fossasia) <img src="https://user-images.githubusercontent.com/48355572/234991428-bde6d1cc-529b-4258-9bd2-fee9b95de049.png" width="12px" height="12px">
 - [Anitab-Org](https://github.com/anitab-org) <img src="https://user-images.githubusercontent.com/48355572/234991658-3fdb31ec-5ad1-4791-aa77-41dd0177c8ca.png" width="12px" height="12px">
+- [OpenTelemetry](https://github.com/open-telemetry) <img src="https://res.cloudinary.com/dmlwye965/image/upload/v1780084674/opentelemetry-icon-yl5u5y5r5wb3pqg1rtv6ll_t3vnvm.png" width="12px" height="12px">
 
 <br/>
 
@@ -145,9 +150,11 @@ Other affiliations include being PA's in [TSoC](https://tsoc.dev/projects), [SSo
   
 | **Year** | **Name of Hackathon** | **Organizer (Name of International Institution/Organisation) 🏫** | **Position / Award 🏆** | **Explore Project** |
 | --- | --- | --- | --- | --- |
+| 2026 | [Midnight Hackathon 2026](https://midnight-hackathon-2026.devpost.com) <img src="https://user-images.githubusercontent.com/48355572/234949697-2534f427-c3e9-43bd-b81c-353c4f21405d.jpg" width="18px" height="14px"> | Midnight Foundation + MLH | Best Overall Winner | [View](https://devpost.com/software/cocoa-monster) <a href="https://devpost.com/software/cocoa-monster" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/222726664-140bd1cf-fb29-4fd5-8926-d659c4632ea7.png" width="12px" height="12px"></a> |
 | 2026 | [Show and Tell Challenge Presented by Mux](https://dev.to/devteam/devs-worldwide-show-and-tell-challenge-presented-by-mux-pitch-your-projects-3000-in-prizes-40g7) <img src="https://user-images.githubusercontent.com/48355572/234949697-2534f427-c3e9-43bd-b81c-353c4f21405d.jpg" width="18px" height="14px"> | MUX + DEV | Show and Tell Challenge Track Winner | [View](https://dev.to/neilblaze/fragments--2h12) <a href="https://dev.to/neilblaze/fragments--2h12" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/222726664-140bd1cf-fb29-4fd5-8926-d659c4632ea7.png" width="12px" height="12px"></a> |
-| 2025 | [Midnight Network "Privacy First" Challenge](https://dev.to/devteam/join-the-midnight-network-privacy-first-challenge-5000-in-prizes-3l45) <img src="https://user-images.githubusercontent.com/48355572/234949697-2534f427-c3e9-43bd-b81c-353c4f21405d.jpg" width="18px" height="14px"> | Midnight Foundation + DEV | Best Overall Winner — $5000 | [View](https://dev.to/neilblaze/dawn-1gl5) <a href="https://dev.to/neilblaze/dawn-1gl5" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/222726664-140bd1cf-fb29-4fd5-8926-d659c4632ea7.png" width="12px" height="12px"></a> |
+| 2025 | [Midnight Network "Privacy First" Challenge](https://dev.to/devteam/join-the-midnight-network-privacy-first-challenge-5000-in-prizes-3l45) | Midnight Foundation + DEV | Best Overall Winner — $5000 | [View](https://dev.to/neilblaze/dawn-1gl5) <a href="https://dev.to/neilblaze/dawn-1gl5" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/222726664-140bd1cf-fb29-4fd5-8926-d659c4632ea7.png" width="12px" height="12px"></a> |
 | 2025 | [AssemblyAI Voice Agents Challenge](https://dev.to/devteam/join-the-assemblyai-voice-agents-challenge-3000-in-prizes-109a) | AssemblyAI + DEV | Business Automation Voice Agent Track Winner | [View](https://dev.to/neilblaze/wynnie--4po3) <a href="https://dev.to/neilblaze/wynnie--4po3" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/222726664-140bd1cf-fb29-4fd5-8926-d659c4632ea7.png" width="12px" height="12px"></a> |
+| 2025 | [AI Blueprints with Filecoin Hackathon](https://archive.encode.club/ai-blueprints) | Filecoin Foundation + Encode Club | 3rd Place Overall (Hack the Data Layer for AI) + Akave & Lilypad Track Winners (Best LLM/Agent Workflow or Use Case) | [View](https://github.com/neilblaze/frankyagents-encode) <a href="https://github.com/neilblaze/frankyagents-encode" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/222726664-140bd1cf-fb29-4fd5-8926-d659c4632ea7.png" width="12px" height="12px"></a> |
 | 2025 | [SacHacks VI](https://sachacks-vi.devpost.com) | UC Davis | Best Design with code + Best Technical Implementation | [View](https://devpost.com/software/scrolla) <a href="https://devpost.com/software/scrolla" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/222726664-140bd1cf-fb29-4fd5-8926-d659c4632ea7.png" width="12px" height="12px"></a> |
 | 2024 | [Build with Squid 2024](https://getsquid.ai/blog/announcing-the-build-with-squid-contest) | Squid AI | Best Overall| [View](https://i.postimg.cc/3NzgS2N5/image.png) <a href="https://i.postimg.cc/3NzgS2N5/image.png" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/222726664-140bd1cf-fb29-4fd5-8926-d659c4632ea7.png" width="12px" height="12px"></a> |
 | 2024 | [CalgaryHacks 2024](https://calgaryhacks-2024.devpost.com) | University of Calgary | Tier 1 — Second Place | [View](https://devpost.com/software/visionaid) <a href="https://devpost.com/software/visionaid" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/222726664-140bd1cf-fb29-4fd5-8926-d659c4632ea7.png" width="12px" height="12px"></a> |
@@ -253,6 +260,10 @@ Other affiliations include being PA's in [TSoC](https://tsoc.dev/projects), [SSo
   ↳ Working on Social Data Scraping and AI for fairness, under [*Swapneel Mehta*](https://twitter.com/swapneel_mehta) <br/><br/>
 - <a href="https://www.bu.edu/hic" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1707321529/vhpax5ijkblz0yymky5i.png" width="13.5px" height="13.5px"></a> [Rafik B. Hariri Institute for Computing and Computational Science & Engineering](https://www.bu.edu/hic), [Boston University](https://www.bu.edu) — Remote (Present) <br/>
   ↳ Dedicated to advancing free speech, social media, and democratic values through the application of state-of-the-art methodologies. Currently developing cutting-edge measurement and mitigation techniques to address online harms, contributing to advanced platform governance and the formulation of impactful policies, under Prof. [*Marshall Van Alstyne*](https://www.bu.edu/hic/profile/marshall-van-alstyne) <br/><br/>
+- <a href="https://ucsc-ospo.github.io/project/osre24/ucsc/aiealab/" target="_blank"><img src="https://res.cloudinary.com/dmlwye965/image/upload/v1780087714/avatar_hu999311b5517cc8dedbc9e2206a7d99aa_6970_270x270_fill_lanczos_center_3_vpmtac.png" width="13.5px" height="13.5px"></a> **[Summer of Reproducibility](https://ucsc-ospo.github.io/sor)** (SoR) Fellow 2024 via UCSC OSRE — [AIEA Lab](https://aiea-lab.github.io), UC Santa Cruz — Remote <br/>
+  ↳ Worked under the guidance of [*Prof. Leilani H. Gilpin*](https://users.soe.ucsc.edu/~lgilpin/) at the **AI Explainability & Accountability Lab (AIEA)** on *Logical LLMs*, an open-source research initiative focused on trustworthy reasoning, explainability, and automated hallucination detection in large language models. Contributed to graph-workflows involving LLM prompting, user feedback collection interfaces, and data pipelines for storing and analysing corrections in reusable formats. Also supported the development of logic-based evaluation and feedback mechanisms aimed at identifying inconsistencies in model outputs, improving error traceability, and enabling more transparent human-in-the-loop LLM systems. <br/><br/>
+- <a href="https://swades.ai" target="_blank"><img src="https://res.cloudinary.com/dmlwye965/image/upload/v1780073538/swades_ai_logo_s0fudn.jpg" width="13.5px" height="13.5px"></a> AI Fellow, [Swades.ai Fellowship](https://swades.ai) — Remote (4 months) <br/>
+  ↳ Accepted into the **Swades.ai Fellowship** to work with **OpenMic.ai** on evaluation systems for enterprise-grade AI voice agents. Worked on designing evals for conversational quality, task success, turn-taking robustness, latency sensitivity, and instruction following across inbound and outbound call workflows. Built testing and analysis workflows to benchmark agent behaviour under realistic conversational conditions including interruptions, ambiguous user intent, and long-horizon multi-turn exchanges, contributing to more reliable voice agent assessment and iteration. The programme concluded earlier than planned following a strategic realignment of fellowship operations and product focus within the organisation. <br/><br/>
 - <a href="https://www.artpark.in/language-data-ai/hrp-copilot" target="_blank"><img src="https://res.cloudinary.com/dmlwye965/image/upload/v1772271619/channels4_profile_hitvxy.jpg" width="13.5px" height="13.5px"></a> Machine Learning Engineer (Research Engineering Intern) at [ARTPARK, IISc Bangalore](https://www.iitbbs.ac.in) — Remote <br/>
   ↳ Worked under the guidance of *Sid Parida* & [Jigar Doshi](https://in.linkedin.com/in/jigarkdoshi) & built a production agentic RAG system at [ARMMAN](https://armman.org) using sub-3B models & deployed for ~1M frontline healthcare workers. Besides, employed Hybrid FAISS-HNSW + BM25 retrieval, multi-agent routing, and guardrails to reduce clinical errors by 37% across 22 domains while keeping P50 latency under 330 ms. Added hallucination checks using self-consistency voting, logit-entropy clustering, and ontology validation, cutting hallucinations by another 18%. Moreover, set up model evaluation and routing infrastructure \& DSPy consensus grading, multilingual CRAG for Indic queries, and benchmarking 8+ quantized models, bringing P95 latency from 1.75s to 0.9s at 80+ QPS and validating Qwen3-30B-A3B as a near-equivalent evaluator at 63% lower cost. <br/><br/>
 - <a href="https://digiyatrafoundation.com" target="_blank"><img src="https://res.cloudinary.com/dmlwye965/image/upload/v1772653854/images_e8absl.png" width="13.5px" height="13.5px"></a> CoreML and Data Science (Fellow) via [Build for Bharat Fellowship 2025](https://www.bharatdigital.io) — Remote <br/>
@@ -261,12 +272,15 @@ Other affiliations include being PA's in [TSoC](https://tsoc.dev/projects), [SSo
   ↳ Worked under the guidance of [Frank Zhao](https://github.com/frank-zsy) at [X-Lab](https://github.com/X-lab2017/open-digger) to help develop and improve an open-source analysis platform — [OpenDigger](https://open-digger.cn/en). This program is jointly sponsored by Huawei \& ISCAS, CN. <br/><br/>
 - <a href="https://www.iitbbs.ac.in" target="_blank"><img src="https://res.cloudinary.com/dmlwye965/image/upload/v1772269478/images_yeqvju.jpg" width="13.5px" height="13.5px"></a> Winter Research Intern at [Indian Institute of Technology, Bhubaneswar](https://www.iitbbs.ac.in) — Remote <br/>
   ↳ Worked under the guidance of [*Prof. Shreya Ghosh*](https://secs.iitbbs.ac.in/index.php/shreya) on an Indic travel recommendation system using multi-SLMs with graph-based modeling and path-aware retrieval for contextual reasoning. This research was jointly sponsored by Microsoft Research, India <br/><br/>
+- <a href="https://indiaai.gov.in" target="_blank"><img src="https://res.cloudinary.com/dmlwye965/image/upload/v1780088617/indiaai_logo_vctaib.jpg" width="13.5px" height="13.5px"></a> **IndiaAI Fellow 2025** under the **IndiaAI Mission (MeitY, Govt. of India)** — Selected among top-145 M.Tech researchers from leading Indian institutions to pursue applied AI research in machine learning, language technologies, and real-world AI systems.
 - <a href="https://verify.studio.dhiway.com/b/0a28a066-8f50-4f0c-a04e-22d6fecc3c03" target="_blank"><img src="https://res.cloudinary.com/dmlwye965/image/upload/v1772270318/code_for_govtech_logo_onutkp.jpg" width="13.5px" height="13.5px"></a> [Code for Govt Tech (C4GT) 2025 (Mentee) — The Apprentice Project (TAP)](https://codeforgovtech.in) — Remote <br/>
   ↳ Selected from over 4200+ applicants nationwide to work on “*The Apprentice Project: AI-First Internal Transformation*” under the Dedicated Mentoring Program (DMP) 2025, focused on building production-grade, governance-focused open-source infrastructure. Worked alongside TAP’s CEO, [*Anand Gopakumar*](https://in.linkedin.com/in/anandgopakumar), other mentors, and public sector PoCs to deliver real-world digital solutions with public impact. <br/><br/>
 - <a href="https://github.com/X-lab2017/open-digger-mcp-server/pull/1" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1723791110/fsv074ov2xldjej2lnbo.png" width="13.5px" height="13.5px"></a> [**Open Source Promotion Plan**](https://summer-ospp.ac.cn/org/prodetail/255b40533?lang=en&list=pro)'25 (OSPP) *mentee* ~ [OpenDigger](https://github.com/X-lab2017/open-digger) — Remote (Present) <a href="https://summer-ospp.ac.cn" target="_blank"></a> <br/>
   ↳ Worked under the mentorship of [Frank Zhao](https://github.com/frank-zsy) at [X-Lab](https://github.com/X-lab2017/open-digger) to implement & publish full MCP (Model Context Protocol) support for [OpenDigger](https://open-digger.cn/en), enabling LLMs to stream real-time open-source metrics via SSE, using TypeScript and Node.js. This program is jointly sponsored by Huawei \& ISCAS, CN. <br/><br/>
-- <a href="https://cde.nus.edu.sg/graduate/2026-nus-young-fellowship/" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368046/vgiabaoetvcp7zjyisqm.jpg" width="13.5px" height="13.5px"></a> [**NUS Young Fellowship Programme**](https://cde.nus.edu.sg/graduate/2026-nus-young-fellowship/)'26 (NYFP) *fellow* at NUS — Singapore / Remote (Jun–Jul 2026) <a href="https://cde.nus.edu.sg/graduate/2026-nus-young-fellowship/" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/234949697-2534f427-c3e9-43bd-b81c-353c4f21405d.jpg" width="18px" height="14px"></a> <br/>
+- <a href="https://cde.nus.edu.sg/graduate/2026-nus-young-fellowship" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368046/vgiabaoetvcp7zjyisqm.jpg" width="13.5px" height="13.5px"></a> [**NUS Young Fellowship Programme**](https://cde.nus.edu.sg/graduate/2026-nus-young-fellowship)'26 (NYFP) *fellow* at NUS — Singapore / Remote (Jun–Jul 2026) <a href="https://cde.nus.edu.sg/graduate/2026-nus-young-fellowship/" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/234949697-2534f427-c3e9-43bd-b81c-353c4f21405d.jpg" width="18px" height="14px"></a> <br/>
   ↳ Selected for the highly competitive **National University of Singapore Young Fellowship Programme 2026**, focused on *AI and Graduate Research*. Grants a prestigious opportunity to engage with NUS faculty and global peers through a hybrid format, including on-campus lectures, research lab visits, and hands-on project work. Also, includes exploring applications of AI across science, engineering, healthcare, business, and social sciences, culminating in a final research presentation. Programme includes fully sponsored on-campus accommodation during the Singapore residency and a SGD 500 travel grant upon successful completion. <br/><br/>
+- <a href="https://www.cam.ac.uk" target="_blank"><img src="https://res.cloudinary.com/dmlwye965/image/upload/v1780071089/icon_s7dsit.jpg" width="13.5px" height="13.5px"></a> Research Intern (IR & NLP), [University of Cambridge, Department of Computer Science and Technology](https://www.cst.cam.ac.uk) — Remote <a href="https://www.cst.cam.ac.uk/research/themes/machine-learning-and-artificial-intelligence" target="_blank"><img src="https://user-images.githubusercontent.com/48355572/234949697-2534f427-c3e9-43bd-b81c-353c4f21405d.jpg" width="18px" height="14px"></a> <br/>
+  ↳ Collaborated with [*Qiyao Wei*](https://uk.linkedin.com/in/qiyaowei) on **ODHEMIS** (*Orchestrated Dual-tier Hierarchical Evaluation with Multi-agent Inspection and Scoring*), a joint research effort towards an **[EMNLP ’26](https://2026.emnlp.org/)** submission focused on *improving evaluation pipelines for agentic LLM systems*. Lead the design and development of a *dual-stage verifier–judge framework* combining probabilistic verification, structured feedback, and rubric-based quality assessment across reasoning, code generation, and retrieval tasks. Besides, helped build evaluation workflows for candidate selection and retry optimisation, reducing unnecessary downstream judging and delivering **up to 43% lower evaluation cost** in controlled experiments, while producing stronger feedback signals for model refinement and alignment research. <br/><br/>
 
 
 > ⓘ WIP — last updated till late Dec 2025, & will be updated to February 2026 soon.
@@ -282,11 +296,11 @@ Other affiliations include being PA's in [TSoC](https://tsoc.dev/projects), [SSo
       <a href="https://fellowship.mlh.io">MLH Fellowship</a> → Program discontinued for APAC since 2023 ❎
     </li>
     <li>
-      🔴 <a href="https://developers.google.com/season-of-docs" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368047/yoir6ljmime7o49kizpa.png" width="13.5px" height="13.5px"></a> 
-      <a href="https://developers.google.com/season-of-docs">Google Season of Docs</a> (2023) → <strong>Shortlisted</strong> but withdrew due to participation in <strong>GSoC 2023</strong>
+      🟣 <a href="https://developers.google.com/season-of-docs" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368047/yoir6ljmime7o49kizpa.png" width="13.5px" height="13.5px"></a> 
+      <a href="https://developers.google.com/season-of-docs">Google Season of Docs</a> (2023) → <strong>Shortlisted</strong> but had to withdrew due to terms of <strong>GSoC 2023</strong>
     </li>
     <li>
-      🔴 <a href="https://www.outreachy.org" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368046/o5rgyd2mcvptgaagrfiw.png" width="13.5px" height="13.5px"></a> 
+      🟣 <a href="https://www.outreachy.org" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368046/o5rgyd2mcvptgaagrfiw.png" width="13.5px" height="13.5px"></a> 
       <a href="https://www.outreachy.org">Outreachy</a> (May 2023 Cohort) → <strong>Selected</strong> but withdrew due to overlap with <strong>GSoC 2023</strong>
     </li>
     <li>
@@ -295,11 +309,15 @@ Other affiliations include being PA's in [TSoC](https://tsoc.dev/projects), [SSo
     </li>
     <li>
       🟡 <a href="https://www.summerofbitcoin.org" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368046/gmx9p4u0gulrfhsivvtc.png" width="13.5px" height="13.5px"></a> 
-      <a href="https://www.summerofbitcoin.org">Summer of Bitcoin</a> → Planning to apply ⏳ (Target cycle 2025) / Missed ❎
+      <a href="https://www.summerofbitcoin.org">Summer of Bitcoin</a> →  Missed 2026 ❎ / (Target cycle 2027)
+    </li>
+    <li>
+      🟡 <a href="https://www.esoc.dev" target="_blank"><img src="https://res.cloudinary.com/dmlwye965/image/upload/v1780075821/esoc-icon_rw49dk.webp" width="13.5px" height="13.5px"></a> 
+      <a href="https://www.esoc.dev">European Summer of Code (ESoC)</a> →  Didn't apply in 2026 ❎ / (Target cycle 2027)
     </li>
     <li>
       🟡 <a href="https://www.mmlab-ntu.com/careers.html" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368047/c41u6laladwkgf4ox7wy.png" width="13.5px" height="13.5px"></a> 
-      <a href="https://www.mmlab-ntu.com/careers.html">NTU MMLab Research Internship</a> → Not eligible during previous cycle. Planning to reapply (2025)
+      <a href="https://www.mmlab-ntu.com/careers.html">NTU MMLab Research Internship</a> → Reapplied in early 2026, & no response so far 😔
     </li>
     <li>
       🟠 <a href="https://shorturl.at/aAVW8" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368046/peld8vwsbmylurgiszyk.jpg" width="13.5px" height="13.5px"></a> 
@@ -312,12 +330,12 @@ Other affiliations include being PA's in [TSoC](https://tsoc.dev/projects), [SSo
     <li>
       🟠 <a href="https://sgi.mit.edu" target="_blank">
       <img src="https://res.cloudinary.com/dmlwye965/image/upload/v1774114887/409211515_860969302704141_1092385533892708192_n.jpg_d8goex.jpg" width="13.5px" height="13.5px"></a> 
-      <a href="https://www.ntu.edu.sg/about-us/global/global-connect-fellowship">MIT Summer Geometry Initiative 2025</a> → Application Waitlisted ⏳
+      <a href="https://www.ntu.edu.sg/about-us/global/global-connect-fellowship">MIT Summer Geometry Initiative 2025</a> → Application Rejected due to profile-mismatch ❎ 
     </li>
     <li>
       🔴 <a href="https://iusstf.org/iusstf-viterbi-program" target="_blank">
       <img src="https://res.cloudinary.com/dmlwye965/image/upload/v1772653317/wt0-TdjN_400x400_fmkjsn.jpg" width="13.5px" height="13.5px"></a> 
-      <a href="https://iusstf.org/iusstf-viterbi-program">IUSSTF – Viterbi Program</a> → Indo-US research exchange fellowship. Application Rejected ❎
+      <a href="https://iusstf.org/iusstf-viterbi-program">IUSSTF – Viterbi Program (Indo-US research exchange fellowship)</a> → Application Rejected ❎
     </li>
     <li>
       🔴 <a href="https://eee.epfl.ch/" target="_blank">
@@ -327,7 +345,7 @@ Other affiliations include being PA's in [TSoC](https://tsoc.dev/projects), [SSo
     <li>
       🔴 <a href="https://www.ntu.edu.sg/about-us/global/global-connect-fellowship" target="_blank">
       <img src="https://res.cloudinary.com/dmlwye965/image/upload/v1772653416/3a7f0fd4ba3d1b2943a2353ed61b4aea_tlljqf.jpg" width="13.5px" height="13.5px"></a> 
-      <a href="https://www.ntu.edu.sg/about-us/global/global-connect-fellowship">NTU Global Connect Fellowship</a> → Rejected due to pre-committed obligations ❎
+      <a href="https://www.ntu.edu.sg/about-us/global/global-connect-fellowship">NTU Global Connect Fellowship</a> → Self-rejected due to pre-committed obligations ❎
     </li>
     <li>
       🔴 <a href="https://www.daad.de/en/information-services-for-higher-education-institutions/further-information-on-daad-programmes/kospie" target="_blank">
@@ -337,7 +355,7 @@ Other affiliations include being PA's in [TSoC](https://tsoc.dev/projects), [SSo
     <li>
       🔴 <a href="https://www.scholarships.unsw.edu.au/global-taste-research-india-summer-practicum-scholarship-program-ugvc1062-research-projects" target="_blank">
       <img src="https://res.cloudinary.com/dmlwye965/image/upload/v1777046602/images_xya4qq.png" width="13.5px" height="13.5px"></a> 
-      <a href="https://www.scholarships.unsw.edu.au/global-taste-research-india-summer-practicum-scholarship-program-ugvc1062-research-projects">UNSW Global Taste of Research – India SP2 2025</a> → Administrative constraints at home institute prevented continuation ❎
+      <a href="https://www.scholarships.unsw.edu.au/global-taste-research-india-summer-practicum-scholarship-program-ugvc1062-research-projects">UNSW Global ToR – India SP2 2025</a> → Administrative constraints at home institute prevented continuation ❎
     </li>
     <li>
       🔴 <a href="https://www.inde.campusfrance.org/charpak-scholarships" target="_blank">
@@ -347,12 +365,27 @@ Other affiliations include being PA's in [TSoC](https://tsoc.dev/projects), [SSo
     <li>
       🔴 <a href="https://www.aalto.fi/en/aalto-science-institute-asci/aalto-science-institute-international-summer-research-programme" target="_blank">
       <img src="https://res.cloudinary.com/dmlwye965/image/upload/v1777048213/apple-touch-icon_yyjxjv.png" width="13.5px" height="13.5px"></a> 
-      <a href="https://www.aalto.fi/en/aalto-science-institute-asci/aalto-science-institute-international-summer-research-programme">Aalto Science Institute ISRP 2025</a> → Skipped due to partial funding & overlap with fully-funded commitments ❎
+      <a href="https://www.aalto.fi/en/aalto-science-institute-asci/aalto-science-institute-international-summer-research-programme">Aalto Science Institute ISRP 2025</a> → Skipped due to partial funding & other commitments ❎
     </li>
     <li>
       🔴 <a href="https://cde.nus.edu.sg/graduate/2026-nus-young-fellowship" target="_blank">
         <img src="https://res.cloudinary.com/dmlwye965/image/upload/v1777048165/Eberhard_Karls_University__T%C3%BCbingen_Logo_gp1jcn.jpg" width="13.5px" height="13.5px"></a> 
         <a href="https://cde.nus.edu.sg/graduate/2026-nus-young-fellowship">CaCTüS — C2 Tübingen Summer Internship 2025</a> → Couldn’t commit due to existing obligations ❎
+    </li>
+    <li>
+      🔴 <a href="https://inf.ethz.ch/studies/summer-research-fellowship.html" target="_blank">
+        <img src="https://res.cloudinary.com/dmlwye965/image/upload/v1780078461/image.imageformat.textdouble.1670966708_bxcfuw.png" width="13.5px" height="13.5px"></a> 
+        <a href="https://inf.ethz.ch/studies/summer-research-fellowship.html">ETH Student Summer Research Fellowship (SSRF) 2026</a> → Application Rejected ❎
+    </li>
+    <li>
+      🔴 <a href="https://tigp.sinica.edu.tw/pages/3127" target="_blank">
+        <img src="https://res.cloudinary.com/dmlwye965/image/upload/v1780076567/sinica_logo-c1a2490e2ea2a02ec5c1f5e8fe9a3bdca9b289f4ad34f3dda4aff201a176d12a_sk3ew3.png" width="13.5px" height="13.5px"></a> 
+        <a href="https://tigp.sinica.edu.tw/pages/3127">Taiwan International Internship Program (TIIP) 2026</a> → Skipped due to partial funding issues ❎
+    </li>
+    <li>
+      🟠 <a href="https://www.lti.cs.cmu.edu/news-and-events/news/2026-02-03-lt-for-all.html" target="_blank">
+        <img src="https://res.cloudinary.com/dmlwye965/image/upload/v1780076099/logo-new-3_ducaz7.png" width="13.5px" height="13.5px"></a> 
+        <a href="https://www.lti.cs.cmu.edu/news-and-events/news/2026-02-03-lt-for-all.html">CMU LTI Language Technology for All Internship 2026</a> → Application Waitlisted ⏳
     </li>
     <li>
       🟠 <a href="https://www.oist.jp/admissions/research-internship/program-description" target="_blank">
@@ -369,16 +402,22 @@ Other affiliations include being PA's in [TSoC](https://tsoc.dev/projects), [SSo
   <br/>
   <ul>
     <li>
-      <a href="https://www.linkedin.com/company/ieeesbaot" target="_blank">IEEE AOT</a>, Academy of Technology
+      <a href="https://www.linkedin.com/company/ieeesbaot" target="_blank">IEEE AOT</a>, Academy of Technology <img src="https://res.cloudinary.com/dmlwye965/image/upload/v1780086434/expired-2_nzomkc.png" width="14px" height="14px">
     </li>
     <li>
-      <a href="https://www.linkedin.com/company/sceceaot" target="_blank">IEI-AOT</a>, Academy of Technology
+      <a href="https://www.linkedin.com/company/sceceaot" target="_blank">IEI-AOT</a>, Academy of Technology <img src="https://res.cloudinary.com/dmlwye965/image/upload/v1780086434/expired-2_nzomkc.png" width="14px" height="14px">
+    </li>
+    <li>
+      <a href="https://iitgai.in" target="_blank">IITG.ai</a>, Indian Institute of Technology, Guwahati
+    </li>
+    <li>
+      <a href="https://www.caciitg.com" target="_blank">Consulting & Analytics Club (C&A)</a>, Indian Institute of Technology, Guwahati
     </li>
     <li>
       <a href="https://kolkata.acm.org/w" target="_blank">Association for Computing Machinery (ACM)</a>, Kolkata Chapter
     </li>
     <li>
-      <a href="https://www.isical.ac.in/~vlrg" target="_blank">Vision and Learning Research Group (VLRG)</a>, ISI Kolkata
+      <a href="https://www.isical.ac.in/~vlrg" target="_blank">Vision and Learning Research Group (VLRG)</a>, ISI Kolkata <img src="https://res.cloudinary.com/dmlwye965/image/upload/v1780086434/expired-2_nzomkc.png" width="14px" height="14px">
     </li>
     <li>
       <a href="http://www.csikolkata.org" target="_blank">The Computer Society of India (CSI)</a>, Kolkata
@@ -390,13 +429,13 @@ Other affiliations include being PA's in [TSoC](https://tsoc.dev/projects), [SSo
       <a href="https://www.iarcs.org" target="_blank">Indian Association for Research in Computing Science (IARCS)</a>, India
     </li>
     <li>
-      <a href="https://www.iacsit.org" target="_blank">The International Association of Computer Science and Information Technology (IACSIT)</a>, Singapore
+      <a href="https://www.iacsit.org" target="_blank">The International Association of Computer Science and Information Technology (IACSIT)</a>, Singapore <img src="https://res.cloudinary.com/dmlwye965/image/upload/v1780086434/expired-2_nzomkc.png" width="14px" height="14px">
     </li>
     <li>
       <a href="https://fb-ki.gi.de/en/article/kostenlose-mitgliedschaft-fuer-studierende-schueler-innen-und-auszubildende-in-2023" target="_blank">The European Association for Artificial Intelligence (EurAI) / DE</a>, Europe
     </li>
     <li>
-      <a href="https://github.com/dscaot" target="_blank">Developer Students Club, AOT</a>, Academy of Technology
+      <a href="https://github.com/dscaot" target="_blank">Developer Students Club, AOT</a>, Academy of Technology <img src="https://res.cloudinary.com/dmlwye965/image/upload/v1780086434/expired-2_nzomkc.png" width="14px" height="14px">
     </li>
     <li>
       <a href="https://tfug.kolkata.dev" target="_blank">Tensorflow User Group</a>, Kolkata
@@ -411,16 +450,16 @@ Other affiliations include being PA's in [TSoC](https://tsoc.dev/projects), [SSo
       <a href="https://gdgcloud.kolkata.dev" target="_blank">Google Developer Group (GDG) Cloud Kolkata</a>
     </li>
     <li>
-      <a href="https://www.linkedin.com/company/codechef-aot-chapter" target="_blank">CodeChef AOT Chapter</a>, Academy of Technology
+      <a href="https://www.linkedin.com/company/codechef-aot-chapter" target="_blank">CodeChef AOT Chapter</a>, Academy of Technology <img src="https://res.cloudinary.com/dmlwye965/image/upload/v1780086434/expired-2_nzomkc.png" width="14px" height="14px">
     </li>
     <li>
       <a href="https://www.linkedin.com/company/awsugkol" target="_blank">AWS User Group</a>, Kolkata
     </li>
     <li>
-      <a href="https://www.facebook.com/groups/DevCKolkata" target="_blank">Facebook Developer Circle</a>, Kolkata
+      <a href="https://www.facebook.com/groups/DevCKolkata" target="_blank">Facebook Developer Circle</a>, Kolkata <img src="https://res.cloudinary.com/dmlwye965/image/upload/v1780086434/expired-2_nzomkc.png" width="14px" height="14px">
     </li>
     <li>
-      <a href="https://www.linkedin.com/company/aot-technology-business-incubation-centre" target="_blank">AOT Technology Business Incubation Centre</a>, Academy of Technology
+      <a href="https://www.linkedin.com/company/aot-technology-business-incubation-centre" target="_blank">AOT Technology Business Incubation Centre</a>, Academy of Technology <img src="https://res.cloudinary.com/dmlwye965/image/upload/v1780086434/expired-2_nzomkc.png" width="14px" height="14px">
     </li>
   </ul>
   <p>And several others including, <a href="https://community.openai.com" target="_blank">OpenAI Community</a>, <a href="https://community.fossasia.org" target="_blank">FOSSASIA Community</a>, <a href="https://community.cncf.io/kolkata" target="_blank">CNCF Kolkata</a>, etc.</p>
