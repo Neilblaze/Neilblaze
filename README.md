@@ -18,13 +18,13 @@
 
 Welcome to my favourite place! I'm a passionate ~~developer~~ **_innovator_** & CS/AI grad student with a minor in [HCI](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction), building at the intersection of **_reliable intelligence_** to improve latent reasoning across long-horizon tasks for frontier AI (L/SLMs), State Space Models (SSM), and **_human-centred systems_** to create amazing stuff that brings positive change in human lives. I lean toward an `e/acc` mindset, focusing on making agentic systems *trustworthy at scale*, helping to push capabilities forward for high-stakes domains. Beyond that, my interests further extend into **Post-Training** (SFT & RL) & *Evals* making intelligent systems not just more capable, but also reliable.
 
-Beyond the said, I adore working on **OSS**, **product/system design**, and **reverse engineering**, and I define myself as an independent [RSE](https://ukrse.github.io/who.html) & a competitive hackathon aficionado \w [**75+ wins** 🏆](https://bit.ly/3nuM2Lz) who quantifies outcome via **_scale of impact_**. When I'm not working, you'll find me vibing to EDMs, [sketching](https://urlx.vercel.app/ed-sheeran), solving puzzles, or (maybe) on the football field. The love for new skills and desire to create something which can directly influence people, keeps me motivated! 🚀
+I support [effective altruism](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism), & love mentoring folks in need. Beyond the said, I adore working on **OSS**, **product/system design**, and **reverse engineering**, and I define myself as an independent [RSE](https://ukrse.github.io/who.html) & a competitive hackathon aficionado \w [**75+ wins** 🏆](https://bit.ly/3nuM2Lz) who quantifies outcome via **_scale of impact_**. When I'm not working, you'll find me vibing to EDMs, [sketching](https://urlx.vercel.app/ed-sheeran), solving puzzles, or (maybe) on the football field. The love for new skills and desire to create something which can directly influence people, keeps me motivated! 🚀
 
 <img align='right' src='https://user-images.githubusercontent.com/48355572/205913210-a40d093c-c40f-4cf7-b6ec-c67cd953476a.png' width='150'>
 
 - 🔭 I’m currently working on my [Blog](https://blog.neilblaze.live) <a href="https://blog.neilblaze.live"><img src="https://user-images.githubusercontent.com/48355572/234940695-3b5baa71-01f5-4156-aca0-7a759bdec650.gif" width="12.9px" height="12.9px"></a>
 - 👨‍💻 CP: [Codechef](https://www.codechef.com/users/zack_007) <a href="https://www.codechef.com/users/zack_007"><img src="https://user-images.githubusercontent.com/48355572/234939005-1a3b35fe-c834-44e6-987e-e86a1deee81c.png" width="14px" height="14px"></a> &nbsp; ❯ &nbsp; [Hackerrank](https://www.hackerrank.com/N3ilz_BL4Z3) <a href="https://www.hackerrank.com/N3ilz_BL4Z3"><img src="https://user-images.githubusercontent.com/48355572/234939454-3defe865-400a-46ec-9d2d-59f9eb8d7d06.png" width="14px" height="14px"></a> &nbsp; ❯ &nbsp; [LeetCode](https://leetcode.com/Neilblaze) <a href="https://leetcode.com/Neilblaze"><img src="https://user-images.githubusercontent.com/48355572/234939592-15f29ec2-10f5-41da-a6ca-7d78db446aa0.png" width="14px" height="14px"></a>
-- 🌱 I’m currently learning [Applied Category Theory](https://arxiv.org/pdf/1809.05923.pdf) (ACT) & [AML](https://kuleshov-group.github.io/aml-website) (CS5785) ✨
+- 🌱 I’m currently learning [Applied Category Theory](https://arxiv.org/pdf/1809.05923.pdf) (ACT) & [AML](https://kuleshov-group.github.io/aml-website) ✨
 - 😄 I’m looking to collaborate on Projects & **Hackathons** <img src="https://user-images.githubusercontent.com/48355572/234943320-94375e5d-9028-4d61-8b7b-eed4f4fe6c86.gif" width="15px" height="15px">
 - 💬 Ask me about anything [here](https://github.com/Neilblaze/Neilblaze/issues)
 - ⚡ Fun fact: I love building/assembling PCs
@@ -306,7 +306,7 @@ Other affiliations include being PA's in [TSoC](https://tsoc.dev/projects), [SSo
       <a href="https://www.outreachy.org">Outreachy</a> (May 2023 Cohort) → <strong>Selected</strong> but withdrew due to overlap with <strong>GSoC 2023</strong>
     </li>
     <li>
-      🟡 <a href="https://shorturl.at/kpyzS" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368046/jtlnde3tmszddrmfga6j.png" width="13.5px" height="13.5px"></a> 
+      ⚪ <a href="https://shorturl.at/kpyzS" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368046/jtlnde3tmszddrmfga6j.png" width="13.5px" height="13.5px"></a> 
       <a href="https://shorturl.at/kpyzS">DAAD WISE Scholarship</a> (2021) → Could not apply due to institutional <a href="https://shorturl.at/dtGIM">eligibility requirements</a> ❎
     </li>
     <li>
@@ -318,11 +318,11 @@ Other affiliations include being PA's in [TSoC](https://tsoc.dev/projects), [SSo
       <a href="https://www.esoc.dev">European Summer of Code (ESoC)</a> →  Didn't apply in 2026 ❎ / (Target cycle 2027)
     </li>
     <li>
-      🟡 <a href="https://www.mmlab-ntu.com/careers.html" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368047/c41u6laladwkgf4ox7wy.png" width="13.5px" height="13.5px"></a> 
+      🟠 <a href="https://www.mmlab-ntu.com/careers.html" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368047/c41u6laladwkgf4ox7wy.png" width="13.5px" height="13.5px"></a> 
       <a href="https://www.mmlab-ntu.com/careers.html">NTU MMLab Research Internship</a> → Reapplied in early 2026, & no response so far 😔
     </li>
     <li>
-      🟠 <a href="https://shorturl.at/aAVW8" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368046/peld8vwsbmylurgiszyk.jpg" width="13.5px" height="13.5px"></a> 
+      ⚪ <a href="https://shorturl.at/aAVW8" target="_blank"><img src="https://res.cloudinary.com/dutfy6mlc/image/upload/v1701368046/peld8vwsbmylurgiszyk.jpg" width="13.5px" height="13.5px"></a> 
       <a href="https://shorturl.at/aAVW8">HKUST PG Visiting Research Internship</a> → Not eligible earlier due to institutional constraints ❎
     </li>
     <li>
@@ -330,7 +330,7 @@ Other affiliations include being PA's in [TSoC](https://tsoc.dev/projects), [SSo
       <a href="https://nus.edu.sg/cfg/students/jobs-internships/internships">NUS Research Internship</a> → Summer / Fall research internship track ⏳ (Planned cycle 2025)
     </li>
     <li>
-      🟠 <a href="https://sgi.mit.edu" target="_blank">
+      🔴 <a href="https://sgi.mit.edu" target="_blank">
       <img src="https://res.cloudinary.com/dmlwye965/image/upload/v1774114887/409211515_860969302704141_1092385533892708192_n.jpg_d8goex.jpg" width="13.5px" height="13.5px"></a> 
       <a href="https://www.ntu.edu.sg/about-us/global/global-connect-fellowship">MIT Summer Geometry Initiative 2025</a> → Application Rejected due to profile-mismatch ❎ 
     </li>
@@ -345,32 +345,32 @@ Other affiliations include being PA's in [TSoC](https://tsoc.dev/projects), [SSo
       <a href="https://eee.epfl.ch/">EPFL E3 Program</a> → Application rejected in round-3 due to project-lab mismatch ❎
     </li>
     <li>
-      🔴 <a href="https://www.ntu.edu.sg/about-us/global/global-connect-fellowship" target="_blank">
+      ⚪ <a href="https://www.ntu.edu.sg/about-us/global/global-connect-fellowship" target="_blank">
       <img src="https://res.cloudinary.com/dmlwye965/image/upload/v1772653416/3a7f0fd4ba3d1b2943a2353ed61b4aea_tlljqf.jpg" width="13.5px" height="13.5px"></a> 
       <a href="https://www.ntu.edu.sg/about-us/global/global-connect-fellowship">NTU Global Connect Fellowship</a> → Self-rejected due to pre-committed obligations ❎
     </li>
     <li>
-      🔴 <a href="https://www.daad.de/en/information-services-for-higher-education-institutions/further-information-on-daad-programmes/kospie" target="_blank">
+      ⚪ <a href="https://www.daad.de/en/information-services-for-higher-education-institutions/further-information-on-daad-programmes/kospie" target="_blank">
       <img src="https://res.cloudinary.com/dmlwye965/image/upload/v1777046253/images_hxwpkl.jpg" width="13.5px" height="13.5px"></a> 
       <a href="https://www.daad.de/en/information-services-for-higher-education-institutions/further-information-on-daad-programmes/kospie">KOSPIE Scholarship Programme 2024-2025</a> → Stalled due to lack of formal approval from home institution ❎
     </li>
     <li>
-      🔴 <a href="https://www.scholarships.unsw.edu.au/global-taste-research-india-summer-practicum-scholarship-program-ugvc1062-research-projects" target="_blank">
+      ⚪ <a href="https://www.scholarships.unsw.edu.au/global-taste-research-india-summer-practicum-scholarship-program-ugvc1062-research-projects" target="_blank">
       <img src="https://res.cloudinary.com/dmlwye965/image/upload/v1777046602/images_xya4qq.png" width="13.5px" height="13.5px"></a> 
       <a href="https://www.scholarships.unsw.edu.au/global-taste-research-india-summer-practicum-scholarship-program-ugvc1062-research-projects">UNSW Global ToR – India SP2 2025</a> → Administrative constraints at home institute prevented continuation ❎
     </li>
     <li>
-      🔴 <a href="https://www.inde.campusfrance.org/charpak-scholarships" target="_blank">
+      ⚪ <a href="https://www.inde.campusfrance.org/charpak-scholarships" target="_blank">
       <img src="https://res.cloudinary.com/dmlwye965/image/upload/v1777046739/images_iun7je.png" width="13.5px" height="13.5px"></a> 
       <a href="https://www.inde.campusfrance.org/charpak-scholarships">Charpak Research Internship 2025</a> → Skipped due to partial funding & overlap with fully-funded commitments ❎
     </li>
     <li>
-      🔴 <a href="https://www.aalto.fi/en/aalto-science-institute-asci/aalto-science-institute-international-summer-research-programme" target="_blank">
+      ⚪ <a href="https://www.aalto.fi/en/aalto-science-institute-asci/aalto-science-institute-international-summer-research-programme" target="_blank">
       <img src="https://res.cloudinary.com/dmlwye965/image/upload/v1777048213/apple-touch-icon_yyjxjv.png" width="13.5px" height="13.5px"></a> 
       <a href="https://www.aalto.fi/en/aalto-science-institute-asci/aalto-science-institute-international-summer-research-programme">Aalto Science Institute ISRP 2025</a> → Skipped due to partial funding & other commitments ❎
     </li>
     <li>
-      🔴 <a href="https://cde.nus.edu.sg/graduate/2026-nus-young-fellowship" target="_blank">
+      ⚪ <a href="https://cde.nus.edu.sg/graduate/2026-nus-young-fellowship" target="_blank">
         <img src="https://res.cloudinary.com/dmlwye965/image/upload/v1777048165/Eberhard_Karls_University__T%C3%BCbingen_Logo_gp1jcn.jpg" width="13.5px" height="13.5px"></a> 
         <a href="https://cde.nus.edu.sg/graduate/2026-nus-young-fellowship">CaCTüS — C2 Tübingen Summer Internship 2025</a> → Couldn’t commit due to existing obligations ❎
     </li>
@@ -380,9 +380,14 @@ Other affiliations include being PA's in [TSoC](https://tsoc.dev/projects), [SSo
         <a href="https://inf.ethz.ch/studies/summer-research-fellowship.html">ETH Student Summer Research Fellowship (SSRF) 2026</a> → Application Rejected ❎
     </li>
     <li>
-      🔴 <a href="https://tigp.sinica.edu.tw/pages/3127" target="_blank">
+      ⚪ <a href="https://tigp.sinica.edu.tw/pages/3127" target="_blank">
         <img src="https://res.cloudinary.com/dmlwye965/image/upload/v1780076567/sinica_logo-c1a2490e2ea2a02ec5c1f5e8fe9a3bdca9b289f4ad34f3dda4aff201a176d12a_sk3ew3.png" width="13.5px" height="13.5px"></a> 
         <a href="https://tigp.sinica.edu.tw/pages/3127">Taiwan International Internship Program (TIIP) 2026</a> → Skipped due to partial funding issues ❎
+    </li>
+    <li>
+      ⚪ <a href="https://sciml.ai/dev/#sciml_summer_fellowship" target="_blank">
+        <img src="https://res.cloudinary.com/dmlwye965/image/upload/v1780358260/logo_fm5gn7.png" width="13.5px" height="13.5px"></a> 
+        <a href="https://sciml.ai/dev/#sciml_summer_fellowship">SciML Summer Fellowship 2026</a> → Wasn't aware, hence didn't apply ❎
     </li>
     <li>
       🟠 <a href="https://www.lti.cs.cmu.edu/news-and-events/news/2026-02-03-lt-for-all.html" target="_blank">
@@ -472,7 +477,7 @@ Other affiliations include being PA's in [TSoC](https://tsoc.dev/projects), [SSo
 
 
 > ⓘ **NOTE** <br/>
-If you're reading this, do know that the struggle for excellence is hard but worth mentioning. I've struggled psychologically, and I had to sacrifice a lot of things in the same process, be it living or non-living, but it's the good memories that stayed with me and propelled me forward. Sometimes, I get lost in the mess, but then I prepare for the worst and hope for the best. Like a lot of people, I'm not sure what the future holds for me. Regardless of what I do, I'll do it to the best of my ability, in order to perform my duty to impart a net good onto the human race! 😃
+If you're reading this, do know that the struggle for excellence is hard but worth mentioning. I've struggled psychologically, and I had to sacrifice a lot of things in the same process, be it living or non-living, but it's the good memories that stayed with me and propelled me forward. Much of my foundation is built on the challenges my parents had to endure and the risks they took to raise me. It is in large part my determination to vindicate their leap of faith and make them proud that drives my ambitions. Sometimes, I get lost in the mess, but then I prepare for the worst and hope for the best. Like a lot of people, I'm not sure what the future holds for me. Regardless of what I do, I'll do it to the best of my ability, in order to perform my duty to impart a net good onto the human race! 😃
 
 
 
