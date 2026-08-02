@@ -1,0 +1,13 @@
+tap "hashicorp/tap"
+
+## 💻 CLI Tools
+
+brew "hashicorp/tap/terraform"
+brew "asdf"
+
+## 🎨 GUI Apps
+
+cask "slack"
+cask "granola"
+cask "loom"
+cask "1password"

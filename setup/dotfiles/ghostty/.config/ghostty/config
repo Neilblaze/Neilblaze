@@ -1,0 +1,15 @@
+command = /opt/homebrew/bin/fish --login --interactive
+
+# theme = broadcast
+# theme = catppuccin-mocha
+theme = mellow
+
+# macos-option-as-alt = true
+
+font-size = 16
+
+window-decoration = true
+mouse-hide-while-typing = true
+
+background-opacity = 0.8
+background-blur-radius = 20
