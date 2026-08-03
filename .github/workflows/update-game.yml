@@ -5,6 +5,10 @@ on:
     - cron: '0 0 * * *'  # Daily at midnight
   workflow_dispatch:  # Allow manual trigger
 
+concurrency:
+  group: repo-writes
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
