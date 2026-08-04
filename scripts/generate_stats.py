@@ -3,6 +3,7 @@
 import base64
 import functools
 import json
+import math
 import os
 import sys
 import urllib.request
@@ -23,34 +24,30 @@ query($login: String!, $from: DateTime!, $to: DateTime!) {
 }
 """
 
-# One fixed palette per file, no prefers-color-scheme: inside an <img>-loaded
-# SVG that query reads the viewer's OS setting, not GitHub's theme toggle, so a
-# dark-OS/light-GitHub viewer would get pale ink on white at 1.1:1. The README
-# picks the file via <picture> instead. Every value clears 4.5:1 on its own
-# canvas -- the dim greys carry 11px labels and were the weak point in light.
-# surface is the endpoint dot's halo, so it must match GitHub's own canvas.
 LIGHT = dict(data="#57606a", emph="#424a53", dim="#656d76",
-             surface="#ffffff", wash=".13")
+             surface="#ffffff", graph="#2ea043", graph_peak="#56d364",
+             graph_fill_bottom="#238636", graph_fill_mid="#2ea043",
+             graph_fill_top="#56d364")
 DARK = dict(data="#c9d1d9", emph="#f0f6fc", dim="#8b949e",
-            surface="#0d1117", wash=".16")
+            surface="#0d1117", graph="#3fb950", graph_peak="#56d364",
+            graph_fill_bottom="#238636", graph_fill_mid="#3fb950",
+            graph_fill_top="#56d364")
 THEMES = dict(light=LIGHT, dark=DARK)
 MONO = ("JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,"
         "&apos;Liberation Mono&apos;,monospace")
 HERE = os.path.dirname(os.path.abspath(__file__))
 FONT_DIR = os.path.join(HERE, "fonts")
-# Anchored to the repo root rather than the cwd, so the output lands in the
-# same place whether the script is run from a workflow step or by hand.
+
 OUT_DIR = os.path.join(os.path.dirname(HERE), "assets", "stats")
 
 WIDTH = 620
 REVEAL = 1.30          # seconds
+DOT_R = 5              # endpoint marker; DOT_RING must match .endpoint's
+DOT_RING = 2.2         # stroke-width, since the edge clamp is derived from it
 
 
 @functools.lru_cache(maxsize=None)
 def face(filename, weight):
-    # An external font URL cannot work: these SVGs load through <img>, and
-    # browsers refuse to fetch subresources for an image document. Missing
-    # subsets are not fatal -- the MONO stack takes over.
     path = os.path.join(FONT_DIR, filename)
     if not os.path.exists(path):
         return ""
@@ -66,8 +63,6 @@ def font_text():
 
 
 def window():
-    # Pinned to whole UTC days: "the past year" measured from request time
-    # drifts days between week buckets and commits sparkline noise every night.
     today = datetime.now(timezone.utc).date()
     start = today - timedelta(days=364)
     return (f"{start.isoformat()}T00:00:00Z", f"{today.isoformat()}T23:59:59Z")
@@ -107,10 +102,21 @@ def summarise(user):
 
 def style(t):
     return (f"<style>{font_text()}"
-            f".d-f{{fill:{t['data']}}}.d-s{{stroke:{t['data']}}}"
+            f".d-f{{fill:{t['data']}}}"
             f".e-f{{fill:{t['emph']}}}.m-f{{fill:{t['dim']}}}"
-            f".r{{stroke:{t['surface']}}}"
-            f".w{{fill:{t['data']};opacity:{t['wash']}}}</style>")
+            f".graph-fill{{fill:url(#wash)}}"
+            f".graph-stroke{{stroke:{t['graph']};stroke-width:2.4;"
+            f"stroke-linecap:round;stroke-linejoin:round;fill:none}}"
+            f".endpoint{{fill:{t['surface']};stroke:{t['graph_peak']};"
+            f"stroke-width:{DOT_RING}}}</style>"
+            f"<defs><linearGradient id='wash' x1='0' y1='1' x2='0' y2='0'>"
+            f"<stop offset='0%' stop-color='{t['graph_fill_bottom']}' "
+            f"stop-opacity='.08'/>"
+            f"<stop offset='70%' stop-color='{t['graph_fill_mid']}' "
+            f"stop-opacity='.18'/>"
+            f"<stop offset='100%' stop-color='{t['graph_fill_top']}' "
+            f"stop-opacity='.42'/>"
+            f"</linearGradient></defs>")
 
 
 def head(w, h, t):
@@ -161,22 +167,23 @@ def draw_stats(s, t):
     base, top = H - 10, H - 58
     span = base - top
     step = WIDTH / max(len(weekly) - 1, 1)
-    pts = [(i * step, base - (v / peak) * span) for i, v in enumerate(weekly)]
+    pts = [(i * step, base - math.sqrt(v / peak) * span)
+           for i, v in enumerate(weekly)]
     clip, cursor = wipe("rs", 0, top - 6, WIDTH, span + 8, 0.50)
     p.append(clip)
     p.append('<g clip-path="url(#rs)">')
     p.append(f'<path d="M{pts[0][0]:.1f} {base:.1f}'
              + "".join(f'L{x:.1f} {y:.1f}' for x, y in pts)
-             + f'L{pts[-1][0]:.1f} {base:.1f}Z" class="w"/>')
+             + f'L{pts[-1][0]:.1f} {base:.1f}Z" class="graph-fill"/>')
     p.append(f'<path d="M{pts[0][0]:.1f} {pts[0][1]:.1f}'
              + "".join(f'L{x:.1f} {y:.1f}' for x, y in pts[1:])
-             + f'" class="d-s" stroke-width="2" stroke-linejoin="round" '
-             f'stroke-linecap="round"/>')
+             + f'" class="graph-stroke"/>')
     p.append("</g>")
     p.append(cursor)
     ex, ey = pts[-1]
-    p.append(f'<circle cx="{ex - 2:.1f}" cy="{ey:.1f}" r="4.5" class="e-f r" '
-             f'stroke-width="2" opacity="0">{fade(0.50 + REVEAL, 0.35)}</circle>')
+    cx = min(ex - 2, WIDTH - (DOT_R + DOT_RING / 2))
+    p.append(f'<circle cx="{cx:.1f}" cy="{ey:.1f}" r="{DOT_R}" class="endpoint" '
+             f'opacity="0">{fade(0.50 + REVEAL, 0.35)}</circle>')
     p.append("</svg>")
     return "".join(p)
 
