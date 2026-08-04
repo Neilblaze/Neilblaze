@@ -41,9 +41,15 @@ FONT_DIR = os.path.join(HERE, "fonts")
 OUT_DIR = os.path.join(os.path.dirname(HERE), "assets", "stats")
 
 WIDTH = 620
-REVEAL = 1.30          # seconds
-DOT_R = 5              # endpoint marker; DOT_RING must match .endpoint's
-DOT_RING = 2.2         # stroke-width, since the edge clamp is derived from it
+REVEAL = 1.30                       # seconds the line takes to draw itself
+GRAPH_IN = 0.45                     # when the line starts drawing
+DRAW_END = GRAPH_IN + REVEAL
+DOT_R = 5                           
+DOT_RING = 2.2                      # stroke-width, since the plot inset is derived from it
+PAD_R = DOT_R + DOT_RING / 2        # room so the endpoint ring lands flush, not clipped
+
+EASE_OUT = "0.22 1 0.36 1"          
+EASE_IN_OUT = "0.4 0 0.2 1"
 
 
 @functools.lru_cache(maxsize=None)
@@ -102,7 +108,6 @@ def summarise(user):
 
 def style(t):
     return (f"<style>{font_text()}"
-            f".d-f{{fill:{t['data']}}}"
             f".e-f{{fill:{t['emph']}}}.m-f{{fill:{t['dim']}}}"
             f".graph-fill{{fill:url(#wash)}}"
             f".graph-stroke{{stroke:{t['graph']};stroke-width:2.4;"
@@ -125,22 +130,14 @@ def head(w, h, t):
             + style(t))
 
 
-def fade(delay, dur=0.45):
-    return (f'<animate attributeName="opacity" from="0" to="1" '
+def anim(attr, frm, to, delay, dur, spline=EASE_OUT):
+    return (f'<animate attributeName="{attr}" values="{frm};{to}" '
+            f'keyTimes="0;1" calcMode="spline" keySplines="{spline}" '
             f'begin="{delay:.2f}s" dur="{dur}s" fill="freeze"/>')
 
 
-def wipe(cid, x, y, w, h, delay, dur=REVEAL):
-    clip = (f'<clipPath id="{cid}"><rect x="{x}" y="{y}" height="{h}" width="0">'
-            f'<animate attributeName="width" from="0" to="{w}" '
-            f'begin="{delay:.2f}s" dur="{dur}s" fill="freeze"/></rect></clipPath>')
-    cursor = (f'<rect y="{y}" width="2" height="{h}" class="d-f" opacity="0">'
-              f'<animate attributeName="x" from="{x}" to="{x + w}" '
-              f'begin="{delay:.2f}s" dur="{dur}s" fill="freeze"/>'
-              f'<set attributeName="opacity" to="0.55" begin="{delay:.2f}s"/>'
-              f'<set attributeName="opacity" to="0" '
-              f'begin="{delay + dur:.2f}s"/></rect>')
-    return clip, cursor
+def fade(delay, dur=0.45):
+    return anim("opacity", 0, 1, delay, dur)
 
 
 def label(x, y, text, size=11, cls="m-f", anchor="start", extra=""):
@@ -166,30 +163,32 @@ def draw_stats(s, t):
 
     base, top = H - 10, H - 58
     span = base - top
-    step = WIDTH / max(len(weekly) - 1, 1)
+    step = (WIDTH - PAD_R) / max(len(weekly) - 1, 1)
     pts = [(i * step, base - math.sqrt(v / peak) * span)
            for i, v in enumerate(weekly)]
-    clip, cursor = wipe("rs", 0, top - 6, WIDTH, span + 8, 0.50)
-    p.append(clip)
-    p.append('<g clip-path="url(#rs)">')
-    p.append(f'<path d="M{pts[0][0]:.1f} {base:.1f}'
-             + "".join(f'L{x:.1f} {y:.1f}' for x, y in pts)
-             + f'L{pts[-1][0]:.1f} {base:.1f}Z" class="graph-fill"/>')
-    p.append(f'<path d="M{pts[0][0]:.1f} {pts[0][1]:.1f}'
-             + "".join(f'L{x:.1f} {y:.1f}' for x, y in pts[1:])
-             + f'" class="graph-stroke"/>')
-    p.append("</g>")
-    p.append(cursor)
     ex, ey = pts[-1]
 
-    cx = min(ex - 2, WIDTH - (DOT_R + DOT_RING / 2))
+    p.append(f'<path opacity="0" d="M{pts[0][0]:.1f} {base:.1f}'
+             + "".join(f'L{x:.1f} {y:.1f}' for x, y in pts)
+             + f'L{ex:.1f} {base:.1f}Z" class="graph-fill">'
+             + anim("opacity", 0, 1, DRAW_END - 0.18, 0.75, EASE_IN_OUT)
+             + '</path>')
+
+    p.append(f'<path d="M{pts[0][0]:.1f} {pts[0][1]:.1f}'
+             + "".join(f'L{x:.1f} {y:.1f}' for x, y in pts[1:])
+             + f'" class="graph-stroke" pathLength="1000" '
+             f'stroke-dasharray="1000" stroke-dashoffset="1000">'
+             + anim("stroke-dashoffset", 1000, 0, GRAPH_IN, REVEAL)
+             + '</path>')
 
     p.append(
-        f'<circle cx="{cx:.1f}" cy="{ey:.1f}" '
-        f'r="{DOT_R}" class="endpoint" opacity="0">'
-        f'{fade(0.50 + REVEAL, 0.35)}'
-        f'</circle>'
-    )
+        f'<circle cx="{ex:.1f}" cy="{ey:.1f}" r="0" class="endpoint" opacity="0">'
+        + anim("opacity", 0, 1, DRAW_END, 0.24)
+        + f'<animate attributeName="r" values="0;{DOT_R * 1.18:.2f};{DOT_R}" '
+        f'keyTimes="0;0.6;1" calcMode="spline" '
+        f'keySplines="{EASE_OUT};{EASE_IN_OUT}" '
+        f'begin="{DRAW_END:.2f}s" dur="0.42s" fill="freeze"/>'
+        + '</circle>')
     p.append("</svg>")
     return "".join(p)
 
