@@ -181,9 +181,15 @@ def draw_stats(s, t):
     p.append("</g>")
     p.append(cursor)
     ex, ey = pts[-1]
+
     cx = min(ex - 2, WIDTH - (DOT_R + DOT_RING / 2))
-    p.append(f'<circle cx="{cx:.1f}" cy="{ey:.1f}" r="{DOT_R}" class="endpoint" '
-             f'opacity="0">{fade(0.50 + REVEAL, 0.35)}</circle>')
+
+    p.append(
+        f'<circle cx="{cx:.1f}" cy="{ey:.1f}" '
+        f'r="{DOT_R}" class="endpoint" opacity="0">'
+        f'{fade(0.50 + REVEAL, 0.35)}'
+        f'</circle>'
+    )
     p.append("</svg>")
     return "".join(p)
 
