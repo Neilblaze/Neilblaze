@@ -1,0 +1,30 @@
+syntax on
+
+filetype plugin indent on                                                 
+set autoindent                                                            
+set background=dark                                                       
+set backspace=indent,eol,start                                            
+set mouse=a                                                               
+set number                                                                
+set showmatch                                                             
+set smartcase                                                             
+set smartindent                                                           
+set tabstop=4                                                             
+set shiftwidth=4                                                          
+set softtabstop=4                                                         
+set expandtab                                                             
+set termguicolors                                                         
+set hlsearch                                                              
+set incsearch                                                             
+set laststatus=2                                                          
+set noshowmode                                                            
+set splitbelow                                                            
+set splitright                                                            
+set wildmenu                                                              
+set wildmode=list:longest                                                 
+set ttimeoutlen=0                                                         
+set ruler                                                                 
+set cursorline                                                            
+set undofile                                                              
+set undodir=~/.vim/undodir/                                               
+set encoding=utf-8         

@@ -1,0 +1,7 @@
+.DS_Store
+
+nvim/.config/nvim/lazy-lock.json
+tmux/plugins/
+history.txt
+
+Brewfile-*
