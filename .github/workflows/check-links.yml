@@ -1,0 +1,57 @@
+name: checks/link-exists-or-not
+
+on:
+  schedule:
+    - cron: '0 12 1,22 * *'  # Every ~3 weeks (1st and 22nd of each month)
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths: ['README.md']
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --verbose
+            --no-progress
+            --accept 200,204,301,302,403
+            --exclude 'git.io'
+            --exclude 'komarev.com'
+            --exclude 'readme-typing-svg.demolab.com'
+            --exclude 'streak-stats.demolab.com'
+            --exclude 'github-readme-stats.vercel.app'
+            --exclude 'github-readme-activity-graph.vercel.app'
+            --exclude 'readme-typing-svg.herokuapp.com'
+            --exclude 'github-readme-streak-stats.herokuapp.com'
+            --exclude 'spotify-recently-played-readme.vercel.app'
+            --exclude 'media0.giphy.com'
+            --exclude 'img.shields.io'
+            --exclude 'latex.codecogs.com'
+            --exclude 'mailto:'
+            --exclude '\.svg$'
+            --exclude '\.png$'
+            --exclude '\.mmd$'
+            --max-concurrency 10
+            README.md
+          fail: false
+
+      - name: Create Issue on Failure
+        if: failure()
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: "Dead links found in README"
+          content-filepath: ./lychee/out.md
+          labels: bug,automated
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

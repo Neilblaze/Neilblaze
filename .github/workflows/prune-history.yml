@@ -1,0 +1,49 @@
+name: scheduled/prune-history
+
+on:
+  schedule:
+    - cron: '0 3 1 * *'  # Monthly, 03:00 UTC on the 1st
+  workflow_dispatch:
+    inputs:
+      keep_days:
+        description: 'Days of history to retain'
+        required: false
+        default: '30'
+      dry_run:
+        description: 'Report what would be dropped without rewriting'
+        type: boolean
+        required: false
+        default: true
+
+concurrency:
+  group: repo-writes
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  prune:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 
+
+      - name: Install git-filter-repo
+        run: pipx install git-filter-repo
+
+      - name: Prune history
+        id: prune
+        env:
+          KEEP_DAYS: ${{ github.event.inputs.keep_days || '30' }}
+          DRY_RUN: ${{ github.event.inputs.dry_run || 'false' }}
+        run: bash scripts/prune_history.sh
+
+      - name: Force-push rewritten history
+        if: github.event.inputs.dry_run != 'true'
+        run: |
+          # filter-repo drops the remote by design; restore it to push.
+          git remote add origin \
+            "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git"
+          git push --force origin "HEAD:refs/heads/${{ github.ref_name }}"
